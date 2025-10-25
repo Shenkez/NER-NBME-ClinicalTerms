@@ -1,0 +1,33 @@
+# --- Core Runtime ---
+python-multipart==0.0.9
+typing_extensions==4.12.2
+urllib3==2.2.2
+requests==2.32.3
+certifi>=2024.2.0
+
+# --- ML / Hugging Face Stack ---
+torch==2.2.1
+transformers==4.44.2
+huggingface-hub==0.24.5
+tokenizers==0.19.1
+fsspec==2024.2.0
+tqdm==4.66.4
+
+# --- Web Framework (for Spaces or API) ---
+fastapi==0.115.5
+starlette==0.41.3
+uvicorn==0.30.5
+
+# --- Gradio UI ---
+gradio==4.42.0
+pydantic==2.7.4
+
+# --- Utilities ---
+numpy==1.26.4
+pandas==2.2.2
+Pillow==10.3.0
+
+# --- Optional visualization / debugging tools ---
+matplotlib==3.9.0
+plotly
+

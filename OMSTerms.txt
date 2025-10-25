@@ -1,0 +1,244 @@
+OMS matches for : syncope 53    29.07
+Name: Omaha Code, dtype: object 53    271594007
+Name: SNOMED CT concept ID, dtype: object Syncope (disorder) PB0029 Circulation Surveillance SS2907 Syncopal Episodes (Fainting)/Dizziness
+OMS matches for : syncope 53    29.07
+Name: Omaha Code, dtype: object 53    271594007
+Name: SNOMED CT concept ID, dtype: object Syncope (disorder) PB0029 Circulation Surveillance SS2907 Syncopal Episodes (Fainting)/Dizziness
+OMS matches for : undice 102    30.08
+Name: Omaha Code, dtype: object 102    18165001
+Name: SNOMED CT concept ID, dtype: object Jaundice (finding) PB0030 Digestion-hydration Surveillance SS3008 Jaundice/liver enlargement
+OMS matches for : undice 102    30.08
+Name: Omaha Code, dtype: object 102    18165001
+Name: SNOMED CT concept ID, dtype: object Jaundice (finding) PB0030 Digestion-hydration Surveillance SS3008 Jaundice/liver enlargement
+OMS matches for : fatigue 206    12.10
+Name: Omaha Code, dtype: object 206    84229001
+Name: SNOMED CT concept ID, dtype: object Fatigue (finding) PB0012 Mental health Surveillance SS1210 Somatic complaints/fatigue
+OMS matches for : fatigue 206    12.10
+Name: Omaha Code, dtype: object 206    84229001
+Name: SNOMED CT concept ID, dtype: object Fatigue (finding) PB0012 Mental health Surveillance SS1210 Somatic complaints/fatigue
+nan
+nan
+nan
+nan
+OMS matches for : sleep 246    02.45
+361    01.45
+405    03.45
+454    04.45
+747    36.08
+748    36.03
+749       36
+753    36.06
+755    36.01
+756    36.06
+Name: Omaha Code, dtype: object 246    225206006
+361    410305008
+405    410352002
+454    410409001
+747     73430006
+748     80495009
+749    106021008
+753    422730001
+755    423439006
+756    425202006
+Name: SNOMED CT concept ID, dtype: object Sleep apnea (disorder) PB0036 Sleep and rest patterns Surveillance SS3608 Sleep apnea
+OMS matches for : sleep 246    02.45
+361    01.45
+405    03.45
+454    04.45
+747    36.08
+748    36.03
+749       36
+753    36.06
+755    36.01
+756    36.06
+Name: Omaha Code, dtype: object 246    225206006
+361    410305008
+405    410352002
+454    410409001
+747     73430006
+748     80495009
+749    106021008
+753    422730001
+755    423439006
+756    425202006
+Name: SNOMED CT concept ID, dtype: object Sleep walking disorder (disorder) PB0036 Sleep and rest patterns Surveillance SS3603 Sleepwalking
+nan
+OMS matches for : sleep 246    02.45
+361    01.45
+405    03.45
+454    04.45
+747    36.08
+748    36.03
+749       36
+753    36.06
+755    36.01
+756    36.06
+Name: Omaha Code, dtype: object 246    225206006
+361    410305008
+405    410352002
+454    410409001
+747     73430006
+748     80495009
+749    106021008
+753    422730001
+755    423439006
+756    425202006
+Name: SNOMED CT concept ID, dtype: object Insufficient rest/sleep for physical condition (finding) PB0036 Sleep and rest patterns Surveillance SS3606 Insufficient sleep/rest for age/physical condition
+OMS matches for : sleep 246    02.45
+361    01.45
+405    03.45
+454    04.45
+747    36.08
+748    36.03
+749       36
+753    36.06
+755    36.01
+756    36.06
+Name: Omaha Code, dtype: object 246    225206006
+361    410305008
+405    410352002
+454    410409001
+747     73430006
+748     80495009
+749    106021008
+753    422730001
+755    423439006
+756    425202006
+Name: SNOMED CT concept ID, dtype: object Sleep pattern disrupts family lifestyle (finding) PB0036 Sleep and rest patterns Surveillance SS3601 Sleep/rest pattern disrupts family
+OMS matches for : sleep 246    02.45
+361    01.45
+405    03.45
+454    04.45
+747    36.08
+748    36.03
+749       36
+753    36.06
+755    36.01
+756    36.06
+Name: Omaha Code, dtype: object 246    225206006
+361    410305008
+405    410352002
+454    410409001
+747     73430006
+748     80495009
+749    106021008
+753    422730001
+755    423439006
+756    425202006
+Name: SNOMED CT concept ID, dtype: object Insufficient rest/sleep for age (finding) PB0036 Sleep and rest patterns Surveillance SS3606 Insufficient sleep/rest for age/physical condition
+nan
+nan
+nan
+nan
+OMS matches for : sleep 246    02.45
+361    01.45
+405    03.45
+454    04.45
+747    36.08
+748    36.03
+749       36
+753    36.06
+755    36.01
+756    36.06
+Name: Omaha Code, dtype: object 246    225206006
+361    410305008
+405    410352002
+454    410409001
+747     73430006
+748     80495009
+749    106021008
+753    422730001
+755    423439006
+756    425202006
+Name: SNOMED CT concept ID, dtype: object Sleep apnea (disorder) PB0036 Sleep and rest patterns Surveillance SS3608 Sleep apnea
+OMS matches for : sleep 246    02.45
+361    01.45
+405    03.45
+454    04.45
+747    36.08
+748    36.03
+749       36
+753    36.06
+755    36.01
+756    36.06
+Name: Omaha Code, dtype: object 246    225206006
+361    410305008
+405    410352002
+454    410409001
+747     73430006
+748     80495009
+749    106021008
+753    422730001
+755    423439006
+756    425202006
+Name: SNOMED CT concept ID, dtype: object Sleep walking disorder (disorder) PB0036 Sleep and rest patterns Surveillance SS3603 Sleepwalking
+nan
+OMS matches for : sleep 246    02.45
+361    01.45
+405    03.45
+454    04.45
+747    36.08
+748    36.03
+749       36
+753    36.06
+755    36.01
+756    36.06
+Name: Omaha Code, dtype: object 246    225206006
+361    410305008
+405    410352002
+454    410409001
+747     73430006
+748     80495009
+749    106021008
+753    422730001
+755    423439006
+756    425202006
+Name: SNOMED CT concept ID, dtype: object Insufficient rest/sleep for physical condition (finding) PB0036 Sleep and rest patterns Surveillance SS3606 Insufficient sleep/rest for age/physical condition
+OMS matches for : sleep 246    02.45
+361    01.45
+405    03.45
+454    04.45
+747    36.08
+748    36.03
+749       36
+753    36.06
+755    36.01
+756    36.06
+Name: Omaha Code, dtype: object 246    225206006
+361    410305008
+405    410352002
+454    410409001
+747     73430006
+748     80495009
+749    106021008
+753    422730001
+755    423439006
+756    425202006
+Name: SNOMED CT concept ID, dtype: object Sleep pattern disrupts family lifestyle (finding) PB0036 Sleep and rest patterns Surveillance SS3601 Sleep/rest pattern disrupts family
+OMS matches for : sleep 246    02.45
+361    01.45
+405    03.45
+454    04.45
+747    36.08
+748    36.03
+749       36
+753    36.06
+755    36.01
+756    36.06
+Name: Omaha Code, dtype: object 246    225206006
+361    410305008
+405    410352002
+454    410409001
+747     73430006
+748     80495009
+749    106021008
+753    422730001
+755    423439006
+756    425202006
+Name: SNOMED CT concept ID, dtype: object Insufficient rest/sleep for age (finding) PB0036 Sleep and rest patterns Surveillance SS3606 Insufficient sleep/rest for age/physical condition
+OMS matches for : syncope 53    29.07
+Name: Omaha Code, dtype: object 53    271594007
+Name: SNOMED CT concept ID, dtype: object Syncope (disorder) PB0029 Circulation Surveillance SS2907 Syncopal Episodes (Fainting)/Dizziness
+OMS matches for : syncope 53    29.07
+Name: Omaha Code, dtype: object 53    271594007
+Name: SNOMED CT concept ID, dtype: object Syncope (disorder) PB0029 Circulation Surveillance SS2907 Syncopal Episodes (Fainting)/Dizziness

@@ -1,0 +1,18 @@
+[
+  {
+    "text": "In March and April the patient had two falls.  One was related to asthma, heart palpitations.  The second was due to syncope and post covid vaccination dizziness during exercise.  The patient is now getting an EKG.  Former EKG had shown that there was a bundle branch block.  Patient had some uncontrolled immune system reactions like anaphylaxis and shortness of breath.",
+    "label": 3
+  },
+  {
+    "text": "During the fertility engagement, there was alot of anxiety and we just felt depressed.  It was difficult but finally after nutrition advice and changing habits such as cutting out smoking and improving daily activities we felt less agitated.  Then our baby came.  When he was born in December he had some minor jaundice but nothing serious, yet we had problems sleeping.  Both of us felt so relieved to have had the help, and now that the baby doesn't cry all night, we feel less fatigue and can sleep through night.",
+    "label": 2
+  },
+  {
+    "text": "51 y/o male with history of skin cancer, asthma, allergic to NSAIDS, dogs, cats, mold.  Daily long distance swimming helped breathing problems.  COVID reactions were severe yet recovery was fastest when maintaining a healthy diet, low fat and chloresterol, as well as limiting sugar intake.",
+    "label": 0
+  },
+  {
+    "text": "SNOMEDCT 183452005 is an emergency hospital encounter.  CPT 99378 is an intervention with supervision of a hospice patient.  HCPCS T2046 Hospice long term care, room and board only; per diem.  LOINC for Care Plan Document Type is code 80748-7 - Clinical genetics Plan of care note.  LOINC Care Plan Document Type 80751-1 is a Dermatology Plan of care note.  ICD10CM M84.371A is a Stress fracture, right ankle, initial encounter for fracture which is a Condition/Diagnosis/Problem Lower Body Fracture.  The purpose of this value set is to represent concepts for a diagnosis of a fracture of a bone in the lower body.",
+    "label": 1
+  }
+]

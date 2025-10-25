@@ -1,0 +1,598 @@
+ICD10 matches for : syncope G9001 Carotid sinus syncope
+ICD10 matches for : syncope R054 Cough syncope
+ICD10 matches for : syncope R55 Syncope and collapse
+ICD10 matches for : syncope T671XXA Heat syncope, initial encounter
+ICD10 matches for : syncope T671XXD Heat syncope, subsequent encounter
+ICD10 matches for : syncope T671XXS Heat syncope, sequela
+ICD10 matches for : syncope G9001 Carotid sinus syncope
+ICD10 matches for : syncope R054 Cough syncope
+ICD10 matches for : syncope R55 Syncope and collapse
+ICD10 matches for : syncope T671XXA Heat syncope, initial encounter
+ICD10 matches for : syncope T671XXD Heat syncope, subsequent encounter
+ICD10 matches for : syncope T671XXS Heat syncope, sequela
+ICD10 matches for : zziness R42 Dizziness and giddiness
+ICD10 matches for : zziness R42 Dizziness and giddiness
+ICD10 matches for : reactions F438 Other reactions to severe stress
+ICD10 matches for : reactions M364 Arthropathy in hypersensitivity reactions classified elsewhere
+ICD10 matches for : reactions P938 Other reactions and intoxications due to drugs administered to newborn
+ICD10 matches for : reactions T781XXA Other adverse food reactions, not elsewhere classified, initial encounter
+ICD10 matches for : reactions T781XXD Other adverse food reactions, not elsewhere classified, subsequent encounter
+ICD10 matches for : reactions T781XXS Other adverse food reactions, not elsewhere classified, sequela
+ICD10 matches for : phyla T7800XA Anaphylactic reaction due to unspecified food, initial encounter
+ICD10 matches for : phyla T7800XD Anaphylactic reaction due to unspecified food, subsequent encounter
+ICD10 matches for : phyla T7800XS Anaphylactic reaction due to unspecified food, sequela
+ICD10 matches for : phyla T7801XA Anaphylactic reaction due to peanuts, initial encounter
+ICD10 matches for : phyla T7801XD Anaphylactic reaction due to peanuts, subsequent encounter
+ICD10 matches for : phyla T7801XS Anaphylactic reaction due to peanuts, sequela
+ICD10 matches for : phyla T7802XA Anaphylactic reaction due to shellfish (crustaceans), initial encounter
+ICD10 matches for : phyla T7802XD Anaphylactic reaction due to shellfish (crustaceans), subsequent encounter
+ICD10 matches for : phyla T7802XS Anaphylactic reaction due to shellfish (crustaceans), sequela
+ICD10 matches for : phyla T7803XA Anaphylactic reaction due to other fish, initial encounter
+ICD10 matches for : phyla T7803XD Anaphylactic reaction due to other fish, subsequent encounter
+ICD10 matches for : phyla T7803XS Anaphylactic reaction due to other fish, sequela
+ICD10 matches for : phyla T7804XA Anaphylactic reaction due to fruits and vegetables, initial encounter
+ICD10 matches for : phyla T7804XD Anaphylactic reaction due to fruits and vegetables, subsequent encounter
+ICD10 matches for : phyla T7804XS Anaphylactic reaction due to fruits and vegetables, sequela
+ICD10 matches for : phyla T7805XA Anaphylactic reaction due to tree nuts and seeds, initial encounter
+ICD10 matches for : phyla T7805XD Anaphylactic reaction due to tree nuts and seeds, subsequent encounter
+ICD10 matches for : phyla T7805XS Anaphylactic reaction due to tree nuts and seeds, sequela
+ICD10 matches for : phyla T7806XA Anaphylactic reaction due to food additives, initial encounter
+ICD10 matches for : phyla T7806XD Anaphylactic reaction due to food additives, subsequent encounter
+ICD10 matches for : phyla T7806XS Anaphylactic reaction due to food additives, sequela
+ICD10 matches for : phyla T7807XA Anaphylactic reaction due to milk and dairy products, initial encounter
+ICD10 matches for : phyla T7807XD Anaphylactic reaction due to milk and dairy products, subsequent encounter
+ICD10 matches for : phyla T7807XS Anaphylactic reaction due to milk and dairy products, sequela
+ICD10 matches for : phyla T7808XA Anaphylactic reaction due to eggs, initial encounter
+ICD10 matches for : phyla T7808XD Anaphylactic reaction due to eggs, subsequent encounter
+ICD10 matches for : phyla T7808XS Anaphylactic reaction due to eggs, sequela
+ICD10 matches for : phyla T7809XA Anaphylactic reaction due to other food products, initial encounter
+ICD10 matches for : phyla T7809XD Anaphylactic reaction due to other food products, subsequent encounter
+ICD10 matches for : phyla T7809XS Anaphylactic reaction due to other food products, sequela
+ICD10 matches for : phyla T782XXA Anaphylactic shock, unspecified, initial encounter
+ICD10 matches for : phyla T782XXD Anaphylactic shock, unspecified, subsequent encounter
+ICD10 matches for : phyla T782XXS Anaphylactic shock, unspecified, sequela
+ICD10 matches for : phyla T8051XA Anaphylactic reaction due to administration of blood and blood products, initial encounter
+ICD10 matches for : phyla T8051XD Anaphylactic reaction due to administration of blood and blood products, subsequent encounter
+ICD10 matches for : phyla T8051XS Anaphylactic reaction due to administration of blood and blood products, sequela
+ICD10 matches for : phyla T8052XA Anaphylactic reaction due to vaccination, initial encounter
+ICD10 matches for : phyla T8052XD Anaphylactic reaction due to vaccination, subsequent encounter
+ICD10 matches for : phyla T8052XS Anaphylactic reaction due to vaccination, sequela
+ICD10 matches for : phyla T8059XA Anaphylactic reaction due to other serum, initial encounter
+ICD10 matches for : phyla T8059XD Anaphylactic reaction due to other serum, subsequent encounter
+ICD10 matches for : phyla T8059XS Anaphylactic reaction due to other serum, sequela
+ICD10 matches for : phyla T886XXA Anaphylactic reaction due to adverse effect of correct drug or medicament properly administered, initial encounter
+ICD10 matches for : phyla T886XXD Anaphylactic reaction due to adverse effect of correct drug or medicament properly administered, subsequent encounter
+ICD10 matches for : phyla T886XXS Anaphylactic reaction due to adverse effect of correct drug or medicament properly administered, sequela
+ICD10 matches for : phyla Z2911 Encounter for prophylactic immunotherapy for respiratory syncytial virus (RSV)
+ICD10 matches for : phyla Z2912 Encounter for prophylactic antivenin
+ICD10 matches for : phyla Z2913 Encounter for prophylactic Rho(D) immune globulin
+ICD10 matches for : phyla Z2914 Encounter for prophylactic rabies immune globin
+ICD10 matches for : phyla Z293 Encounter for prophylactic fluoride administration
+ICD10 matches for : phyla Z298 Encounter for other specified prophylactic measures
+ICD10 matches for : phyla Z299 Encounter for prophylactic measures, unspecified
+ICD10 matches for : phyla Z4000 Encounter for prophylactic removal of unspecified organ
+ICD10 matches for : phyla Z4001 Encounter for prophylactic removal of breast
+ICD10 matches for : phyla Z4002 Encounter for prophylactic removal of ovary(s)
+ICD10 matches for : phyla Z4003 Encounter for prophylactic removal of fallopian tube(s)
+ICD10 matches for : phyla Z4009 Encounter for prophylactic removal of other organ
+ICD10 matches for : phyla Z408 Encounter for other prophylactic surgery
+ICD10 matches for : phyla Z409 Encounter for prophylactic surgery, unspecified
+ICD10 matches for : phyla Z87892 Personal history of anaphylaxis
+ICD10 matches for : reactions F438 Other reactions to severe stress
+ICD10 matches for : reactions M364 Arthropathy in hypersensitivity reactions classified elsewhere
+ICD10 matches for : reactions P938 Other reactions and intoxications due to drugs administered to newborn
+ICD10 matches for : reactions T781XXA Other adverse food reactions, not elsewhere classified, initial encounter
+ICD10 matches for : reactions T781XXD Other adverse food reactions, not elsewhere classified, subsequent encounter
+ICD10 matches for : reactions T781XXS Other adverse food reactions, not elsewhere classified, sequela
+ICD10 matches for : shortness of R0602 Shortness of breath
+ICD10 matches for : phyla T7800XA Anaphylactic reaction due to unspecified food, initial encounter
+ICD10 matches for : phyla T7800XD Anaphylactic reaction due to unspecified food, subsequent encounter
+ICD10 matches for : phyla T7800XS Anaphylactic reaction due to unspecified food, sequela
+ICD10 matches for : phyla T7801XA Anaphylactic reaction due to peanuts, initial encounter
+ICD10 matches for : phyla T7801XD Anaphylactic reaction due to peanuts, subsequent encounter
+ICD10 matches for : phyla T7801XS Anaphylactic reaction due to peanuts, sequela
+ICD10 matches for : phyla T7802XA Anaphylactic reaction due to shellfish (crustaceans), initial encounter
+ICD10 matches for : phyla T7802XD Anaphylactic reaction due to shellfish (crustaceans), subsequent encounter
+ICD10 matches for : phyla T7802XS Anaphylactic reaction due to shellfish (crustaceans), sequela
+ICD10 matches for : phyla T7803XA Anaphylactic reaction due to other fish, initial encounter
+ICD10 matches for : phyla T7803XD Anaphylactic reaction due to other fish, subsequent encounter
+ICD10 matches for : phyla T7803XS Anaphylactic reaction due to other fish, sequela
+ICD10 matches for : phyla T7804XA Anaphylactic reaction due to fruits and vegetables, initial encounter
+ICD10 matches for : phyla T7804XD Anaphylactic reaction due to fruits and vegetables, subsequent encounter
+ICD10 matches for : phyla T7804XS Anaphylactic reaction due to fruits and vegetables, sequela
+ICD10 matches for : phyla T7805XA Anaphylactic reaction due to tree nuts and seeds, initial encounter
+ICD10 matches for : phyla T7805XD Anaphylactic reaction due to tree nuts and seeds, subsequent encounter
+ICD10 matches for : phyla T7805XS Anaphylactic reaction due to tree nuts and seeds, sequela
+ICD10 matches for : phyla T7806XA Anaphylactic reaction due to food additives, initial encounter
+ICD10 matches for : phyla T7806XD Anaphylactic reaction due to food additives, subsequent encounter
+ICD10 matches for : phyla T7806XS Anaphylactic reaction due to food additives, sequela
+ICD10 matches for : phyla T7807XA Anaphylactic reaction due to milk and dairy products, initial encounter
+ICD10 matches for : phyla T7807XD Anaphylactic reaction due to milk and dairy products, subsequent encounter
+ICD10 matches for : phyla T7807XS Anaphylactic reaction due to milk and dairy products, sequela
+ICD10 matches for : phyla T7808XA Anaphylactic reaction due to eggs, initial encounter
+ICD10 matches for : phyla T7808XD Anaphylactic reaction due to eggs, subsequent encounter
+ICD10 matches for : phyla T7808XS Anaphylactic reaction due to eggs, sequela
+ICD10 matches for : phyla T7809XA Anaphylactic reaction due to other food products, initial encounter
+ICD10 matches for : phyla T7809XD Anaphylactic reaction due to other food products, subsequent encounter
+ICD10 matches for : phyla T7809XS Anaphylactic reaction due to other food products, sequela
+ICD10 matches for : phyla T782XXA Anaphylactic shock, unspecified, initial encounter
+ICD10 matches for : phyla T782XXD Anaphylactic shock, unspecified, subsequent encounter
+ICD10 matches for : phyla T782XXS Anaphylactic shock, unspecified, sequela
+ICD10 matches for : phyla T8051XA Anaphylactic reaction due to administration of blood and blood products, initial encounter
+ICD10 matches for : phyla T8051XD Anaphylactic reaction due to administration of blood and blood products, subsequent encounter
+ICD10 matches for : phyla T8051XS Anaphylactic reaction due to administration of blood and blood products, sequela
+ICD10 matches for : phyla T8052XA Anaphylactic reaction due to vaccination, initial encounter
+ICD10 matches for : phyla T8052XD Anaphylactic reaction due to vaccination, subsequent encounter
+ICD10 matches for : phyla T8052XS Anaphylactic reaction due to vaccination, sequela
+ICD10 matches for : phyla T8059XA Anaphylactic reaction due to other serum, initial encounter
+ICD10 matches for : phyla T8059XD Anaphylactic reaction due to other serum, subsequent encounter
+ICD10 matches for : phyla T8059XS Anaphylactic reaction due to other serum, sequela
+ICD10 matches for : phyla T886XXA Anaphylactic reaction due to adverse effect of correct drug or medicament properly administered, initial encounter
+ICD10 matches for : phyla T886XXD Anaphylactic reaction due to adverse effect of correct drug or medicament properly administered, subsequent encounter
+ICD10 matches for : phyla T886XXS Anaphylactic reaction due to adverse effect of correct drug or medicament properly administered, sequela
+ICD10 matches for : phyla Z2911 Encounter for prophylactic immunotherapy for respiratory syncytial virus (RSV)
+ICD10 matches for : phyla Z2912 Encounter for prophylactic antivenin
+ICD10 matches for : phyla Z2913 Encounter for prophylactic Rho(D) immune globulin
+ICD10 matches for : phyla Z2914 Encounter for prophylactic rabies immune globin
+ICD10 matches for : phyla Z293 Encounter for prophylactic fluoride administration
+ICD10 matches for : phyla Z298 Encounter for other specified prophylactic measures
+ICD10 matches for : phyla Z299 Encounter for prophylactic measures, unspecified
+ICD10 matches for : phyla Z4000 Encounter for prophylactic removal of unspecified organ
+ICD10 matches for : phyla Z4001 Encounter for prophylactic removal of breast
+ICD10 matches for : phyla Z4002 Encounter for prophylactic removal of ovary(s)
+ICD10 matches for : phyla Z4003 Encounter for prophylactic removal of fallopian tube(s)
+ICD10 matches for : phyla Z4009 Encounter for prophylactic removal of other organ
+ICD10 matches for : phyla Z408 Encounter for other prophylactic surgery
+ICD10 matches for : phyla Z409 Encounter for prophylactic surgery, unspecified
+ICD10 matches for : phyla Z87892 Personal history of anaphylaxis
+ICD10 matches for : shortness of R0602 Shortness of breath
+ICD10 matches for : anxiety F064 Anxiety disorder due to known physiological condition
+ICD10 matches for : anxiety F10180 Alcohol abuse with alcohol-induced anxiety disorder
+ICD10 matches for : anxiety F10280 Alcohol dependence with alcohol-induced anxiety disorder
+ICD10 matches for : anxiety F10980 Alcohol use, unspecified with alcohol-induced anxiety disorder
+ICD10 matches for : anxiety F12180 Cannabis abuse with cannabis-induced anxiety disorder
+ICD10 matches for : anxiety F12280 Cannabis dependence with cannabis-induced anxiety disorder
+ICD10 matches for : anxiety F12980 Cannabis use, unspecified with anxiety disorder
+ICD10 matches for : anxiety F13180 Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced anxiety disorder
+ICD10 matches for : anxiety F13280 Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced anxiety disorder
+ICD10 matches for : anxiety F13980 Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced anxiety disorder
+ICD10 matches for : anxiety F14180 Cocaine abuse with cocaine-induced anxiety disorder
+ICD10 matches for : anxiety F14280 Cocaine dependence with cocaine-induced anxiety disorder
+ICD10 matches for : anxiety F14980 Cocaine use, unspecified with cocaine-induced anxiety disorder
+ICD10 matches for : anxiety F15180 Other stimulant abuse with stimulant-induced anxiety disorder
+ICD10 matches for : anxiety F15280 Other stimulant dependence with stimulant-induced anxiety disorder
+ICD10 matches for : anxiety F15980 Other stimulant use, unspecified with stimulant-induced anxiety disorder
+ICD10 matches for : anxiety F16180 Hallucinogen abuse with hallucinogen-induced anxiety disorder
+ICD10 matches for : anxiety F16280 Hallucinogen dependence with hallucinogen-induced anxiety disorder
+ICD10 matches for : anxiety F16980 Hallucinogen use, unspecified with hallucinogen-induced anxiety disorder
+ICD10 matches for : anxiety F18180 Inhalant abuse with inhalant-induced anxiety disorder
+ICD10 matches for : anxiety F18280 Inhalant dependence with inhalant-induced anxiety disorder
+ICD10 matches for : anxiety F18980 Inhalant use, unspecified with inhalant-induced anxiety disorder
+ICD10 matches for : anxiety F19180 Other psychoactive substance abuse with psychoactive substance-induced anxiety disorder
+ICD10 matches for : anxiety F19280 Other psychoactive substance dependence with psychoactive substance-induced anxiety disorder
+ICD10 matches for : anxiety F19980 Other psychoactive substance use, unspecified with psychoactive substance-induced anxiety disorder
+ICD10 matches for : anxiety F408 Other phobic anxiety disorders
+ICD10 matches for : anxiety F409 Phobic anxiety disorder, unspecified
+ICD10 matches for : anxiety F410 Panic disorder [episodic paroxysmal anxiety]
+ICD10 matches for : anxiety F411 Generalized anxiety disorder
+ICD10 matches for : anxiety F413 Other mixed anxiety disorders
+ICD10 matches for : anxiety F418 Other specified anxiety disorders
+ICD10 matches for : anxiety F419 Anxiety disorder, unspecified
+ICD10 matches for : anxiety F4322 Adjustment disorder with anxiety
+ICD10 matches for : anxiety F4323 Adjustment disorder with mixed anxiety and depressed mood
+ICD10 matches for : anxiety F930 Separation anxiety disorder of childhood
+ICD10 matches for : anxiety F064 Anxiety disorder due to known physiological condition
+ICD10 matches for : anxiety F10180 Alcohol abuse with alcohol-induced anxiety disorder
+ICD10 matches for : anxiety F10280 Alcohol dependence with alcohol-induced anxiety disorder
+ICD10 matches for : anxiety F10980 Alcohol use, unspecified with alcohol-induced anxiety disorder
+ICD10 matches for : anxiety F12180 Cannabis abuse with cannabis-induced anxiety disorder
+ICD10 matches for : anxiety F12280 Cannabis dependence with cannabis-induced anxiety disorder
+ICD10 matches for : anxiety F12980 Cannabis use, unspecified with anxiety disorder
+ICD10 matches for : anxiety F13180 Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced anxiety disorder
+ICD10 matches for : anxiety F13280 Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced anxiety disorder
+ICD10 matches for : anxiety F13980 Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced anxiety disorder
+ICD10 matches for : anxiety F14180 Cocaine abuse with cocaine-induced anxiety disorder
+ICD10 matches for : anxiety F14280 Cocaine dependence with cocaine-induced anxiety disorder
+ICD10 matches for : anxiety F14980 Cocaine use, unspecified with cocaine-induced anxiety disorder
+ICD10 matches for : anxiety F15180 Other stimulant abuse with stimulant-induced anxiety disorder
+ICD10 matches for : anxiety F15280 Other stimulant dependence with stimulant-induced anxiety disorder
+ICD10 matches for : anxiety F15980 Other stimulant use, unspecified with stimulant-induced anxiety disorder
+ICD10 matches for : anxiety F16180 Hallucinogen abuse with hallucinogen-induced anxiety disorder
+ICD10 matches for : anxiety F16280 Hallucinogen dependence with hallucinogen-induced anxiety disorder
+ICD10 matches for : anxiety F16980 Hallucinogen use, unspecified with hallucinogen-induced anxiety disorder
+ICD10 matches for : anxiety F18180 Inhalant abuse with inhalant-induced anxiety disorder
+ICD10 matches for : anxiety F18280 Inhalant dependence with inhalant-induced anxiety disorder
+ICD10 matches for : anxiety F18980 Inhalant use, unspecified with inhalant-induced anxiety disorder
+ICD10 matches for : anxiety F19180 Other psychoactive substance abuse with psychoactive substance-induced anxiety disorder
+ICD10 matches for : anxiety F19280 Other psychoactive substance dependence with psychoactive substance-induced anxiety disorder
+ICD10 matches for : anxiety F19980 Other psychoactive substance use, unspecified with psychoactive substance-induced anxiety disorder
+ICD10 matches for : anxiety F408 Other phobic anxiety disorders
+ICD10 matches for : anxiety F409 Phobic anxiety disorder, unspecified
+ICD10 matches for : anxiety F410 Panic disorder [episodic paroxysmal anxiety]
+ICD10 matches for : anxiety F411 Generalized anxiety disorder
+ICD10 matches for : anxiety F413 Other mixed anxiety disorders
+ICD10 matches for : anxiety F418 Other specified anxiety disorders
+ICD10 matches for : anxiety F419 Anxiety disorder, unspecified
+ICD10 matches for : anxiety F4322 Adjustment disorder with anxiety
+ICD10 matches for : anxiety F4323 Adjustment disorder with mixed anxiety and depressed mood
+ICD10 matches for : anxiety F930 Separation anxiety disorder of childhood
+ICD10 matches for : undice P580 Neonatal jaundice due to bruising
+ICD10 matches for : undice P581 Neonatal jaundice due to bleeding
+ICD10 matches for : undice P582 Neonatal jaundice due to infection
+ICD10 matches for : undice P583 Neonatal jaundice due to polycythemia
+ICD10 matches for : undice P5841 Neonatal jaundice due to drugs or toxins transmitted from mother
+ICD10 matches for : undice P5842 Neonatal jaundice due to drugs or toxins given to newborn
+ICD10 matches for : undice P585 Neonatal jaundice due to swallowed maternal blood
+ICD10 matches for : undice P588 Neonatal jaundice due to other specified excessive hemolysis
+ICD10 matches for : undice P589 Neonatal jaundice due to excessive hemolysis, unspecified
+ICD10 matches for : undice P590 Neonatal jaundice associated with preterm delivery
+ICD10 matches for : undice P5920 Neonatal jaundice from unspecified hepatocellular damage
+ICD10 matches for : undice P5929 Neonatal jaundice from other hepatocellular damage
+ICD10 matches for : undice P593 Neonatal jaundice from breast milk inhibitor
+ICD10 matches for : undice P598 Neonatal jaundice from other specified causes
+ICD10 matches for : undice P599 Neonatal jaundice, unspecified
+ICD10 matches for : undice R17 Unspecified jaundice
+ICD10 matches for : undice P580 Neonatal jaundice due to bruising
+ICD10 matches for : undice P581 Neonatal jaundice due to bleeding
+ICD10 matches for : undice P582 Neonatal jaundice due to infection
+ICD10 matches for : undice P583 Neonatal jaundice due to polycythemia
+ICD10 matches for : undice P5841 Neonatal jaundice due to drugs or toxins transmitted from mother
+ICD10 matches for : undice P5842 Neonatal jaundice due to drugs or toxins given to newborn
+ICD10 matches for : undice P585 Neonatal jaundice due to swallowed maternal blood
+ICD10 matches for : undice P588 Neonatal jaundice due to other specified excessive hemolysis
+ICD10 matches for : undice P589 Neonatal jaundice due to excessive hemolysis, unspecified
+ICD10 matches for : undice P590 Neonatal jaundice associated with preterm delivery
+ICD10 matches for : undice P5920 Neonatal jaundice from unspecified hepatocellular damage
+ICD10 matches for : undice P5929 Neonatal jaundice from other hepatocellular damage
+ICD10 matches for : undice P593 Neonatal jaundice from breast milk inhibitor
+ICD10 matches for : undice P598 Neonatal jaundice from other specified causes
+ICD10 matches for : undice P599 Neonatal jaundice, unspecified
+ICD10 matches for : undice R17 Unspecified jaundice
+ICD10 matches for : fatigue G933 Postviral fatigue syndrome
+ICD10 matches for : fatigue M4840XA Fatigue fracture of vertebra, site unspecified, initial encounter for fracture
+ICD10 matches for : fatigue M4840XD Fatigue fracture of vertebra, site unspecified, subsequent encounter for fracture with routine healing
+ICD10 matches for : fatigue M4840XG Fatigue fracture of vertebra, site unspecified, subsequent encounter for fracture with delayed healing
+ICD10 matches for : fatigue M4840XS Fatigue fracture of vertebra, site unspecified, sequela of fracture
+ICD10 matches for : fatigue M4841XA Fatigue fracture of vertebra, occipito-atlanto-axial region, initial encounter for fracture
+ICD10 matches for : fatigue M4841XD Fatigue fracture of vertebra, occipito-atlanto-axial region, subsequent encounter for fracture with routine healing
+ICD10 matches for : fatigue M4841XG Fatigue fracture of vertebra, occipito-atlanto-axial region, subsequent encounter for fracture with delayed healing
+ICD10 matches for : fatigue M4841XS Fatigue fracture of vertebra, occipito-atlanto-axial region, sequela of fracture
+ICD10 matches for : fatigue M4842XA Fatigue fracture of vertebra, cervical region, initial encounter for fracture
+ICD10 matches for : fatigue M4842XD Fatigue fracture of vertebra, cervical region, subsequent encounter for fracture with routine healing
+ICD10 matches for : fatigue M4842XG Fatigue fracture of vertebra, cervical region, subsequent encounter for fracture with delayed healing
+ICD10 matches for : fatigue M4842XS Fatigue fracture of vertebra, cervical region, sequela of fracture
+ICD10 matches for : fatigue M4843XA Fatigue fracture of vertebra, cervicothoracic region, initial encounter for fracture
+ICD10 matches for : fatigue M4843XD Fatigue fracture of vertebra, cervicothoracic region, subsequent encounter for fracture with routine healing
+ICD10 matches for : fatigue M4843XG Fatigue fracture of vertebra, cervicothoracic region, subsequent encounter for fracture with delayed healing
+ICD10 matches for : fatigue M4843XS Fatigue fracture of vertebra, cervicothoracic region, sequela of fracture
+ICD10 matches for : fatigue M4844XA Fatigue fracture of vertebra, thoracic region, initial encounter for fracture
+ICD10 matches for : fatigue M4844XD Fatigue fracture of vertebra, thoracic region, subsequent encounter for fracture with routine healing
+ICD10 matches for : fatigue M4844XG Fatigue fracture of vertebra, thoracic region, subsequent encounter for fracture with delayed healing
+ICD10 matches for : fatigue M4844XS Fatigue fracture of vertebra, thoracic region, sequela of fracture
+ICD10 matches for : fatigue M4845XA Fatigue fracture of vertebra, thoracolumbar region, initial encounter for fracture
+ICD10 matches for : fatigue M4845XD Fatigue fracture of vertebra, thoracolumbar region, subsequent encounter for fracture with routine healing
+ICD10 matches for : fatigue M4845XG Fatigue fracture of vertebra, thoracolumbar region, subsequent encounter for fracture with delayed healing
+ICD10 matches for : fatigue M4845XS Fatigue fracture of vertebra, thoracolumbar region, sequela of fracture
+ICD10 matches for : fatigue M4846XA Fatigue fracture of vertebra, lumbar region, initial encounter for fracture
+ICD10 matches for : fatigue M4846XD Fatigue fracture of vertebra, lumbar region, subsequent encounter for fracture with routine healing
+ICD10 matches for : fatigue M4846XG Fatigue fracture of vertebra, lumbar region, subsequent encounter for fracture with delayed healing
+ICD10 matches for : fatigue M4846XS Fatigue fracture of vertebra, lumbar region, sequela of fracture
+ICD10 matches for : fatigue M4847XA Fatigue fracture of vertebra, lumbosacral region, initial encounter for fracture
+ICD10 matches for : fatigue M4847XD Fatigue fracture of vertebra, lumbosacral region, subsequent encounter for fracture with routine healing
+ICD10 matches for : fatigue M4847XG Fatigue fracture of vertebra, lumbosacral region, subsequent encounter for fracture with delayed healing
+ICD10 matches for : fatigue M4847XS Fatigue fracture of vertebra, lumbosacral region, sequela of fracture
+ICD10 matches for : fatigue M4848XA Fatigue fracture of vertebra, sacral and sacrococcygeal region, initial encounter for fracture
+ICD10 matches for : fatigue M4848XD Fatigue fracture of vertebra, sacral and sacrococcygeal region, subsequent encounter for fracture with routine healing
+ICD10 matches for : fatigue M4848XG Fatigue fracture of vertebra, sacral and sacrococcygeal region, subsequent encounter for fracture with delayed healing
+ICD10 matches for : fatigue M4848XS Fatigue fracture of vertebra, sacral and sacrococcygeal region, sequela of fracture
+ICD10 matches for : fatigue O26811 Pregnancy related exhaustion and fatigue, first trimester
+ICD10 matches for : fatigue O26812 Pregnancy related exhaustion and fatigue, second trimester
+ICD10 matches for : fatigue O26813 Pregnancy related exhaustion and fatigue, third trimester
+ICD10 matches for : fatigue O26819 Pregnancy related exhaustion and fatigue, unspecified trimester
+ICD10 matches for : fatigue R530 Neoplastic (malignant) related fatigue
+ICD10 matches for : fatigue R5382 Chronic fatigue, unspecified
+ICD10 matches for : fatigue R5383 Other fatigue
+ICD10 matches for : fatigue T676XXA Heat fatigue, transient, initial encounter
+ICD10 matches for : fatigue T676XXD Heat fatigue, transient, subsequent encounter
+ICD10 matches for : fatigue T676XXS Heat fatigue, transient, sequela
+ICD10 matches for : fatigue G933 Postviral fatigue syndrome
+ICD10 matches for : fatigue M4840XA Fatigue fracture of vertebra, site unspecified, initial encounter for fracture
+ICD10 matches for : fatigue M4840XD Fatigue fracture of vertebra, site unspecified, subsequent encounter for fracture with routine healing
+ICD10 matches for : fatigue M4840XG Fatigue fracture of vertebra, site unspecified, subsequent encounter for fracture with delayed healing
+ICD10 matches for : fatigue M4840XS Fatigue fracture of vertebra, site unspecified, sequela of fracture
+ICD10 matches for : fatigue M4841XA Fatigue fracture of vertebra, occipito-atlanto-axial region, initial encounter for fracture
+ICD10 matches for : fatigue M4841XD Fatigue fracture of vertebra, occipito-atlanto-axial region, subsequent encounter for fracture with routine healing
+ICD10 matches for : fatigue M4841XG Fatigue fracture of vertebra, occipito-atlanto-axial region, subsequent encounter for fracture with delayed healing
+ICD10 matches for : fatigue M4841XS Fatigue fracture of vertebra, occipito-atlanto-axial region, sequela of fracture
+ICD10 matches for : fatigue M4842XA Fatigue fracture of vertebra, cervical region, initial encounter for fracture
+ICD10 matches for : fatigue M4842XD Fatigue fracture of vertebra, cervical region, subsequent encounter for fracture with routine healing
+ICD10 matches for : fatigue M4842XG Fatigue fracture of vertebra, cervical region, subsequent encounter for fracture with delayed healing
+ICD10 matches for : fatigue M4842XS Fatigue fracture of vertebra, cervical region, sequela of fracture
+ICD10 matches for : fatigue M4843XA Fatigue fracture of vertebra, cervicothoracic region, initial encounter for fracture
+ICD10 matches for : fatigue M4843XD Fatigue fracture of vertebra, cervicothoracic region, subsequent encounter for fracture with routine healing
+ICD10 matches for : fatigue M4843XG Fatigue fracture of vertebra, cervicothoracic region, subsequent encounter for fracture with delayed healing
+ICD10 matches for : fatigue M4843XS Fatigue fracture of vertebra, cervicothoracic region, sequela of fracture
+ICD10 matches for : fatigue M4844XA Fatigue fracture of vertebra, thoracic region, initial encounter for fracture
+ICD10 matches for : fatigue M4844XD Fatigue fracture of vertebra, thoracic region, subsequent encounter for fracture with routine healing
+ICD10 matches for : fatigue M4844XG Fatigue fracture of vertebra, thoracic region, subsequent encounter for fracture with delayed healing
+ICD10 matches for : fatigue M4844XS Fatigue fracture of vertebra, thoracic region, sequela of fracture
+ICD10 matches for : fatigue M4845XA Fatigue fracture of vertebra, thoracolumbar region, initial encounter for fracture
+ICD10 matches for : fatigue M4845XD Fatigue fracture of vertebra, thoracolumbar region, subsequent encounter for fracture with routine healing
+ICD10 matches for : fatigue M4845XG Fatigue fracture of vertebra, thoracolumbar region, subsequent encounter for fracture with delayed healing
+ICD10 matches for : fatigue M4845XS Fatigue fracture of vertebra, thoracolumbar region, sequela of fracture
+ICD10 matches for : fatigue M4846XA Fatigue fracture of vertebra, lumbar region, initial encounter for fracture
+ICD10 matches for : fatigue M4846XD Fatigue fracture of vertebra, lumbar region, subsequent encounter for fracture with routine healing
+ICD10 matches for : fatigue M4846XG Fatigue fracture of vertebra, lumbar region, subsequent encounter for fracture with delayed healing
+ICD10 matches for : fatigue M4846XS Fatigue fracture of vertebra, lumbar region, sequela of fracture
+ICD10 matches for : fatigue M4847XA Fatigue fracture of vertebra, lumbosacral region, initial encounter for fracture
+ICD10 matches for : fatigue M4847XD Fatigue fracture of vertebra, lumbosacral region, subsequent encounter for fracture with routine healing
+ICD10 matches for : fatigue M4847XG Fatigue fracture of vertebra, lumbosacral region, subsequent encounter for fracture with delayed healing
+ICD10 matches for : fatigue M4847XS Fatigue fracture of vertebra, lumbosacral region, sequela of fracture
+ICD10 matches for : fatigue M4848XA Fatigue fracture of vertebra, sacral and sacrococcygeal region, initial encounter for fracture
+ICD10 matches for : fatigue M4848XD Fatigue fracture of vertebra, sacral and sacrococcygeal region, subsequent encounter for fracture with routine healing
+ICD10 matches for : fatigue M4848XG Fatigue fracture of vertebra, sacral and sacrococcygeal region, subsequent encounter for fracture with delayed healing
+ICD10 matches for : fatigue M4848XS Fatigue fracture of vertebra, sacral and sacrococcygeal region, sequela of fracture
+ICD10 matches for : fatigue O26811 Pregnancy related exhaustion and fatigue, first trimester
+ICD10 matches for : fatigue O26812 Pregnancy related exhaustion and fatigue, second trimester
+ICD10 matches for : fatigue O26813 Pregnancy related exhaustion and fatigue, third trimester
+ICD10 matches for : fatigue O26819 Pregnancy related exhaustion and fatigue, unspecified trimester
+ICD10 matches for : fatigue R530 Neoplastic (malignant) related fatigue
+ICD10 matches for : fatigue R5382 Chronic fatigue, unspecified
+ICD10 matches for : fatigue R5383 Other fatigue
+ICD10 matches for : fatigue T676XXA Heat fatigue, transient, initial encounter
+ICD10 matches for : fatigue T676XXD Heat fatigue, transient, subsequent encounter
+ICD10 matches for : fatigue T676XXS Heat fatigue, transient, sequela
+ICD10 matches for : sleep F10182 Alcohol abuse with alcohol-induced sleep disorder
+ICD10 matches for : sleep F10282 Alcohol dependence with alcohol-induced sleep disorder
+ICD10 matches for : sleep F10982 Alcohol use, unspecified with alcohol-induced sleep disorder
+ICD10 matches for : sleep F11182 Opioid abuse with opioid-induced sleep disorder
+ICD10 matches for : sleep F11282 Opioid dependence with opioid-induced sleep disorder
+ICD10 matches for : sleep F11982 Opioid use, unspecified with opioid-induced sleep disorder
+ICD10 matches for : sleep F13182 Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced sleep disorder
+ICD10 matches for : sleep F13282 Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced sleep disorder
+ICD10 matches for : sleep F13982 Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced sleep disorder
+ICD10 matches for : sleep F14182 Cocaine abuse with cocaine-induced sleep disorder
+ICD10 matches for : sleep F14282 Cocaine dependence with cocaine-induced sleep disorder
+ICD10 matches for : sleep F14982 Cocaine use, unspecified with cocaine-induced sleep disorder
+ICD10 matches for : sleep F15182 Other stimulant abuse with stimulant-induced sleep disorder
+ICD10 matches for : sleep F15282 Other stimulant dependence with stimulant-induced sleep disorder
+ICD10 matches for : sleep F15982 Other stimulant use, unspecified with stimulant-induced sleep disorder
+ICD10 matches for : sleep F19182 Other psychoactive substance abuse with psychoactive substance-induced sleep disorder
+ICD10 matches for : sleep F19282 Other psychoactive substance dependence with psychoactive substance-induced sleep disorder
+ICD10 matches for : sleep F19982 Other psychoactive substance use, unspecified with psychoactive substance-induced sleep disorder
+ICD10 matches for : sleep F5112 Insufficient sleep syndrome
+ICD10 matches for : sleep F513 Sleepwalking [somnambulism]
+ICD10 matches for : sleep F514 Sleep terrors [night terrors]
+ICD10 matches for : sleep F518 Other sleep disorders not due to a substance or known physiological condition
+ICD10 matches for : sleep F519 Sleep disorder not due to a substance or known physiological condition, unspecified
+ICD10 matches for : sleep G4711 Idiopathic hypersomnia with long sleep time
+ICD10 matches for : sleep G4712 Idiopathic hypersomnia without long sleep time
+ICD10 matches for : sleep G4720 Circadian rhythm sleep disorder, unspecified type
+ICD10 matches for : sleep G4721 Circadian rhythm sleep disorder, delayed sleep phase type
+ICD10 matches for : sleep G4722 Circadian rhythm sleep disorder, advanced sleep phase type
+ICD10 matches for : sleep G4723 Circadian rhythm sleep disorder, irregular sleep wake type
+ICD10 matches for : sleep G4724 Circadian rhythm sleep disorder, free running type
+ICD10 matches for : sleep G4725 Circadian rhythm sleep disorder, jet lag type
+ICD10 matches for : sleep G4726 Circadian rhythm sleep disorder, shift work type
+ICD10 matches for : sleep G4727 Circadian rhythm sleep disorder in conditions classified elsewhere
+ICD10 matches for : sleep G4729 Other circadian rhythm sleep disorder
+ICD10 matches for : sleep G4730 Sleep apnea, unspecified
+ICD10 matches for : sleep G4731 Primary central sleep apnea
+ICD10 matches for : sleep G4733 Obstructive sleep apnea (adult) (pediatric)
+ICD10 matches for : sleep G4734 Idiopathic sleep related nonobstructive alveolar hypoventilation
+ICD10 matches for : sleep G4736 Sleep related hypoventilation in conditions classified elsewhere
+ICD10 matches for : sleep G4737 Central sleep apnea in conditions classified elsewhere
+ICD10 matches for : sleep G4739 Other sleep apnea
+ICD10 matches for : sleep G4752 REM sleep behavior disorder
+ICD10 matches for : sleep G4753 Recurrent isolated sleep paralysis
+ICD10 matches for : sleep G4762 Sleep related leg cramps
+ICD10 matches for : sleep G4763 Sleep related bruxism
+ICD10 matches for : sleep G4769 Other sleep related movement disorders
+ICD10 matches for : sleep G478 Other sleep disorders
+ICD10 matches for : sleep G479 Sleep disorder, unspecified
+ICD10 matches for : sleep P283 Primary sleep apnea of newborn
+ICD10 matches for : sleep Y9384 Activity, sleeping
+ICD10 matches for : sleep Z72820 Sleep deprivation
+ICD10 matches for : sleep Z72821 Inadequate sleep hygiene
+ICD10 matches for : sleep Z73810 Behavioral insomnia of childhood, sleep-onset association type
+ICD10 matches for : sleep F10182 Alcohol abuse with alcohol-induced sleep disorder
+ICD10 matches for : sleep F10282 Alcohol dependence with alcohol-induced sleep disorder
+ICD10 matches for : sleep F10982 Alcohol use, unspecified with alcohol-induced sleep disorder
+ICD10 matches for : sleep F11182 Opioid abuse with opioid-induced sleep disorder
+ICD10 matches for : sleep F11282 Opioid dependence with opioid-induced sleep disorder
+ICD10 matches for : sleep F11982 Opioid use, unspecified with opioid-induced sleep disorder
+ICD10 matches for : sleep F13182 Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced sleep disorder
+ICD10 matches for : sleep F13282 Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced sleep disorder
+ICD10 matches for : sleep F13982 Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced sleep disorder
+ICD10 matches for : sleep F14182 Cocaine abuse with cocaine-induced sleep disorder
+ICD10 matches for : sleep F14282 Cocaine dependence with cocaine-induced sleep disorder
+ICD10 matches for : sleep F14982 Cocaine use, unspecified with cocaine-induced sleep disorder
+ICD10 matches for : sleep F15182 Other stimulant abuse with stimulant-induced sleep disorder
+ICD10 matches for : sleep F15282 Other stimulant dependence with stimulant-induced sleep disorder
+ICD10 matches for : sleep F15982 Other stimulant use, unspecified with stimulant-induced sleep disorder
+ICD10 matches for : sleep F19182 Other psychoactive substance abuse with psychoactive substance-induced sleep disorder
+ICD10 matches for : sleep F19282 Other psychoactive substance dependence with psychoactive substance-induced sleep disorder
+ICD10 matches for : sleep F19982 Other psychoactive substance use, unspecified with psychoactive substance-induced sleep disorder
+ICD10 matches for : sleep F5112 Insufficient sleep syndrome
+ICD10 matches for : sleep F513 Sleepwalking [somnambulism]
+ICD10 matches for : sleep F514 Sleep terrors [night terrors]
+ICD10 matches for : sleep F518 Other sleep disorders not due to a substance or known physiological condition
+ICD10 matches for : sleep F519 Sleep disorder not due to a substance or known physiological condition, unspecified
+ICD10 matches for : sleep G4711 Idiopathic hypersomnia with long sleep time
+ICD10 matches for : sleep G4712 Idiopathic hypersomnia without long sleep time
+ICD10 matches for : sleep G4720 Circadian rhythm sleep disorder, unspecified type
+ICD10 matches for : sleep G4721 Circadian rhythm sleep disorder, delayed sleep phase type
+ICD10 matches for : sleep G4722 Circadian rhythm sleep disorder, advanced sleep phase type
+ICD10 matches for : sleep G4723 Circadian rhythm sleep disorder, irregular sleep wake type
+ICD10 matches for : sleep G4724 Circadian rhythm sleep disorder, free running type
+ICD10 matches for : sleep G4725 Circadian rhythm sleep disorder, jet lag type
+ICD10 matches for : sleep G4726 Circadian rhythm sleep disorder, shift work type
+ICD10 matches for : sleep G4727 Circadian rhythm sleep disorder in conditions classified elsewhere
+ICD10 matches for : sleep G4729 Other circadian rhythm sleep disorder
+ICD10 matches for : sleep G4730 Sleep apnea, unspecified
+ICD10 matches for : sleep G4731 Primary central sleep apnea
+ICD10 matches for : sleep G4733 Obstructive sleep apnea (adult) (pediatric)
+ICD10 matches for : sleep G4734 Idiopathic sleep related nonobstructive alveolar hypoventilation
+ICD10 matches for : sleep G4736 Sleep related hypoventilation in conditions classified elsewhere
+ICD10 matches for : sleep G4737 Central sleep apnea in conditions classified elsewhere
+ICD10 matches for : sleep G4739 Other sleep apnea
+ICD10 matches for : sleep G4752 REM sleep behavior disorder
+ICD10 matches for : sleep G4753 Recurrent isolated sleep paralysis
+ICD10 matches for : sleep G4762 Sleep related leg cramps
+ICD10 matches for : sleep G4763 Sleep related bruxism
+ICD10 matches for : sleep G4769 Other sleep related movement disorders
+ICD10 matches for : sleep G478 Other sleep disorders
+ICD10 matches for : sleep G479 Sleep disorder, unspecified
+ICD10 matches for : sleep P283 Primary sleep apnea of newborn
+ICD10 matches for : sleep Y9384 Activity, sleeping
+ICD10 matches for : sleep Z72820 Sleep deprivation
+ICD10 matches for : sleep Z72821 Inadequate sleep hygiene
+ICD10 matches for : sleep Z73810 Behavioral insomnia of childhood, sleep-onset association type
+ICD10 matches for : syncope G9001 Carotid sinus syncope
+ICD10 matches for : syncope R054 Cough syncope
+ICD10 matches for : syncope R55 Syncope and collapse
+ICD10 matches for : syncope T671XXA Heat syncope, initial encounter
+ICD10 matches for : syncope T671XXD Heat syncope, subsequent encounter
+ICD10 matches for : syncope T671XXS Heat syncope, sequela
+ICD10 matches for : syncope G9001 Carotid sinus syncope
+ICD10 matches for : syncope R054 Cough syncope
+ICD10 matches for : syncope R55 Syncope and collapse
+ICD10 matches for : syncope T671XXA Heat syncope, initial encounter
+ICD10 matches for : syncope T671XXD Heat syncope, subsequent encounter
+ICD10 matches for : syncope T671XXS Heat syncope, sequela
+ICD10 matches for : zziness R42 Dizziness and giddiness
+ICD10 matches for : zziness R42 Dizziness and giddiness
+ICD10 matches for : reactions F438 Other reactions to severe stress
+ICD10 matches for : reactions M364 Arthropathy in hypersensitivity reactions classified elsewhere
+ICD10 matches for : reactions P938 Other reactions and intoxications due to drugs administered to newborn
+ICD10 matches for : reactions T781XXA Other adverse food reactions, not elsewhere classified, initial encounter
+ICD10 matches for : reactions T781XXD Other adverse food reactions, not elsewhere classified, subsequent encounter
+ICD10 matches for : reactions T781XXS Other adverse food reactions, not elsewhere classified, sequela
+ICD10 matches for : reactions F438 Other reactions to severe stress
+ICD10 matches for : reactions M364 Arthropathy in hypersensitivity reactions classified elsewhere
+ICD10 matches for : reactions P938 Other reactions and intoxications due to drugs administered to newborn
+ICD10 matches for : reactions T781XXA Other adverse food reactions, not elsewhere classified, initial encounter
+ICD10 matches for : reactions T781XXD Other adverse food reactions, not elsewhere classified, subsequent encounter
+ICD10 matches for : reactions T781XXS Other adverse food reactions, not elsewhere classified, sequela
+ICD10 matches for : phyla T7800XA Anaphylactic reaction due to unspecified food, initial encounter
+ICD10 matches for : phyla T7800XD Anaphylactic reaction due to unspecified food, subsequent encounter
+ICD10 matches for : phyla T7800XS Anaphylactic reaction due to unspecified food, sequela
+ICD10 matches for : phyla T7801XA Anaphylactic reaction due to peanuts, initial encounter
+ICD10 matches for : phyla T7801XD Anaphylactic reaction due to peanuts, subsequent encounter
+ICD10 matches for : phyla T7801XS Anaphylactic reaction due to peanuts, sequela
+ICD10 matches for : phyla T7802XA Anaphylactic reaction due to shellfish (crustaceans), initial encounter
+ICD10 matches for : phyla T7802XD Anaphylactic reaction due to shellfish (crustaceans), subsequent encounter
+ICD10 matches for : phyla T7802XS Anaphylactic reaction due to shellfish (crustaceans), sequela
+ICD10 matches for : phyla T7803XA Anaphylactic reaction due to other fish, initial encounter
+ICD10 matches for : phyla T7803XD Anaphylactic reaction due to other fish, subsequent encounter
+ICD10 matches for : phyla T7803XS Anaphylactic reaction due to other fish, sequela
+ICD10 matches for : phyla T7804XA Anaphylactic reaction due to fruits and vegetables, initial encounter
+ICD10 matches for : phyla T7804XD Anaphylactic reaction due to fruits and vegetables, subsequent encounter
+ICD10 matches for : phyla T7804XS Anaphylactic reaction due to fruits and vegetables, sequela
+ICD10 matches for : phyla T7805XA Anaphylactic reaction due to tree nuts and seeds, initial encounter
+ICD10 matches for : phyla T7805XD Anaphylactic reaction due to tree nuts and seeds, subsequent encounter
+ICD10 matches for : phyla T7805XS Anaphylactic reaction due to tree nuts and seeds, sequela
+ICD10 matches for : phyla T7806XA Anaphylactic reaction due to food additives, initial encounter
+ICD10 matches for : phyla T7806XD Anaphylactic reaction due to food additives, subsequent encounter
+ICD10 matches for : phyla T7806XS Anaphylactic reaction due to food additives, sequela
+ICD10 matches for : phyla T7807XA Anaphylactic reaction due to milk and dairy products, initial encounter
+ICD10 matches for : phyla T7807XD Anaphylactic reaction due to milk and dairy products, subsequent encounter
+ICD10 matches for : phyla T7807XS Anaphylactic reaction due to milk and dairy products, sequela
+ICD10 matches for : phyla T7808XA Anaphylactic reaction due to eggs, initial encounter
+ICD10 matches for : phyla T7808XD Anaphylactic reaction due to eggs, subsequent encounter
+ICD10 matches for : phyla T7808XS Anaphylactic reaction due to eggs, sequela
+ICD10 matches for : phyla T7809XA Anaphylactic reaction due to other food products, initial encounter
+ICD10 matches for : phyla T7809XD Anaphylactic reaction due to other food products, subsequent encounter
+ICD10 matches for : phyla T7809XS Anaphylactic reaction due to other food products, sequela
+ICD10 matches for : phyla T782XXA Anaphylactic shock, unspecified, initial encounter
+ICD10 matches for : phyla T782XXD Anaphylactic shock, unspecified, subsequent encounter
+ICD10 matches for : phyla T782XXS Anaphylactic shock, unspecified, sequela
+ICD10 matches for : phyla T8051XA Anaphylactic reaction due to administration of blood and blood products, initial encounter
+ICD10 matches for : phyla T8051XD Anaphylactic reaction due to administration of blood and blood products, subsequent encounter
+ICD10 matches for : phyla T8051XS Anaphylactic reaction due to administration of blood and blood products, sequela
+ICD10 matches for : phyla T8052XA Anaphylactic reaction due to vaccination, initial encounter
+ICD10 matches for : phyla T8052XD Anaphylactic reaction due to vaccination, subsequent encounter
+ICD10 matches for : phyla T8052XS Anaphylactic reaction due to vaccination, sequela
+ICD10 matches for : phyla T8059XA Anaphylactic reaction due to other serum, initial encounter
+ICD10 matches for : phyla T8059XD Anaphylactic reaction due to other serum, subsequent encounter
+ICD10 matches for : phyla T8059XS Anaphylactic reaction due to other serum, sequela
+ICD10 matches for : phyla T886XXA Anaphylactic reaction due to adverse effect of correct drug or medicament properly administered, initial encounter
+ICD10 matches for : phyla T886XXD Anaphylactic reaction due to adverse effect of correct drug or medicament properly administered, subsequent encounter
+ICD10 matches for : phyla T886XXS Anaphylactic reaction due to adverse effect of correct drug or medicament properly administered, sequela
+ICD10 matches for : phyla Z2911 Encounter for prophylactic immunotherapy for respiratory syncytial virus (RSV)
+ICD10 matches for : phyla Z2912 Encounter for prophylactic antivenin
+ICD10 matches for : phyla Z2913 Encounter for prophylactic Rho(D) immune globulin
+ICD10 matches for : phyla Z2914 Encounter for prophylactic rabies immune globin
+ICD10 matches for : phyla Z293 Encounter for prophylactic fluoride administration
+ICD10 matches for : phyla Z298 Encounter for other specified prophylactic measures
+ICD10 matches for : phyla Z299 Encounter for prophylactic measures, unspecified
+ICD10 matches for : phyla Z4000 Encounter for prophylactic removal of unspecified organ
+ICD10 matches for : phyla Z4001 Encounter for prophylactic removal of breast
+ICD10 matches for : phyla Z4002 Encounter for prophylactic removal of ovary(s)
+ICD10 matches for : phyla Z4003 Encounter for prophylactic removal of fallopian tube(s)
+ICD10 matches for : phyla Z4009 Encounter for prophylactic removal of other organ
+ICD10 matches for : phyla Z408 Encounter for other prophylactic surgery
+ICD10 matches for : phyla Z409 Encounter for prophylactic surgery, unspecified
+ICD10 matches for : phyla Z87892 Personal history of anaphylaxis
+ICD10 matches for : phyla T7800XA Anaphylactic reaction due to unspecified food, initial encounter
+ICD10 matches for : phyla T7800XD Anaphylactic reaction due to unspecified food, subsequent encounter
+ICD10 matches for : phyla T7800XS Anaphylactic reaction due to unspecified food, sequela
+ICD10 matches for : phyla T7801XA Anaphylactic reaction due to peanuts, initial encounter
+ICD10 matches for : phyla T7801XD Anaphylactic reaction due to peanuts, subsequent encounter
+ICD10 matches for : phyla T7801XS Anaphylactic reaction due to peanuts, sequela
+ICD10 matches for : phyla T7802XA Anaphylactic reaction due to shellfish (crustaceans), initial encounter
+ICD10 matches for : phyla T7802XD Anaphylactic reaction due to shellfish (crustaceans), subsequent encounter
+ICD10 matches for : phyla T7802XS Anaphylactic reaction due to shellfish (crustaceans), sequela
+ICD10 matches for : phyla T7803XA Anaphylactic reaction due to other fish, initial encounter
+ICD10 matches for : phyla T7803XD Anaphylactic reaction due to other fish, subsequent encounter
+ICD10 matches for : phyla T7803XS Anaphylactic reaction due to other fish, sequela
+ICD10 matches for : phyla T7804XA Anaphylactic reaction due to fruits and vegetables, initial encounter
+ICD10 matches for : phyla T7804XD Anaphylactic reaction due to fruits and vegetables, subsequent encounter
+ICD10 matches for : phyla T7804XS Anaphylactic reaction due to fruits and vegetables, sequela
+ICD10 matches for : phyla T7805XA Anaphylactic reaction due to tree nuts and seeds, initial encounter
+ICD10 matches for : phyla T7805XD Anaphylactic reaction due to tree nuts and seeds, subsequent encounter
+ICD10 matches for : phyla T7805XS Anaphylactic reaction due to tree nuts and seeds, sequela
+ICD10 matches for : phyla T7806XA Anaphylactic reaction due to food additives, initial encounter
+ICD10 matches for : phyla T7806XD Anaphylactic reaction due to food additives, subsequent encounter
+ICD10 matches for : phyla T7806XS Anaphylactic reaction due to food additives, sequela
+ICD10 matches for : phyla T7807XA Anaphylactic reaction due to milk and dairy products, initial encounter
+ICD10 matches for : phyla T7807XD Anaphylactic reaction due to milk and dairy products, subsequent encounter
+ICD10 matches for : phyla T7807XS Anaphylactic reaction due to milk and dairy products, sequela
+ICD10 matches for : phyla T7808XA Anaphylactic reaction due to eggs, initial encounter
+ICD10 matches for : phyla T7808XD Anaphylactic reaction due to eggs, subsequent encounter
+ICD10 matches for : phyla T7808XS Anaphylactic reaction due to eggs, sequela
+ICD10 matches for : phyla T7809XA Anaphylactic reaction due to other food products, initial encounter
+ICD10 matches for : phyla T7809XD Anaphylactic reaction due to other food products, subsequent encounter
+ICD10 matches for : phyla T7809XS Anaphylactic reaction due to other food products, sequela
+ICD10 matches for : phyla T782XXA Anaphylactic shock, unspecified, initial encounter
+ICD10 matches for : phyla T782XXD Anaphylactic shock, unspecified, subsequent encounter
+ICD10 matches for : phyla T782XXS Anaphylactic shock, unspecified, sequela
+ICD10 matches for : phyla T8051XA Anaphylactic reaction due to administration of blood and blood products, initial encounter
+ICD10 matches for : phyla T8051XD Anaphylactic reaction due to administration of blood and blood products, subsequent encounter
+ICD10 matches for : phyla T8051XS Anaphylactic reaction due to administration of blood and blood products, sequela
+ICD10 matches for : phyla T8052XA Anaphylactic reaction due to vaccination, initial encounter
+ICD10 matches for : phyla T8052XD Anaphylactic reaction due to vaccination, subsequent encounter
+ICD10 matches for : phyla T8052XS Anaphylactic reaction due to vaccination, sequela
+ICD10 matches for : phyla T8059XA Anaphylactic reaction due to other serum, initial encounter
+ICD10 matches for : phyla T8059XD Anaphylactic reaction due to other serum, subsequent encounter
+ICD10 matches for : phyla T8059XS Anaphylactic reaction due to other serum, sequela
+ICD10 matches for : phyla T886XXA Anaphylactic reaction due to adverse effect of correct drug or medicament properly administered, initial encounter
+ICD10 matches for : phyla T886XXD Anaphylactic reaction due to adverse effect of correct drug or medicament properly administered, subsequent encounter
+ICD10 matches for : phyla T886XXS Anaphylactic reaction due to adverse effect of correct drug or medicament properly administered, sequela
+ICD10 matches for : phyla Z2911 Encounter for prophylactic immunotherapy for respiratory syncytial virus (RSV)
+ICD10 matches for : phyla Z2912 Encounter for prophylactic antivenin
+ICD10 matches for : phyla Z2913 Encounter for prophylactic Rho(D) immune globulin
+ICD10 matches for : phyla Z2914 Encounter for prophylactic rabies immune globin
+ICD10 matches for : phyla Z293 Encounter for prophylactic fluoride administration
+ICD10 matches for : phyla Z298 Encounter for other specified prophylactic measures
+ICD10 matches for : phyla Z299 Encounter for prophylactic measures, unspecified
+ICD10 matches for : phyla Z4000 Encounter for prophylactic removal of unspecified organ
+ICD10 matches for : phyla Z4001 Encounter for prophylactic removal of breast
+ICD10 matches for : phyla Z4002 Encounter for prophylactic removal of ovary(s)
+ICD10 matches for : phyla Z4003 Encounter for prophylactic removal of fallopian tube(s)
+ICD10 matches for : phyla Z4009 Encounter for prophylactic removal of other organ
+ICD10 matches for : phyla Z408 Encounter for other prophylactic surgery
+ICD10 matches for : phyla Z409 Encounter for prophylactic surgery, unspecified
+ICD10 matches for : phyla Z87892 Personal history of anaphylaxis
+ICD10 matches for : shortness of R0602 Shortness of breath
+ICD10 matches for : shortness of R0602 Shortness of breath

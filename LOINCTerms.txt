@@ -1,0 +1,1222 @@
+LOINC Terms for : syncope 45706-9 Syncope [Minimum Data Set]
+LOINC Terms for : syncope 77542-9 Can pronounce syncope [AmNART]
+LOINC Terms for : syncope 45706-9 Syncope [Minimum Data Set]
+LOINC Terms for : syncope 77542-9 Can pronounce syncope [AmNART]
+LOINC Terms for : zziness 45699-6 Dizziness or vertigo [Minimum Data Set]
+LOINC Terms for : zziness 65745-2 Have you had any sudden spells of dizziness, loss of balance, or sensation of spinning which lasted 24 hours or longer [PhenX]
+LOINC Terms for : zziness 65746-0 Dizziness, loss of balance or spinning sensation occur only when changing the position of your head or body [PhenX]
+LOINC Terms for : zziness 65747-8 Things occurring with dizziness, loss of balance or spinning sensation [PhenX]
+LOINC Terms for : zziness 65748-6 While you were having sudden spells of dizziness, loss of balance or spinning sensation, did any of these things occur [PhenX]
+LOINC Terms for : zziness 66236-1 Do you lose your balance because of dizziness or do you ever lose consciousness [Revised PARQ]
+LOINC Terms for : zziness 67411-9 Have you ever suffered from attacks of dizziness in which things seem to spin around you [PhenX]
+LOINC Terms for : zziness 69677-3 Bothered by dizziness in last 4 weeks [Reported.PHQ]
+LOINC Terms for : zziness 45699-6 Dizziness or vertigo [Minimum Data Set]
+LOINC Terms for : zziness 65745-2 Have you had any sudden spells of dizziness, loss of balance, or sensation of spinning which lasted 24 hours or longer [PhenX]
+LOINC Terms for : zziness 65746-0 Dizziness, loss of balance or spinning sensation occur only when changing the position of your head or body [PhenX]
+LOINC Terms for : zziness 65747-8 Things occurring with dizziness, loss of balance or spinning sensation [PhenX]
+LOINC Terms for : zziness 65748-6 While you were having sudden spells of dizziness, loss of balance or spinning sensation, did any of these things occur [PhenX]
+LOINC Terms for : zziness 66236-1 Do you lose your balance because of dizziness or do you ever lose consciousness [Revised PARQ]
+LOINC Terms for : zziness 67411-9 Have you ever suffered from attacks of dizziness in which things seem to spin around you [PhenX]
+LOINC Terms for : zziness 69677-3 Bothered by dizziness in last 4 weeks [Reported.PHQ]
+LOINC Terms for : immune system 66377-3 Do you have cancer, leukemia, AIDS, or any other immune system problem [PhenX]
+LOINC Terms for : immune system 66387-2 Does the child have cancer, leukemia, AIDS, or any other immune system problem [PhenX]
+LOINC Terms for : immune system 66377-3 Do you have cancer, leukemia, AIDS, or any other immune system problem [PhenX]
+LOINC Terms for : immune system 66387-2 Does the child have cancer, leukemia, AIDS, or any other immune system problem [PhenX]
+LOINC Terms for : reactions 100251-8 Reminders of adverse event caused physical reactions
+LOINC Terms for : reactions 34084-4 FDA package insert Adverse reactions section
+LOINC Terms for : reactions 48765-2 Allergies and adverse reactions Document
+LOINC Terms for : reactions 52472-8 Allergies and Adverse Drug Reactions
+LOINC Terms for : reactions 52571-7 Known allergies or adverse drug reactions [CARE]
+LOINC Terms for : reactions 61940-3 I worried about other people's reactions to me in past 7 days [PROMIS]
+LOINC Terms for : reactions 63817-1 If you spent an hour in the mid-day sun for the first time without sunscreen, which of these reactions best describes what would happen to your skin [NHL]
+LOINC Terms for : reactions 67841-7 EMS allergies and adverse reactions Narrative NEMSIS
+LOINC Terms for : reactions 70225-8 Having physical reactions, heart pounding, trouble breathing or sweating, when something reminded you of a stressful experience from the past in the last month [PCL-C]
+LOINC Terms for : reactions 70773-7 My reactions in everyday situations have been slow in the past 7 days [FACIT]
+LOINC Terms for : reactions 81476-4 My reactions in everyday situations have been slow in past 7 days [PROMIS]
+LOINC Terms for : phyla 45243-3 Reason for discontinuation of anti-infective phrophylaxis medication
+LOINC Terms for : phyla 74152-0 Anaphylaxis action plan
+LOINC Terms for : reactions 100251-8 Reminders of adverse event caused physical reactions
+LOINC Terms for : reactions 34084-4 FDA package insert Adverse reactions section
+LOINC Terms for : reactions 48765-2 Allergies and adverse reactions Document
+LOINC Terms for : reactions 52472-8 Allergies and Adverse Drug Reactions
+LOINC Terms for : reactions 52571-7 Known allergies or adverse drug reactions [CARE]
+LOINC Terms for : reactions 61940-3 I worried about other people's reactions to me in past 7 days [PROMIS]
+LOINC Terms for : reactions 63817-1 If you spent an hour in the mid-day sun for the first time without sunscreen, which of these reactions best describes what would happen to your skin [NHL]
+LOINC Terms for : reactions 67841-7 EMS allergies and adverse reactions Narrative NEMSIS
+LOINC Terms for : reactions 70225-8 Having physical reactions, heart pounding, trouble breathing or sweating, when something reminded you of a stressful experience from the past in the last month [PCL-C]
+LOINC Terms for : reactions 70773-7 My reactions in everyday situations have been slow in the past 7 days [FACIT]
+LOINC Terms for : reactions 81476-4 My reactions in everyday situations have been slow in past 7 days [PROMIS]
+LOINC Terms for : shortness of 28394-5 Shortness of breath at rest [HIV-SSC]
+LOINC Terms for : shortness of 28395-2 Shortness of breath with activity [HIV-SSC]
+LOINC Terms for : shortness of 45695-4 Inability to lie flat due to shortness of breath [Minimum Data Set]
+LOINC Terms for : shortness of 45705-1 Shortness of breath [Minimum Data Set]
+LOINC Terms for : shortness of 54564-0 Shortness of breath
+LOINC Terms for : shortness of 54841-2 Shortness of breath or trouble breathing with exertion in last 7 days [MDSv3]
+LOINC Terms for : shortness of 54842-0 Shortness of breath or trouble breathing when sitting at rest in last 7 days [MDSv3]
+LOINC Terms for : shortness of 54843-8 Shortness of breath or trouble breathing when lying flat in last 7 days [MDSv3]
+LOINC Terms for : shortness of 54844-6 None of the above shortness of breath symptoms in last 7 days [MDSv3]
+LOINC Terms for : shortness of 57237-0 Exertion level causing shortness of breath [CMS Assessment]
+LOINC Terms for : shortness of 64168-8 Are you troubled by shortness of breath when hurrying on level ground or walking up a slight hill [Rose Dyspnea Scale]
+LOINC Terms for : shortness of 64251-2 In the last 12 months, have you been awakened from sleep by shortness of breath or a feeling of tightness in your chest [PhenX]
+LOINC Terms for : shortness of 64441-9 Over the past 3 months, I have had shortness of breath [PhenX]
+LOINC Terms for : shortness of 69680-7 Bothered by shortness of breath in last 4 weeks [Reported.PHQ]
+LOINC Terms for : shortness of 82670-1 How often have you had shortness of breath during the past 4 weeks [ACT]
+LOINC Terms for : shortness of 82671-9 How often did your asthma symptoms (wheezing, coughing, shortness of breath, chest tightness or pain) wake you up at night or earlier than usual in the morning during the past 4 weeks [ACT]
+LOINC Terms for : shortness of 86472-8 Shortness of breath limited your ability to do what you wanted over the past 2 weeks [KCCQ]
+LOINC Terms for : shortness of 86484-3 Bothered by shortness of breath over the past 2 weeks [KCCQ]
+LOINC Terms for : shortness of 86485-0 Sleep sitting up in a chair or with at least 3 pillows to prop you up because of shortness of breath over the past 2 weeks [KCCQ]
+LOINC Terms for : shortness of 86675-6 Shortness of breath during assessment period [CMS Assessment]
+LOINC Terms for : shortness of 90376-5 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when dressing yourself without help [PROMIS]
+LOINC Terms for : shortness of 90377-3 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking 50 steps/paces on flat ground at a normal speed without stopping [PROMIS]
+LOINC Terms for : shortness of 90378-1 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking up 20 stairs (2 flights) without stopping [PROMIS]
+LOINC Terms for : shortness of 90379-9 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when preparing meals [PROMIS]
+LOINC Terms for : shortness of 90380-7 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when washing dishes [PROMIS]
+LOINC Terms for : shortness of 90381-5 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when sweeping or mopping [PROMIS]
+LOINC Terms for : shortness of 90382-3 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when making a bed [PROMIS]
+LOINC Terms for : shortness of 90383-1 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when lifting something weighing 10-20 lbs (about 4.5-9 kg, like a large bag of groceries) [PROMIS]
+LOINC Terms for : shortness of 90384-9 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when carrying something weighing 10-20 lbs (about 4.5-9 kg, like a large bag of groceries) from one room to another [PROMIS]
+LOINC Terms for : shortness of 90385-6 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking (faster than your usual speed) for 1/2 mile (almost 1 km) without stopping [PROMIS]
+LOINC Terms for : shortness of 90386-4 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when taking a bath without help [PROMIS]
+LOINC Terms for : shortness of 90387-2 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when taking a shower [PROMIS]
+LOINC Terms for : shortness of 90388-0 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when putting on socks or stockings [PROMIS]
+LOINC Terms for : shortness of 90389-8 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when standing for at least 5 minutes [PROMIS]
+LOINC Terms for : shortness of 90390-6 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking 10 steps/paces on flat ground at a normal speed without stopping [PROMIS]
+LOINC Terms for : shortness of 90391-4 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking 1/2 mile (almost 1 km) on flat ground at a normal speed without stopping [PROMIS]
+LOINC Terms for : shortness of 90392-2 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking up 5 stairs without stopping [PROMIS]
+LOINC Terms for : shortness of 90393-0 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking up 10 stairs (1 flight) without stopping [PROMIS]
+LOINC Terms for : shortness of 90394-8 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking up 30 stairs (3 flights) without stopping [PROMIS]
+LOINC Terms for : shortness of 90395-5 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when scrubbing the floor or counter [PROMIS]
+LOINC Terms for : shortness of 90396-3 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when lifting something weighing less than 5 lbs (about 2 kg, like a houseplant) [PROMIS]
+LOINC Terms for : shortness of 90397-1 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when lifting something weighing 5-10 lbs (about 2-4.5 kg, like a basket of clothes) [PROMIS]
+LOINC Terms for : shortness of 90398-9 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when lifting something weighing more than 20 lbs (about 9 kg, like a medium-sized suitcase) [PROMIS]
+LOINC Terms for : shortness of 90399-7 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when carrying something weighing less than 5 lbs (about 2 kg, like a houseplant) from one room to another [PROMIS]
+LOINC Terms for : shortness of 90400-3 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when carrying something weighing 5-10 lbs (about 2-4.5 kg, like a basket of clothes) from one room to another [PROMIS]
+LOINC Terms for : shortness of 90401-1 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when getting in or out of a car [PROMIS]
+LOINC Terms for : shortness of 90402-9 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when dining out [PROMIS]
+LOINC Terms for : shortness of 90403-7 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when low-intensity leisure activity (gardening, etc.) [PROMIS]
+LOINC Terms for : shortness of 90404-5 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when moderate-intensity leisure activity (bicycling on level terrain, etc.) [PROMIS]
+LOINC Terms for : shortness of 90405-2 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking (faster than your usual speed) for 50 steps without stopping [PROMIS]
+LOINC Terms for : shortness of 90406-0 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking (faster than your usual speed) for at least 1 mile (a little more than 1.5 km) without stopping [PROMIS]
+LOINC Terms for : shortness of 90407-8 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had singing or humming [PROMIS]
+LOINC Terms for : shortness of 90408-6 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when talking while walking [PROMIS]
+LOINC Terms for : shortness of 98514-3 Intensity of shortness of breath in past 7 days
+LOINC Terms for : shortness of 98516-8 Frequency of shortness of breath in past 7 days
+LOINC Terms for : shortness of 98517-6 Duration of shortness of breath in past 7 days
+LOINC Terms for : shortness of 98518-4 Shortness of breath in general in past 7 days
+LOINC Terms for : shortness of 98526-7 I am embarrassed by my shortness of breath in past 7 days
+LOINC Terms for : shortness of 98535-8 I get upset when I can't do something because of my shortness of breath in past 7 days
+LOINC Terms for : phyla 45243-3 Reason for discontinuation of anti-infective phrophylaxis medication
+LOINC Terms for : phyla 74152-0 Anaphylaxis action plan
+LOINC Terms for : shortness of 28394-5 Shortness of breath at rest [HIV-SSC]
+LOINC Terms for : shortness of 28395-2 Shortness of breath with activity [HIV-SSC]
+LOINC Terms for : shortness of 45695-4 Inability to lie flat due to shortness of breath [Minimum Data Set]
+LOINC Terms for : shortness of 45705-1 Shortness of breath [Minimum Data Set]
+LOINC Terms for : shortness of 54564-0 Shortness of breath
+LOINC Terms for : shortness of 54841-2 Shortness of breath or trouble breathing with exertion in last 7 days [MDSv3]
+LOINC Terms for : shortness of 54842-0 Shortness of breath or trouble breathing when sitting at rest in last 7 days [MDSv3]
+LOINC Terms for : shortness of 54843-8 Shortness of breath or trouble breathing when lying flat in last 7 days [MDSv3]
+LOINC Terms for : shortness of 54844-6 None of the above shortness of breath symptoms in last 7 days [MDSv3]
+LOINC Terms for : shortness of 57237-0 Exertion level causing shortness of breath [CMS Assessment]
+LOINC Terms for : shortness of 64168-8 Are you troubled by shortness of breath when hurrying on level ground or walking up a slight hill [Rose Dyspnea Scale]
+LOINC Terms for : shortness of 64251-2 In the last 12 months, have you been awakened from sleep by shortness of breath or a feeling of tightness in your chest [PhenX]
+LOINC Terms for : shortness of 64441-9 Over the past 3 months, I have had shortness of breath [PhenX]
+LOINC Terms for : shortness of 69680-7 Bothered by shortness of breath in last 4 weeks [Reported.PHQ]
+LOINC Terms for : shortness of 82670-1 How often have you had shortness of breath during the past 4 weeks [ACT]
+LOINC Terms for : shortness of 82671-9 How often did your asthma symptoms (wheezing, coughing, shortness of breath, chest tightness or pain) wake you up at night or earlier than usual in the morning during the past 4 weeks [ACT]
+LOINC Terms for : shortness of 86472-8 Shortness of breath limited your ability to do what you wanted over the past 2 weeks [KCCQ]
+LOINC Terms for : shortness of 86484-3 Bothered by shortness of breath over the past 2 weeks [KCCQ]
+LOINC Terms for : shortness of 86485-0 Sleep sitting up in a chair or with at least 3 pillows to prop you up because of shortness of breath over the past 2 weeks [KCCQ]
+LOINC Terms for : shortness of 86675-6 Shortness of breath during assessment period [CMS Assessment]
+LOINC Terms for : shortness of 90376-5 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when dressing yourself without help [PROMIS]
+LOINC Terms for : shortness of 90377-3 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking 50 steps/paces on flat ground at a normal speed without stopping [PROMIS]
+LOINC Terms for : shortness of 90378-1 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking up 20 stairs (2 flights) without stopping [PROMIS]
+LOINC Terms for : shortness of 90379-9 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when preparing meals [PROMIS]
+LOINC Terms for : shortness of 90380-7 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when washing dishes [PROMIS]
+LOINC Terms for : shortness of 90381-5 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when sweeping or mopping [PROMIS]
+LOINC Terms for : shortness of 90382-3 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when making a bed [PROMIS]
+LOINC Terms for : shortness of 90383-1 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when lifting something weighing 10-20 lbs (about 4.5-9 kg, like a large bag of groceries) [PROMIS]
+LOINC Terms for : shortness of 90384-9 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when carrying something weighing 10-20 lbs (about 4.5-9 kg, like a large bag of groceries) from one room to another [PROMIS]
+LOINC Terms for : shortness of 90385-6 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking (faster than your usual speed) for 1/2 mile (almost 1 km) without stopping [PROMIS]
+LOINC Terms for : shortness of 90386-4 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when taking a bath without help [PROMIS]
+LOINC Terms for : shortness of 90387-2 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when taking a shower [PROMIS]
+LOINC Terms for : shortness of 90388-0 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when putting on socks or stockings [PROMIS]
+LOINC Terms for : shortness of 90389-8 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when standing for at least 5 minutes [PROMIS]
+LOINC Terms for : shortness of 90390-6 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking 10 steps/paces on flat ground at a normal speed without stopping [PROMIS]
+LOINC Terms for : shortness of 90391-4 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking 1/2 mile (almost 1 km) on flat ground at a normal speed without stopping [PROMIS]
+LOINC Terms for : shortness of 90392-2 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking up 5 stairs without stopping [PROMIS]
+LOINC Terms for : shortness of 90393-0 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking up 10 stairs (1 flight) without stopping [PROMIS]
+LOINC Terms for : shortness of 90394-8 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking up 30 stairs (3 flights) without stopping [PROMIS]
+LOINC Terms for : shortness of 90395-5 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when scrubbing the floor or counter [PROMIS]
+LOINC Terms for : shortness of 90396-3 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when lifting something weighing less than 5 lbs (about 2 kg, like a houseplant) [PROMIS]
+LOINC Terms for : shortness of 90397-1 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when lifting something weighing 5-10 lbs (about 2-4.5 kg, like a basket of clothes) [PROMIS]
+LOINC Terms for : shortness of 90398-9 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when lifting something weighing more than 20 lbs (about 9 kg, like a medium-sized suitcase) [PROMIS]
+LOINC Terms for : shortness of 90399-7 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when carrying something weighing less than 5 lbs (about 2 kg, like a houseplant) from one room to another [PROMIS]
+LOINC Terms for : shortness of 90400-3 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when carrying something weighing 5-10 lbs (about 2-4.5 kg, like a basket of clothes) from one room to another [PROMIS]
+LOINC Terms for : shortness of 90401-1 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when getting in or out of a car [PROMIS]
+LOINC Terms for : shortness of 90402-9 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when dining out [PROMIS]
+LOINC Terms for : shortness of 90403-7 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when low-intensity leisure activity (gardening, etc.) [PROMIS]
+LOINC Terms for : shortness of 90404-5 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when moderate-intensity leisure activity (bicycling on level terrain, etc.) [PROMIS]
+LOINC Terms for : shortness of 90405-2 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking (faster than your usual speed) for 50 steps without stopping [PROMIS]
+LOINC Terms for : shortness of 90406-0 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking (faster than your usual speed) for at least 1 mile (a little more than 1.5 km) without stopping [PROMIS]
+LOINC Terms for : shortness of 90407-8 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had singing or humming [PROMIS]
+LOINC Terms for : shortness of 90408-6 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when talking while walking [PROMIS]
+LOINC Terms for : shortness of 98514-3 Intensity of shortness of breath in past 7 days
+LOINC Terms for : shortness of 98516-8 Frequency of shortness of breath in past 7 days
+LOINC Terms for : shortness of 98517-6 Duration of shortness of breath in past 7 days
+LOINC Terms for : shortness of 98518-4 Shortness of breath in general in past 7 days
+LOINC Terms for : shortness of 98526-7 I am embarrassed by my shortness of breath in past 7 days
+LOINC Terms for : shortness of 98535-8 I get upset when I can't do something because of my shortness of breath in past 7 days
+LOINC Terms for : anxiety 28135-2 Anxiety [CCC]
+LOINC Terms for : anxiety 28362-2 Anxiety [QAM]
+LOINC Terms for : anxiety 28375-4 Anxiety [HIV-SSC]
+LOINC Terms for : anxiety 45665-7 Anxiety disorder [Minimum Data Set]
+LOINC Terms for : anxiety 45837-2 Number of days antianxiety medication received [Minimum Data Set]
+LOINC Terms for : anxiety 45997-4 Indicators of depression, anxiety, sad mood Set
+LOINC Terms for : anxiety 54817-2 Anxiety disorder in last 7 days [MDSv3]
+LOINC Terms for : anxiety 54985-7 Antianxiety received in last 7 days or since admission/reentry if less than 7 days [MDSv3]
+LOINC Terms for : anxiety 61922-1 PROMIS item bank - emotional distress - anxiety - version 1.0
+LOINC Terms for : anxiety 61927-0 I felt like I needed help for my anxiety in past 7 days [PROMIS]
+LOINC Terms for : anxiety 61941-1 I found it hard to focus on anything other than my anxiety in past 7 days [PROMIS]
+LOINC Terms for : anxiety 62054-2 PROMIS pediatric item bank - emotional distress - anxiety - version 1.0
+LOINC Terms for : anxiety 62186-2 PROMIS pediatric short form - emotional distress - anxiety - 8a - version 1.0
+LOINC Terms for : anxiety 62190-4 PROMIS short form - emotional distress - anxiety 7a - version 1.0
+LOINC Terms for : anxiety 62714-1 Deprecated PhenX measure - anxiety disorders screener
+LOINC Terms for : anxiety 62715-8 PhenX - anxiety disorders screener - child protocol 120201
+LOINC Terms for : anxiety 62716-6 PhenX - anxiety disorders screener - adult protocol 120202
+LOINC Terms for : anxiety 64936-8 I am afraid of having anxiety attacks [SCARED-R]
+LOINC Terms for : anxiety 65539-9 How much did the worry or anxiety interfere with your life or activities [CIDI-SF]
+LOINC Terms for : anxiety 65635-5 When you have sudden anxiety attacks, do they usually occur in specific situations that cause you unreasonably strong fear [CIDI-SF]
+LOINC Terms for : anxiety 65684-3 Do you experience frustration, tension or anxiety over not being able to go to sleep during the night when you cannot fall asleep [PhenX]
+LOINC Terms for : anxiety 67889-6 Neuro-Qol item bank - anxiety - version 1.0
+LOINC Terms for : anxiety 67903-5 Neuro-Qol short form - anxiety - version 1.0
+LOINC Terms for : anxiety 68127-0 Neuro-Qol pediatric item bank - anxiety - version 1.0 [NeuroQol.Peds]
+LOINC Terms for : anxiety 68136-1 Neuro-Qol pediatric short form - anxiety - version 1.0 [NeuroQol.Peds]
+LOINC Terms for : anxiety 69716-9 In the last 4 weeks, have you had an anxiety attack - suddenly feeling fear or panic [Reported.PHQ]
+LOINC Terms for : anxiety 69729-2 Patient Health Questionnaire - Somatic, Anxiety, and Depressive Symptoms (PHQ-SADS) [Reported]
+LOINC Terms for : anxiety 69737-5 Generalized anxiety disorder 7 item (GAD-7)
+LOINC Terms for : anxiety 70271-2 Patient Health Questionnaire - Somatic, Anxiety, and Depressive Symptoms (PHQ-SADS) total score [Reported]
+LOINC Terms for : anxiety 70274-6 Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+LOINC Terms for : anxiety 71551-6 I have attacks of anxiety or panic in the last 2 weeks or more [M3]
+LOINC Terms for : anxiety 71755-3 Anxiety score [M3]
+LOINC Terms for : anxiety 71816-3 I have attacks of anxiety or panic since I took my last screen [M3]
+LOINC Terms for : anxiety 71967-4 PROMIS-29 Anxiety score T-score
+LOINC Terms for : anxiety 71968-2 PROMIS-29 Anxiety score
+LOINC Terms for : anxiety 72704-0 My mood rapidly cycled in terms of anxiety, anger, and depression in last week [BSL-23]
+LOINC Terms for : anxiety 76344-1 PROMIS short form - emotional distress - anxiety 4a - version 1.0
+LOINC Terms for : anxiety 77820-9 PROMIS short form - emotional distress - anxiety 4a - version 1.0 raw score
+LOINC Terms for : anxiety 77836-5 PROMIS short form - emotional distress - anxiety 7a - version 1.0 raw score
+LOINC Terms for : anxiety 77845-6 PROMIS pediatric short form - emotional distress - anxiety 8a - version 1.0 raw score
+LOINC Terms for : anxiety 77862-1 PROMIS emotional distress - anxiety - version 1.0 Tscore
+LOINC Terms for : anxiety 77873-8 PROMIS pediatric emotional distress - anxiety - version 1.0 Tscore
+LOINC Terms for : anxiety 77875-3 PROMIS pediatric short form - emotional distress - anxiety 8b - version 1.1
+LOINC Terms for : anxiety 78170-8 PROMIS pediatric short form - emotional distress - anxiety 8b - version 1.1 raw score
+LOINC Terms for : anxiety 85120-4 Fear-Separation Anxiety Survey version 2.0 - parent report - ages 3-7 - T-score [NIH Toolbox]
+LOINC Terms for : anxiety 85121-2 Fear-Separation Anxiety Survey version 2.0 - parent report - fixed length form - ages 3-7 [NIH Toolbox]
+LOINC Terms for : anxiety 86752-3 Number of days antianxiety received in last 7 days or since admission/reentry if less than 7 days [CMS Assessment]
+LOINC Terms for : anxiety 89558-1 Anxiety symptoms score [CUBS]
+LOINC Terms for : anxiety 89679-5 PROMIS cancer item bank - emotional distress - anxiety - version 1.0
+LOINC Terms for : anxiety 89680-3 PROMIS cancer emotional distress - anxiety - version 1.0 T-score
+LOINC Terms for : anxiety 90034-0 Over the past week, are you able to deal with feelings of anxiety or being nervous [HAQ]
+LOINC Terms for : anxiety 90854-1 Duke Anxiety Depression Scale [DUKE-AD]
+LOINC Terms for : anxiety 91539-7 PROMIS pediatric anxiety - version 2.0 T-score
+LOINC Terms for : anxiety 91540-5 PROMIS pediatric item bank - anxiety - version 2.0
+LOINC Terms for : anxiety 91987-8 PROMIS parent proxy anxiety - version 2.0 T-score
+LOINC Terms for : anxiety 91988-6 PROMIS parent proxy item bank - anxiety - version 2.0
+LOINC Terms for : anxiety 92210-4 Smoking helps me deal with anxiety [PROMIS]
+LOINC Terms for : anxiety 92335-9 Current level of confidence I can relax my body to reduce my anxiety [PROMIS]
+LOINC Terms for : anxiety 92339-1 Current level of confidence I can manage my anxiety about telling others I have health problems [PROMIS]
+LOINC Terms for : anxiety 92342-5 Current level of confidence I can manage anxiety about injuring myself or others (for example: falling, dropping a child, a driving accident) [PROMIS]
+LOINC Terms for : anxiety 92344-1 Current level of confidence I can keep anxiety from becoming overwhelming [PROMIS]
+LOINC Terms for : anxiety 92349-0 Current level of confidence I can focus on something else to decrease anxiety [PROMIS]
+LOINC Terms for : anxiety 92586-7 PROMIS parent proxy short form - anxiety 8a - version 2.0
+LOINC Terms for : anxiety 92614-7 PROMIS parent proxy short form - anxiety 8a - version 2.0 raw score
+LOINC Terms for : anxiety 94017-1 Anxiety screening report
+LOINC Terms for : anxiety 94024-7 Anxiety score
+LOINC Terms for : anxiety 94025-4 Anxiety severity
+LOINC Terms for : anxiety 95875-1 Brief anxiety and depression scale [BADS]
+LOINC Terms for : anxiety 95878-5 Anxiety score [BADS]
+LOINC Terms for : anxiety 96834-7 Coronavirus anxiety scale
+LOINC Terms for : anxiety 96866-9 Used medication for anxiety or sleep not as prescribed or not prescribed for you in past 3 months
+LOINC Terms for : anxiety 96867-7 Have you had a strong desire or urge to use medications for anxiety or sleep at least once a week or more often in past 3 months [TAPS]
+LOINC Terms for : anxiety 96868-5 Has anyone expressed concern about your use of medication for anxiety or sleep in past 3 months [TAPS]
+LOINC Terms for : anxiety 28135-2 Anxiety [CCC]
+LOINC Terms for : anxiety 28362-2 Anxiety [QAM]
+LOINC Terms for : anxiety 28375-4 Anxiety [HIV-SSC]
+LOINC Terms for : anxiety 45665-7 Anxiety disorder [Minimum Data Set]
+LOINC Terms for : anxiety 45837-2 Number of days antianxiety medication received [Minimum Data Set]
+LOINC Terms for : anxiety 45997-4 Indicators of depression, anxiety, sad mood Set
+LOINC Terms for : anxiety 54817-2 Anxiety disorder in last 7 days [MDSv3]
+LOINC Terms for : anxiety 54985-7 Antianxiety received in last 7 days or since admission/reentry if less than 7 days [MDSv3]
+LOINC Terms for : anxiety 61922-1 PROMIS item bank - emotional distress - anxiety - version 1.0
+LOINC Terms for : anxiety 61927-0 I felt like I needed help for my anxiety in past 7 days [PROMIS]
+LOINC Terms for : anxiety 61941-1 I found it hard to focus on anything other than my anxiety in past 7 days [PROMIS]
+LOINC Terms for : anxiety 62054-2 PROMIS pediatric item bank - emotional distress - anxiety - version 1.0
+LOINC Terms for : anxiety 62186-2 PROMIS pediatric short form - emotional distress - anxiety - 8a - version 1.0
+LOINC Terms for : anxiety 62190-4 PROMIS short form - emotional distress - anxiety 7a - version 1.0
+LOINC Terms for : anxiety 62714-1 Deprecated PhenX measure - anxiety disorders screener
+LOINC Terms for : anxiety 62715-8 PhenX - anxiety disorders screener - child protocol 120201
+LOINC Terms for : anxiety 62716-6 PhenX - anxiety disorders screener - adult protocol 120202
+LOINC Terms for : anxiety 64936-8 I am afraid of having anxiety attacks [SCARED-R]
+LOINC Terms for : anxiety 65539-9 How much did the worry or anxiety interfere with your life or activities [CIDI-SF]
+LOINC Terms for : anxiety 65635-5 When you have sudden anxiety attacks, do they usually occur in specific situations that cause you unreasonably strong fear [CIDI-SF]
+LOINC Terms for : anxiety 65684-3 Do you experience frustration, tension or anxiety over not being able to go to sleep during the night when you cannot fall asleep [PhenX]
+LOINC Terms for : anxiety 67889-6 Neuro-Qol item bank - anxiety - version 1.0
+LOINC Terms for : anxiety 67903-5 Neuro-Qol short form - anxiety - version 1.0
+LOINC Terms for : anxiety 68127-0 Neuro-Qol pediatric item bank - anxiety - version 1.0 [NeuroQol.Peds]
+LOINC Terms for : anxiety 68136-1 Neuro-Qol pediatric short form - anxiety - version 1.0 [NeuroQol.Peds]
+LOINC Terms for : anxiety 69716-9 In the last 4 weeks, have you had an anxiety attack - suddenly feeling fear or panic [Reported.PHQ]
+LOINC Terms for : anxiety 69729-2 Patient Health Questionnaire - Somatic, Anxiety, and Depressive Symptoms (PHQ-SADS) [Reported]
+LOINC Terms for : anxiety 69737-5 Generalized anxiety disorder 7 item (GAD-7)
+LOINC Terms for : anxiety 70271-2 Patient Health Questionnaire - Somatic, Anxiety, and Depressive Symptoms (PHQ-SADS) total score [Reported]
+LOINC Terms for : anxiety 70274-6 Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]
+LOINC Terms for : anxiety 71551-6 I have attacks of anxiety or panic in the last 2 weeks or more [M3]
+LOINC Terms for : anxiety 71755-3 Anxiety score [M3]
+LOINC Terms for : anxiety 71816-3 I have attacks of anxiety or panic since I took my last screen [M3]
+LOINC Terms for : anxiety 71967-4 PROMIS-29 Anxiety score T-score
+LOINC Terms for : anxiety 71968-2 PROMIS-29 Anxiety score
+LOINC Terms for : anxiety 72704-0 My mood rapidly cycled in terms of anxiety, anger, and depression in last week [BSL-23]
+LOINC Terms for : anxiety 76344-1 PROMIS short form - emotional distress - anxiety 4a - version 1.0
+LOINC Terms for : anxiety 77820-9 PROMIS short form - emotional distress - anxiety 4a - version 1.0 raw score
+LOINC Terms for : anxiety 77836-5 PROMIS short form - emotional distress - anxiety 7a - version 1.0 raw score
+LOINC Terms for : anxiety 77845-6 PROMIS pediatric short form - emotional distress - anxiety 8a - version 1.0 raw score
+LOINC Terms for : anxiety 77862-1 PROMIS emotional distress - anxiety - version 1.0 Tscore
+LOINC Terms for : anxiety 77873-8 PROMIS pediatric emotional distress - anxiety - version 1.0 Tscore
+LOINC Terms for : anxiety 77875-3 PROMIS pediatric short form - emotional distress - anxiety 8b - version 1.1
+LOINC Terms for : anxiety 78170-8 PROMIS pediatric short form - emotional distress - anxiety 8b - version 1.1 raw score
+LOINC Terms for : anxiety 85120-4 Fear-Separation Anxiety Survey version 2.0 - parent report - ages 3-7 - T-score [NIH Toolbox]
+LOINC Terms for : anxiety 85121-2 Fear-Separation Anxiety Survey version 2.0 - parent report - fixed length form - ages 3-7 [NIH Toolbox]
+LOINC Terms for : anxiety 86752-3 Number of days antianxiety received in last 7 days or since admission/reentry if less than 7 days [CMS Assessment]
+LOINC Terms for : anxiety 89558-1 Anxiety symptoms score [CUBS]
+LOINC Terms for : anxiety 89679-5 PROMIS cancer item bank - emotional distress - anxiety - version 1.0
+LOINC Terms for : anxiety 89680-3 PROMIS cancer emotional distress - anxiety - version 1.0 T-score
+LOINC Terms for : anxiety 90034-0 Over the past week, are you able to deal with feelings of anxiety or being nervous [HAQ]
+LOINC Terms for : anxiety 90854-1 Duke Anxiety Depression Scale [DUKE-AD]
+LOINC Terms for : anxiety 91539-7 PROMIS pediatric anxiety - version 2.0 T-score
+LOINC Terms for : anxiety 91540-5 PROMIS pediatric item bank - anxiety - version 2.0
+LOINC Terms for : anxiety 91987-8 PROMIS parent proxy anxiety - version 2.0 T-score
+LOINC Terms for : anxiety 91988-6 PROMIS parent proxy item bank - anxiety - version 2.0
+LOINC Terms for : anxiety 92210-4 Smoking helps me deal with anxiety [PROMIS]
+LOINC Terms for : anxiety 92335-9 Current level of confidence I can relax my body to reduce my anxiety [PROMIS]
+LOINC Terms for : anxiety 92339-1 Current level of confidence I can manage my anxiety about telling others I have health problems [PROMIS]
+LOINC Terms for : anxiety 92342-5 Current level of confidence I can manage anxiety about injuring myself or others (for example: falling, dropping a child, a driving accident) [PROMIS]
+LOINC Terms for : anxiety 92344-1 Current level of confidence I can keep anxiety from becoming overwhelming [PROMIS]
+LOINC Terms for : anxiety 92349-0 Current level of confidence I can focus on something else to decrease anxiety [PROMIS]
+LOINC Terms for : anxiety 92586-7 PROMIS parent proxy short form - anxiety 8a - version 2.0
+LOINC Terms for : anxiety 92614-7 PROMIS parent proxy short form - anxiety 8a - version 2.0 raw score
+LOINC Terms for : anxiety 94017-1 Anxiety screening report
+LOINC Terms for : anxiety 94024-7 Anxiety score
+LOINC Terms for : anxiety 94025-4 Anxiety severity
+LOINC Terms for : anxiety 95875-1 Brief anxiety and depression scale [BADS]
+LOINC Terms for : anxiety 95878-5 Anxiety score [BADS]
+LOINC Terms for : anxiety 96834-7 Coronavirus anxiety scale
+LOINC Terms for : anxiety 96866-9 Used medication for anxiety or sleep not as prescribed or not prescribed for you in past 3 months
+LOINC Terms for : anxiety 96867-7 Have you had a strong desire or urge to use medications for anxiety or sleep at least once a week or more often in past 3 months [TAPS]
+LOINC Terms for : anxiety 96868-5 Has anyone expressed concern about your use of medication for anxiety or sleep in past 3 months [TAPS]
+LOINC Terms for : undice 70420-5 I am bothered by jaundice or yellow color to my skin in the past 7 days [FACIT]
+LOINC Terms for : undice 70420-5 I am bothered by jaundice or yellow color to my skin in the past 7 days [FACIT]
+LOINC Terms for : fatigue 28100-6 Fatigue [CCC]
+LOINC Terms for : fatigue 28383-8 Fatigue [HIV-SSC]
+LOINC Terms for : fatigue 38939-5 VA Compensation and Pension (C and P) examination chronic fatigue syndrome
+LOINC Terms for : fatigue 61584-9 How would you rate your fatigue on average in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61795-1 PROMIS item bank - fatigue - version 1.0
+LOINC Terms for : fatigue 61796-9 To what degree did you have to push yourself to get things done because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61797-7 To what degree did your fatigue make you feel slowed down in your thinking in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61798-5 How often did you have to push yourself to get things done because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61799-3 How often did your fatigue interfere with your social activities in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61800-9 How often are you less effective at work due to your fatigue (include work at home) in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61801-7 How often did your fatigue make you feel slowed down in your thinking in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61803-3 How often did your fatigue make it difficult to plan activities ahead of time in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61804-1 How often did your fatigue make it difficult to start anything new in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61805-8 How often did your fatigue make you more forgetful in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61807-4 How often did your fatigue make it difficult to organize your thoughts when doing things at work (include work at home) in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61808-2 How often did your fatigue interfere with your ability to engage in recreational activities in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61809-0 How often did you have trouble finishing things because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61810-8 How often did your fatigue make it difficult to make decisions in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61811-6 How often did you have to limit your social activities because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61813-2 How often did your fatigue make you feel less alert in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61815-7 How often did your fatigue make it difficult to organize your thoughts when doing things at home in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61816-5 How often did you have trouble starting things because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61817-3 How often was it an effort to carry on a conversation because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61819-9 To what degree did you have trouble starting things because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61820-7 How hard was it for you to carry on a conversation because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61823-1 How often did your fatigue limit you at work (include work at home) in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61824-9 To what degree did you have to limit your social activities because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61825-6 To what degree did your fatigue make it difficult to organize your thoughts when doing things at home in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61826-4 To what degree did your fatigue make it difficult to start anything new in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61827-2 Due to your fatigue were you less effective at work (include work at home) in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61828-0 To what degree did your fatigue make it difficult to make decisions in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61830-6 How often were you less effective at home due to your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61831-4 To what degree did your fatigue make it difficult to organize your thoughts when doing things at work (include work at home) in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61832-2 To what degree did your fatigue make you more forgetful in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61833-0 To what degree did your fatigue interfere with your ability to engage in recreational activities in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61834-8 To what degree did you have to force yourself to get up and do things because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61835-5 To what degree did your fatigue interfere with your social activities in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61836-3 To what degree did your fatigue interfere with your physical functioning in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61837-1 Did fatigue make you less effective at home in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61838-9 To what degree did you have trouble finishing things because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61839-7 To what degree did your fatigue make you feel less alert in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61841-3 How often did you have to force yourself to get up and do things because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61846-2 How often did you feel your fatigue was beyond your control in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61853-8 How fatigued were you when your fatigue was at its worst in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61854-6 How often were you bothered by your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61861-1 How much were you bothered by your fatigue on average in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61863-7 How fatigued were you on the day you felt most fatigued in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61864-5 How fatigued were you on average in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61870-2 On how many days was your fatigue worse in the morning in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61872-8 How often did you think about your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61873-6 How fatigued were you on the day you felt least fatigued in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61877-7 What was the level of your fatigue on most days in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61878-5 I feel fatigued during the past 7 days [PROMIS]
+LOINC Terms for : fatigue 62097-1 PROMIS pediatric item bank - fatigue - version 1.0
+LOINC Terms for : fatigue 62192-0 PROMIS short form - fatigue 7a - version 1.0
+LOINC Terms for : fatigue 62210-0 PROMIS pediatric short form - fatigue 10a - version 1.0
+LOINC Terms for : fatigue 64097-9 Fatigue --post exercise
+LOINC Terms for : fatigue 64101-9 Fatigue --resting
+LOINC Terms for : fatigue 64492-2 How often do you feel tired or fatigued after your sleep [PhenX]
+LOINC Terms for : fatigue 64493-0 During your waking time, do you feel tired, fatigued, or not up to par [PhenX]
+LOINC Terms for : fatigue 65953-2 Loss of energy or fatigue [DI-PAD]
+LOINC Terms for : fatigue 67891-2 Neuro-Qol item bank - fatigue - version 1.0
+LOINC Terms for : fatigue 67905-0 Neuro-Qol short form - fatigue - version 1.0
+LOINC Terms for : fatigue 67919-1 I felt fatigued in the past 7 days [NeuroQol]
+LOINC Terms for : fatigue 67925-8 I needed help doing my usual activities because of my fatigue in the past 7 days [NeuroQol]
+LOINC Terms for : fatigue 68132-0 Neuro-Qol pediatric item bank - fatigue - version 1.0 [NeuroQol.Peds]
+LOINC Terms for : fatigue 68141-1 Neuro-Qol pediatric short form - fatigue - version 1.0 [NeuroQol.Peds]
+LOINC Terms for : fatigue 70426-2 I feel fatigued in the past 7 days [FACIT]
+LOINC Terms for : fatigue 70726-5 Functional Assessment of Chronic Illness Therapy-Fatigue Questionnaire - version 4 (FACIT-F)
+LOINC Terms for : fatigue 70735-6 Functional Assessment of Chronic Illness Therapy-Fatigue Questionnaire -13 items - version 4 (FACIT - fatigue 13)
+LOINC Terms for : fatigue 70736-4 Functional Assessment of Cancer Therapy for patients with anemia - fatigue questionnaire - version 4 (FACT-An) [FACIT]
+LOINC Terms for : fatigue 71118-4 Thinking and fatigue [FACIT]
+LOINC Terms for : fatigue 71151-5 Pediatric - Functional Assessment of Chronic Illness Therapy - Fatigue Questionnaire (Peds-FACIT-Fatigue)
+LOINC Terms for : fatigue 71963-3 PROMIS-29 Fatigue score T-score
+LOINC Terms for : fatigue 71964-1 PROMIS-29 Fatigue score
+LOINC Terms for : fatigue 72349-4 Level of fatigue on average over the past month [Reported]
+LOINC Terms for : fatigue 76342-5 PROMIS short form - fatigue 4a - version 1.0
+LOINC Terms for : fatigue 77822-5 PROMIS short form - fatigue 4a - version 1.0 raw score
+LOINC Terms for : fatigue 77834-0 PROMIS short form - fatigue 7a - version 1.0 raw score
+LOINC Terms for : fatigue 77840-7 PROMIS pediatric short form - fatigue 10a - version 1.0 raw score
+LOINC Terms for : fatigue 77864-7 PROMIS fatigue - version 1.0 Tscore
+LOINC Terms for : fatigue 77871-2 PROMIS pediatric fatigue - version 1.0 Tscore
+LOINC Terms for : fatigue 85620-3 Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making you tired, fatigued or low on energy [MLHFQ]
+LOINC Terms for : fatigue 86481-9 Fatigue limited your ability to do what you wanted over the past 2 weeks [KCCQ]
+LOINC Terms for : fatigue 86482-7 Bothered by fatigue over the past 2 weeks [KCCQ]
+LOINC Terms for : fatigue 89676-1 PROMIS cancer fatigue - version 1.0 T-score
+LOINC Terms for : fatigue 89677-9 PROMIS cancer item bank - fatigue - version 1.0
+LOINC Terms for : fatigue 91533-0 PROMIS pediatric fatigue - version 2.0 T-score
+LOINC Terms for : fatigue 91534-8 PROMIS pediatric item bank - fatigue - version 2.0
+LOINC Terms for : fatigue 91933-2 PROMIS parent proxy item bank - fatigue version 2.0
+LOINC Terms for : fatigue 91934-0 PROMIS parent proxy fatigue - version 2.0 T-score
+LOINC Terms for : fatigue 92587-5 PROMIS parent proxy short form - fatigue 10a - version 2.0
+LOINC Terms for : fatigue 92615-4 PROMIS parent proxy short form - fatigue 10a - version 2.0 raw score
+LOINC Terms for : fatigue 93108-9 During the past 4 weeks, because of my health situation I have problems in my work with fatigue/lack of energy [Quality of Working Life Questionnaire for Cancer Survivors]
+LOINC Terms for : fatigue 97883-3 Medication causes light-headedness or fatigue
+LOINC Terms for : fatigue 97902-1 Fatigue panel [R-Outcomes]
+LOINC Terms for : fatigue 97903-9 Fatigue total score [R-Outcomes]
+LOINC Terms for : fatigue 28100-6 Fatigue [CCC]
+LOINC Terms for : fatigue 28383-8 Fatigue [HIV-SSC]
+LOINC Terms for : fatigue 38939-5 VA Compensation and Pension (C and P) examination chronic fatigue syndrome
+LOINC Terms for : fatigue 61584-9 How would you rate your fatigue on average in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61795-1 PROMIS item bank - fatigue - version 1.0
+LOINC Terms for : fatigue 61796-9 To what degree did you have to push yourself to get things done because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61797-7 To what degree did your fatigue make you feel slowed down in your thinking in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61798-5 How often did you have to push yourself to get things done because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61799-3 How often did your fatigue interfere with your social activities in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61800-9 How often are you less effective at work due to your fatigue (include work at home) in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61801-7 How often did your fatigue make you feel slowed down in your thinking in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61803-3 How often did your fatigue make it difficult to plan activities ahead of time in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61804-1 How often did your fatigue make it difficult to start anything new in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61805-8 How often did your fatigue make you more forgetful in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61807-4 How often did your fatigue make it difficult to organize your thoughts when doing things at work (include work at home) in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61808-2 How often did your fatigue interfere with your ability to engage in recreational activities in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61809-0 How often did you have trouble finishing things because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61810-8 How often did your fatigue make it difficult to make decisions in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61811-6 How often did you have to limit your social activities because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61813-2 How often did your fatigue make you feel less alert in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61815-7 How often did your fatigue make it difficult to organize your thoughts when doing things at home in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61816-5 How often did you have trouble starting things because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61817-3 How often was it an effort to carry on a conversation because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61819-9 To what degree did you have trouble starting things because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61820-7 How hard was it for you to carry on a conversation because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61823-1 How often did your fatigue limit you at work (include work at home) in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61824-9 To what degree did you have to limit your social activities because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61825-6 To what degree did your fatigue make it difficult to organize your thoughts when doing things at home in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61826-4 To what degree did your fatigue make it difficult to start anything new in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61827-2 Due to your fatigue were you less effective at work (include work at home) in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61828-0 To what degree did your fatigue make it difficult to make decisions in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61830-6 How often were you less effective at home due to your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61831-4 To what degree did your fatigue make it difficult to organize your thoughts when doing things at work (include work at home) in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61832-2 To what degree did your fatigue make you more forgetful in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61833-0 To what degree did your fatigue interfere with your ability to engage in recreational activities in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61834-8 To what degree did you have to force yourself to get up and do things because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61835-5 To what degree did your fatigue interfere with your social activities in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61836-3 To what degree did your fatigue interfere with your physical functioning in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61837-1 Did fatigue make you less effective at home in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61838-9 To what degree did you have trouble finishing things because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61839-7 To what degree did your fatigue make you feel less alert in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61841-3 How often did you have to force yourself to get up and do things because of your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61846-2 How often did you feel your fatigue was beyond your control in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61853-8 How fatigued were you when your fatigue was at its worst in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61854-6 How often were you bothered by your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61861-1 How much were you bothered by your fatigue on average in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61863-7 How fatigued were you on the day you felt most fatigued in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61864-5 How fatigued were you on average in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61870-2 On how many days was your fatigue worse in the morning in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61872-8 How often did you think about your fatigue in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61873-6 How fatigued were you on the day you felt least fatigued in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61877-7 What was the level of your fatigue on most days in past 7 days [PROMIS]
+LOINC Terms for : fatigue 61878-5 I feel fatigued during the past 7 days [PROMIS]
+LOINC Terms for : fatigue 62097-1 PROMIS pediatric item bank - fatigue - version 1.0
+LOINC Terms for : fatigue 62192-0 PROMIS short form - fatigue 7a - version 1.0
+LOINC Terms for : fatigue 62210-0 PROMIS pediatric short form - fatigue 10a - version 1.0
+LOINC Terms for : fatigue 64097-9 Fatigue --post exercise
+LOINC Terms for : fatigue 64101-9 Fatigue --resting
+LOINC Terms for : fatigue 64492-2 How often do you feel tired or fatigued after your sleep [PhenX]
+LOINC Terms for : fatigue 64493-0 During your waking time, do you feel tired, fatigued, or not up to par [PhenX]
+LOINC Terms for : fatigue 65953-2 Loss of energy or fatigue [DI-PAD]
+LOINC Terms for : fatigue 67891-2 Neuro-Qol item bank - fatigue - version 1.0
+LOINC Terms for : fatigue 67905-0 Neuro-Qol short form - fatigue - version 1.0
+LOINC Terms for : fatigue 67919-1 I felt fatigued in the past 7 days [NeuroQol]
+LOINC Terms for : fatigue 67925-8 I needed help doing my usual activities because of my fatigue in the past 7 days [NeuroQol]
+LOINC Terms for : fatigue 68132-0 Neuro-Qol pediatric item bank - fatigue - version 1.0 [NeuroQol.Peds]
+LOINC Terms for : fatigue 68141-1 Neuro-Qol pediatric short form - fatigue - version 1.0 [NeuroQol.Peds]
+LOINC Terms for : fatigue 70426-2 I feel fatigued in the past 7 days [FACIT]
+LOINC Terms for : fatigue 70726-5 Functional Assessment of Chronic Illness Therapy-Fatigue Questionnaire - version 4 (FACIT-F)
+LOINC Terms for : fatigue 70735-6 Functional Assessment of Chronic Illness Therapy-Fatigue Questionnaire -13 items - version 4 (FACIT - fatigue 13)
+LOINC Terms for : fatigue 70736-4 Functional Assessment of Cancer Therapy for patients with anemia - fatigue questionnaire - version 4 (FACT-An) [FACIT]
+LOINC Terms for : fatigue 71118-4 Thinking and fatigue [FACIT]
+LOINC Terms for : fatigue 71151-5 Pediatric - Functional Assessment of Chronic Illness Therapy - Fatigue Questionnaire (Peds-FACIT-Fatigue)
+LOINC Terms for : fatigue 71963-3 PROMIS-29 Fatigue score T-score
+LOINC Terms for : fatigue 71964-1 PROMIS-29 Fatigue score
+LOINC Terms for : fatigue 72349-4 Level of fatigue on average over the past month [Reported]
+LOINC Terms for : fatigue 76342-5 PROMIS short form - fatigue 4a - version 1.0
+LOINC Terms for : fatigue 77822-5 PROMIS short form - fatigue 4a - version 1.0 raw score
+LOINC Terms for : fatigue 77834-0 PROMIS short form - fatigue 7a - version 1.0 raw score
+LOINC Terms for : fatigue 77840-7 PROMIS pediatric short form - fatigue 10a - version 1.0 raw score
+LOINC Terms for : fatigue 77864-7 PROMIS fatigue - version 1.0 Tscore
+LOINC Terms for : fatigue 77871-2 PROMIS pediatric fatigue - version 1.0 Tscore
+LOINC Terms for : fatigue 85620-3 Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making you tired, fatigued or low on energy [MLHFQ]
+LOINC Terms for : fatigue 86481-9 Fatigue limited your ability to do what you wanted over the past 2 weeks [KCCQ]
+LOINC Terms for : fatigue 86482-7 Bothered by fatigue over the past 2 weeks [KCCQ]
+LOINC Terms for : fatigue 89676-1 PROMIS cancer fatigue - version 1.0 T-score
+LOINC Terms for : fatigue 89677-9 PROMIS cancer item bank - fatigue - version 1.0
+LOINC Terms for : fatigue 91533-0 PROMIS pediatric fatigue - version 2.0 T-score
+LOINC Terms for : fatigue 91534-8 PROMIS pediatric item bank - fatigue - version 2.0
+LOINC Terms for : fatigue 91933-2 PROMIS parent proxy item bank - fatigue version 2.0
+LOINC Terms for : fatigue 91934-0 PROMIS parent proxy fatigue - version 2.0 T-score
+LOINC Terms for : fatigue 92587-5 PROMIS parent proxy short form - fatigue 10a - version 2.0
+LOINC Terms for : fatigue 92615-4 PROMIS parent proxy short form - fatigue 10a - version 2.0 raw score
+LOINC Terms for : fatigue 93108-9 During the past 4 weeks, because of my health situation I have problems in my work with fatigue/lack of energy [Quality of Working Life Questionnaire for Cancer Survivors]
+LOINC Terms for : fatigue 97883-3 Medication causes light-headedness or fatigue
+LOINC Terms for : fatigue 97902-1 Fatigue panel [R-Outcomes]
+LOINC Terms for : fatigue 97903-9 Fatigue total score [R-Outcomes]
+LOINC Terms for : sleep 100234-4 Trouble staying asleep
+LOINC Terms for : sleep 100247-6 Trouble falling asleep
+LOINC Terms for : sleep 100777-2 Restless sleep
+LOINC Terms for : sleep 20002-2 Oxygen [Partial pressure] (Maximum value during study) Capillary blood Transcutaneous O2 monitor --on high flow oxygen and asleep
+LOINC Terms for : sleep 20003-0 Oxygen [Partial pressure] (Minimum value during study) Capillary blood Transcutaneous O2 monitor --on high flow oxygen and asleep
+LOINC Terms for : sleep 20008-9 Oxygen [Partial pressure] (Maximum value during study) Capillary blood Transcutaneous O2 monitor --on low flow oxygen and asleep
+LOINC Terms for : sleep 20009-7 Oxygen [Partial pressure] (Minimum value during study) Capillary blood Transcutaneous O2 monitor --on low flow oxygen and asleep
+LOINC Terms for : sleep 20014-7 Oxygen [Partial pressure] (Maximum value during study) Capillary blood Transcutaneous O2 monitor --on room air and asleep
+LOINC Terms for : sleep 20015-4 Oxygen [Partial pressure] (Minimum value during study) Capillary blood Transcutaneous O2 monitor --on room air and asleep
+LOINC Terms for : sleep 28210-3 Sleep pattern disturbance [CCC]
+LOINC Terms for : sleep 28341-6 Sleep And Rest Pattern Behavior [OMAHA]
+LOINC Terms for : sleep 28342-4 Sleep And Rest Pattern Knowledge [OMAHA]
+LOINC Terms for : sleep 28343-2 Sleep And Rest Pattern Status [OMAHA]
+LOINC Terms for : sleep 28498-4 Sleep And Rest Pattern Behavior Family [OMAHA]
+LOINC Terms for : sleep 28499-2 Sleep And Rest Pattern Knowledge Family [OMAHA]
+LOINC Terms for : sleep 28500-7 Sleep And Rest Pattern Status Family [OMAHA]
+LOINC Terms for : sleep 42847-4 Sleep deprivation [CCC]
+LOINC Terms for : sleep 44259-0 Trouble falling or staying asleep, or sleeping too much in last 2 weeks [Reported.PHQ]
+LOINC Terms for : sleep 45550-1 Insomnia/change in sleeping pattern [Minimum Data Set]
+LOINC Terms for : sleep 45999-0 Sleep-cycle issues Set
+LOINC Terms for : sleep 46888-4 Sleep And Rest Pattern Behavior Community [OMAHA]
+LOINC Terms for : sleep 46889-2 Sleep And Rest Pattern Knowledge Community [OMAHA]
+LOINC Terms for : sleep 46890-0 Sleep And Rest Pattern Status Community [OMAHA]
+LOINC Terms for : sleep 52605-3 Pain has made it hard to sleep during last 2 days [CARE]
+LOINC Terms for : sleep 54640-8 Trouble falling or staying asleep, or sleeping too much in last 2 weeks.presence [Reported PHQ-9 CMS]
+LOINC Terms for : sleep 54641-6 Trouble falling or staying asleep, or sleeping too much in last 2 weeks.frequency [Reported PHQ-9 CMS]
+LOINC Terms for : sleep 54662-2 Trouble falling or staying asleep, or sleeping too much in last 2 weeks.presence [Observed PHQ-9 CMS]
+LOINC Terms for : sleep 54663-0 Trouble falling or staying asleep, or sleeping too much in last 2 weeks.frequency [Observed PHQ-9 CMS]
+LOINC Terms for : sleep 54831-3 Pain has made it hard to sleep during assessment period [CMS Assessment]
+LOINC Terms for : sleep 61767-0 How much did pain make it difficult to fall asleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 61884-3 I needed to sleep during the day in past 7 days [PROMIS]
+LOINC Terms for : sleep 61947-8 I had difficulty sleeping in past 7 days [PROMIS]
+LOINC Terms for : sleep 61981-7 Deprecated Deprecated Sleep Protocols PROMIS
+LOINC Terms for : sleep 61982-5 PROMIS item bank - sleep disturbance - version 1.0
+LOINC Terms for : sleep 61983-3 My sleep was restful in past 7 days [PROMIS]
+LOINC Terms for : sleep 61984-1 My sleep was deep in past 7 days [PROMIS]
+LOINC Terms for : sleep 61985-8 I was satisfied with my sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 61986-6 My sleep was refreshing in past 7 days [PROMIS]
+LOINC Terms for : sleep 61987-4 My sleep quality was...in past 7 days [PROMIS]
+LOINC Terms for : sleep 61988-2 I got enough sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 61989-0 It was easy for me to fall asleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 61990-8 I laid in bed for hours waiting to fall asleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 61991-6 I woke up too early and could not fall back asleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 61992-4 Trouble staying asleep in past 7 days
+LOINC Terms for : sleep 61993-2 I had trouble sleeping in past 7 days [PROMIS]
+LOINC Terms for : sleep 61994-0 I woke up and had trouble falling back to sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 61995-7 My sleep was light in past 7 days [PROMIS]
+LOINC Terms for : sleep 61996-5 My sleep was restless in past 7 days [PROMIS]
+LOINC Terms for : sleep 61998-1 I had a problem with my sleep 7 days [PROMIS]
+LOINC Terms for : sleep 61999-9 I had difficulty falling asleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 62001-3 I worried about not being able to fall asleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 62005-4 I had trouble getting into a comfortable position to sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 62006-2 I tried hard to get to sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 62007-0 Stress disturbed my sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 62009-6 I was afraid I would not get back to sleep after waking up in past 7 days [PROMIS]
+LOINC Terms for : sleep 62010-4 PROMIS item bank - sleep related impairment - version 1.0
+LOINC Terms for : sleep 62011-2 I tried to sleep whenever I could in past 7 days [PROMIS]
+LOINC Terms for : sleep 62012-0 My daytime activities are disturbed by poor sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 62013-8 I was sleepy during the daytime in past 7 days [PROMIS]
+LOINC Terms for : sleep 62015-3 I had a hard time getting things done because I was sleepy in past 7 days [PROMIS]
+LOINC Terms for : sleep 62016-1 I had a hard time concentrating because I was sleepy in past 7 days [PROMIS]
+LOINC Terms for : sleep 62017-9 I had problems during the day because of poor sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 62018-7 I had a hard time concentrating because of poor sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 62019-5 I felt irritable because of poor sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 62020-3 I had a hard time controlling my emotions because of poor sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 62022-9 I still felt sleepy when I woke up in past 7 days [PROMIS]
+LOINC Terms for : sleep 62072-4 I had trouble sleeping at night because of my asthma in past 7 days [PROMIS]
+LOINC Terms for : sleep 62144-1 I had trouble sleeping when I had pain in past 7 days [PROMIS]
+LOINC Terms for : sleep 62197-9 PROMIS short form - sleep disturbance 8b - version 1.0
+LOINC Terms for : sleep 62198-7 PROMIS short form - sleep impairment 8a - version 1.0
+LOINC Terms for : sleep 62635-8 Deprecated PhenX measure - respiratory - sleep apnea
+LOINC Terms for : sleep 62636-6 PhenX - respiratory - sleep apnea - adult protocol 091501
+LOINC Terms for : sleep 62637-4 PhenX - respiratory - sleep apnea - child protocol 091502
+LOINC Terms for : sleep 62741-4 Deprecated PhenX measure - sleep disorders screener
+LOINC Terms for : sleep 62742-2 PhenX - sleep disorders screener protocol 121001
+LOINC Terms for : sleep 64250-4 In the last 12 months, have you been awakened from sleep by coughing, apart from a cough associated with a cold or chest infection [PhenX]
+LOINC Terms for : sleep 64251-2 In the last 12 months, have you been awakened from sleep by shortness of breath or a feeling of tightness in your chest [PhenX]
+LOINC Terms for : sleep 64266-0 In the last 12 months, how often, on average, has your sleep been disturbed due to wheezing [PhenX]
+LOINC Terms for : sleep 64397-3 In the last 12 months, how often, on average, has your childs sleep been disturbed due to wheezing [PhenX]
+LOINC Terms for : sleep 64453-4 My cough or breathing disturbs my sleep [PhenX]
+LOINC Terms for : sleep 64491-4 Has anyone noticed that you quit breathing during your sleep [PhenX]
+LOINC Terms for : sleep 64492-2 How often do you feel tired or fatigued after your sleep [PhenX]
+LOINC Terms for : sleep 64494-8 Have you ever nodded off or fallen asleep while driving a vehicle [PhenX]
+LOINC Terms for : sleep 64500-2 While sleeping, does your child ever snore [PhenX]
+LOINC Terms for : sleep 64501-0 While sleeping, does your child ever snore more than half the time [PhenX]
+LOINC Terms for : sleep 64502-8 While sleeping, does your child always snore [PhenX]
+LOINC Terms for : sleep 64503-6 While sleeping, does your child snore loudly [PhenX]
+LOINC Terms for : sleep 64504-4 While sleeping, does your child have heavy or loud breathing [PhenX]
+LOINC Terms for : sleep 64505-1 While sleeping, does your child have trouble breathing, or struggle to breathe [PhenX]
+LOINC Terms for : sleep 64507-7 Have you ever been concerned about your childs breathing during sleep [PhenX]
+LOINC Terms for : sleep 64508-5 Have you ever had to shake your sleeping child to get him or her to breathe, or wake up and breathe [PhenX]
+LOINC Terms for : sleep 64510-1 Does your child have restless sleep [PhenX]
+LOINC Terms for : sleep 64514-3 While your child sleeps, have you seen brief kicks of one leg or both legs [PhenX]
+LOINC Terms for : sleep 64515-0 While your child sleeps, have you seen repeated kicks or jerks of the legs at regular intervals - about every 20 to 40S [PhenX]
+LOINC Terms for : sleep 64520-0 Does your child usually sleep with the mouth open [PhenX]
+LOINC Terms for : sleep 64529-1 Has your child ever walked during sleep - sleep walking [PhenX]
+LOINC Terms for : sleep 64530-9 Have you ever heard your child talk during sleep - sleep talking [PhenX]
+LOINC Terms for : sleep 64533-3 Has your child ever been moving or behaving, at night, in a way that made you think your child was neither completely awake nor asleep [PhenX]
+LOINC Terms for : sleep 64534-1 Does your child have difficulty falling asleep at night [PhenX]
+LOINC Terms for : sleep 64535-8 How long does it take your child to fall asleep at night [PhenX]
+LOINC Terms for : sleep 64537-4 Does your child bang his or her head or rock his or her body when going to sleep [PhenX]
+LOINC Terms for : sleep 64539-0 Does your child have trouble falling back asleep if he or she wakes up at night [PhenX]
+LOINC Terms for : sleep 64540-8 Does your child wake up early in the morning and have difficulty going back to sleep [PhenX]
+LOINC Terms for : sleep 64548-1 Does your child have a problem with sleepiness during the day [PhenX]
+LOINC Terms for : sleep 64549-9 Does your child complain that he or she feels sleepy during the day [PhenX]
+LOINC Terms for : sleep 64550-7 Has a teacher or other supervisor commented that your child appears sleepy during the day [PhenX]
+LOINC Terms for : sleep 64564-8 Has your child felt an irresistible urge to take a nap at times, forcing him or her to stop what he or she is doing in order to sleep [PhenX]
+LOINC Terms for : sleep 64585-3 Sleep disorders diagnosed or suspected by a physician in your child [PhenX]
+LOINC Terms for : sleep 64586-1 Date the sleep disorder started [PhenX]
+LOINC Terms for : sleep 64587-9 Is the sleep disorder still present [PhenX]
+LOINC Terms for : sleep 64870-9 Do you sleep with your contact lenses in [PhenX]
+LOINC Terms for : sleep 64918-6 I worry about sleeping alone [SCARED-R]
+LOINC Terms for : sleep 64958-2 I get scared when I sleep away from home [SCARED-R]
+LOINC Terms for : sleep 65213-1 Since this event happened, have you had problems with difficulty falling asleep or staying asleep, apart from depression or mania [PhenX]
+LOINC Terms for : sleep 65453-3 Has your child had periods of extreme happiness and intense energy, when it took him or her over an hour to get to sleep at night [P-GBI]
+LOINC Terms for : sleep 65473-1 I didn't sleep as well as I usually sleep [CES-DC]
+LOINC Terms for : sleep 65491-3 Did you have more trouble falling asleep than you usually do [QIDS]
+LOINC Terms for : sleep 65502-7 Falling asleep in past 7 days [QIDS]
+LOINC Terms for : sleep 65503-5 Sleep during the night in past 7 days [QIDS]
+LOINC Terms for : sleep 65505-0 Sleeping too much in past 7 days [QIDS]
+LOINC Terms for : sleep 65547-2 Do you normally work or attend school during the day and sleep at night [PhenX]
+LOINC Terms for : sleep 65548-0 What is your normal work or school and sleep schedule [PhenX]
+LOINC Terms for : sleep 65549-8 If your normal work or school and sleep schedule is other, describe [PhenX]
+LOINC Terms for : sleep 65552-2 About how many minutes does it usually take for you to fall asleep [PhenX]
+LOINC Terms for : sleep 65554-8 How many hours and minutes does it take for you to become fully awake from regular sleep, after first opening your eyes in the morning [PhenX]
+LOINC Terms for : sleep 65561-3 How much sleep do you usually get on a typical night [PhenX]
+LOINC Terms for : sleep 65562-1 Do you usually follow the same sleep schedule, that is, no more than a 1 hour difference in sleep and wake times, on both work or school and non-work or school days [PhenX]
+LOINC Terms for : sleep 65563-9 How many hours of sleep per night do you think you need to feel fully rested the next day [PhenX]
+LOINC Terms for : sleep 65564-7 Do you feel awake and refreshed after sleeping [PhenX]
+LOINC Terms for : sleep 65565-4 How often do you remember your dreams - that is, dreams that occur during your regular sleep and not while napping [PhenX]
+LOINC Terms for : sleep 65568-8 How many hours and minutes of sleep do you usually get when you take a nap [PhenX]
+LOINC Terms for : sleep 65572-0 How difficult is it for you to adapt to a sleep loss of 3 hours or more - sleeping 3 or more hours less than you normally do the night before [PhenX]
+LOINC Terms for : sleep 65573-8 Does this loss of sleep affect you the next day with respect to your mood [PhenX]
+LOINC Terms for : sleep 65574-6 How quickly after this loss of sleep, do you return to your usual self if you are allowed to sleep as much as you like [PhenX]
+LOINC Terms for : sleep 65575-3 Do you prefer to keep a regular sleep schedule - one that does not change much from one night to the next [PhenX]
+LOINC Terms for : sleep 65576-1 If you do not keep your regular sleep schedule, how much do you feel off - not your regular self, the next day [PhenX]
+LOINC Terms for : sleep 65577-9 When you are traveling east by air and you cross over several time zones, how quickly do you return to your usual sleeping pattern [PhenX]
+LOINC Terms for : sleep 65578-7 How does this loss of sleep affect you the next day with respect to your mood [PhenX]
+LOINC Terms for : sleep 65582-9 Does respondent consistently fall asleep very late - 12 a.m. or later, at night and characterize him or herself as a night owl with a strong preference [PhenX]
+LOINC Terms for : sleep 65583-7 At what time do you usually go to sleep - feel sleepy and ready to go to bed [PhenX]
+LOINC Terms for : sleep 65585-2 Are these usual sleep and wake times always about the same - each day during a week of vacation [PhenX]
+LOINC Terms for : sleep 65587-8 Have you ever tried to force yourself to fall asleep at an earlier time than your usual bedtime [PhenX]
+LOINC Terms for : sleep 65589-4 When you tried to shift your sleep schedule to an earlier bedtime, at least 1 to 2 hours earlier, did you have difficulty falling asleep [PhenX]
+LOINC Terms for : sleep 65590-2 Do attempts to change your sleep or wake schedule tend to make your sleeping difficulties worse [PhenX]
+LOINC Terms for : sleep 65591-0 During the past Y, what was the longest period of time that you had these sleeping problems on most nights [PhenX]
+LOINC Terms for : sleep 65592-8 How old were you when you first began going to sleep very late without being able to adjust your schedule when you tried [PhenX]
+LOINC Terms for : sleep 65595-1 Have you ever had frequent problems getting to sleep at the beginning of the night which has negatively affected how you function during the following day [PhenX]
+LOINC Terms for : sleep 65596-9 Have you ever had frequent problems staying asleep at night which has negatively affected how you function during the following day [PhenX]
+LOINC Terms for : sleep 65597-7 Have you ever had frequent problems falling back to sleep after waking in the middle of the night which has negatively affected how you function during the following day [PhenX]
+LOINC Terms for : sleep 65598-5 In the past year, have you had difficulty getting to sleep [PhenX]
+LOINC Terms for : sleep 65599-3 In the past year, have you awakened during the night and had a hard time getting back to sleep [PhenX]
+LOINC Terms for : sleep 65600-9 In the past year, have you awakened too early in the morning and couldn't get back to sleep [PhenX]
+LOINC Terms for : sleep 65601-7 Do you look at the clock frequently to see how long you have not been able to fall asleep during the night when you cannot fall asleep [PhenX]
+LOINC Terms for : sleep 65602-5 When you are not sleeping in your usual bed, in a hotel room while on vacation, or on your couch watching television, do you still have problems initially getting to sleep, staying asleep, or falling back to sleep after waking up during the night [PhenX]
+LOINC Terms for : sleep 65603-3 Do you ever have trouble falling asleep or staying asleep, when there seems to be no cause or explanation for it [PhenX]
+LOINC Terms for : sleep 65604-1 Has your difficulty with sleeping occurred or worsened during pregnancy [PhenX]
+LOINC Terms for : sleep 65605-8 Has your difficulty with sleeping occurred or worsened during menopause [PhenX]
+LOINC Terms for : sleep 65606-6 Has your difficulty with sleeping occurred or worsened during a few days before menstruation [PhenX]
+LOINC Terms for : sleep 65607-4 Has your difficulty with sleeping occurred or worsened during menstruation [PhenX]
+LOINC Terms for : sleep 65608-2 How many separate times in your life have you had difficulty getting to sleep, staying asleep or falling back to sleep after waking up during the night, for at least 1 month [PhenX]
+LOINC Terms for : sleep 65609-0 How old were you when you first experienced this kind of difficulty with sleeping, for at least 1 month [PhenX]
+LOINC Terms for : sleep 65613-2 Do you feel so sleepy during the day that it interrupts your normal activities, such as driving, reading, or concentrating at work or school, even when you have had enough sleep the night before [PhenX]
+LOINC Terms for : sleep 65614-0 How often do you feel so sleepy during the day that it interrupts your normal activities [PhenX]
+LOINC Terms for : sleep 65615-7 What is the longest period of time that you have felt so sleepy during the day that it interrupts your normal activities on most days [PhenX]
+LOINC Terms for : sleep 65616-5 How often does this overwhelming desire to go to sleep occur [PhenX]
+LOINC Terms for : sleep 65617-3 During the daytime, do you experience an overwhelming desire to go to sleep - so overwhelming that you cannot resist [PhenX]
+LOINC Terms for : sleep 65618-1 What is the longest period of time that you have felt this overwhelming desire to go to sleep, on most days [PhenX]
+LOINC Terms for : sleep 65619-9 When you do doze off during the day and take a nap, do you find this sleep refreshing [PhenX]
+LOINC Terms for : sleep 65620-7 Describe refreshing sleep [PhenX]
+LOINC Terms for : sleep 65621-5 Do you feel that you are sleepier than other people your age [PhenX]
+LOINC Terms for : sleep 65627-2 Do you ever move so much during your sleep that you accidentally hit your bed partner, if any, or hurt yourself? [PhenX]
+LOINC Terms for : sleep 65629-8 Does moving at night disrupt your sleep, wake you up at night [PhenX]
+LOINC Terms for : sleep 65631-4 Does this loss of sleep affect you the next day with respect to your tendency to be irritable [PhenX]
+LOINC Terms for : sleep 65674-4 How does this loss of sleep affect you the next day with respect to your tendency to be irritable [PhenX]
+LOINC Terms for : sleep 65675-1 Does this loss of sleep affect you the next day with respect to your ability to get your work done [PhenX]
+LOINC Terms for : sleep 65676-9 How does this loss of sleep affect you the next day with respect to your ability to get your work done [PhenX]
+LOINC Terms for : sleep 65677-7 Does this loss of sleep affect you the next day with respect to how much you eat [PhenX]
+LOINC Terms for : sleep 65678-5 How does this loss of sleep affect you the next day with respect to how much you eat [PhenX]
+LOINC Terms for : sleep 65679-3 Does this loss of sleep affect you the next day with respect to your desire for chocolate or sweets [PhenX]
+LOINC Terms for : sleep 65680-1 How does this loss of sleep affect you the next day with respect to your desire for chocolate or sweets [PhenX]
+LOINC Terms for : sleep 65682-7 Things experienced during the daytime due to difficulties falling asleep or staying asleep at night [PhenX]
+LOINC Terms for : sleep 65683-5 Do you experience any of these things during the daytime due to your difficulties falling asleep or staying asleep at night [PhenX]
+LOINC Terms for : sleep 65684-3 Do you experience frustration, tension or anxiety over not being able to go to sleep during the night when you cannot fall asleep [PhenX]
+LOINC Terms for : sleep 65846-8 Relative with sleep or behavior disorders diagnosed or suspected Family member [PhenX]
+LOINC Terms for : sleep 65847-6 Please list any sleep or behavior disorders diagnosed or suspected in your child's brothers, sisters, or parents Condition Family member [PhenX]
+LOINC Terms for : sleep 65968-0 How many hours do you normally sleep [DI-PAD]
+LOINC Terms for : sleep 65969-8 How many hours were you sleeping then [DI-PAD]
+LOINC Terms for : sleep 65970-6 Excessive sleep [DI-PAD]
+LOINC Terms for : sleep 65972-2 Appetite or sleep change notes [Text] [DI-PAD]
+LOINC Terms for : sleep 65979-7 Reduced need for sleep [DI-PAD]
+LOINC Terms for : sleep 66088-6 How often did having trouble falling asleep happen [QIDS]
+LOINC Terms for : sleep 66184-3 How much does your insomnia, sleep difficulties, upset or distress you [PhenX]
+LOINC Terms for : sleep 66332-8 End time - right before going to sleep [PhenX]
+LOINC Terms for : sleep 67233-7 How often did you have difficulty getting a good night's sleep because of your heartburn or regurgitation in the past 7 days [PhenX]
+LOINC Terms for : sleep 67326-9 Because of your tinnitus do you have trouble falling to sleep at night [PhenX]
+LOINC Terms for : sleep 67898-7 Neuro-Qol item bank - sleep disturbance - version 1.0
+LOINC Terms for : sleep 67926-6 I needed to sleep during the day in the past 7 days [NeuroQol]
+LOINC Terms for : sleep 68024-9 I was sleepy during the daytime in the past 7 days [NeuroQol]
+LOINC Terms for : sleep 68025-6 I had trouble sleeping because of bad dreams in the past 7 days [NeuroQol]
+LOINC Terms for : sleep 68026-4 I had difficulty falling asleep in the past 7 days [NeuroQol]
+LOINC Terms for : sleep 68028-0 I avoided or cancelled activities with my friends because I was tired from having a bad night's sleep [NeuroQol]
+LOINC Terms for : sleep 68166-8 I had trouble sleeping in the past 7 days [NeuroQol.Peds]
+LOINC Terms for : sleep 68231-0 I needed to sleep during the day in the past 7 days [NeuroQol.Peds]
+LOINC Terms for : sleep 69687-2 Trouble falling asleep or staying asleep in last 4 weeks [Reported.PHQ]
+LOINC Terms for : sleep 69732-6 Trouble sleeping in past 4 weeks [Reported.PHQ]
+LOINC Terms for : sleep 70233-2 Trouble falling or staying asleep in the last month [PCL-C]
+LOINC Terms for : sleep 70402-3 I am sleeping well in the past 7 days [FACIT]
+LOINC Terms for : sleep 70452-8 I have trouble sleeping at night in the past 7 days [FACIT]
+LOINC Terms for : sleep 70612-7 My skin condition interferes with my ability to sleep in the past 7 days [FACIT]
+LOINC Terms for : sleep 70731-5 I need to sleep during the day in the past 7 days [FACIT]
+LOINC Terms for : sleep 71350-3 I have been so unhappy that I have had difficulty sleeping in the past 7 days [EPDS]
+LOINC Terms for : sleep 71381-8 I needed to sleep during the day in the past 7 days [FACIT]
+LOINC Terms for : sleep 71545-8 I have difficulty sleeping in the last 2 weeks or more [M3]
+LOINC Terms for : sleep 71546-6 I have been sleeping too much in the last 2 weeks or more [M3]
+LOINC Terms for : sleep 71564-9 At any time in your life have you needed less sleep than usual [M3]
+LOINC Terms for : sleep 71570-6 Changes in sleeping patterns [M3]
+LOINC Terms for : sleep 71810-6 I have difficulty sleeping since I took my last screen [M3]
+LOINC Terms for : sleep 71811-4 I have been sleeping too much since I took my last screen [M3]
+LOINC Terms for : sleep 71955-9 PROMIS-29 Sleep disturbance score T-score
+LOINC Terms for : sleep 71956-7 PROMIS-29 Sleep disturbance score
+LOINC Terms for : sleep 72205-8 Changes in sleeping patterns - follow up [M3]
+LOINC Terms for : sleep 75258-4 PROMIS short form - sleep disturbance 4a - version 1.0
+LOINC Terms for : sleep 75906-8 My child had trouble sleeping when he or she had pain in past 7 days [PROMIS.PARENTPROXY]
+LOINC Terms for : sleep 76542-0 Do you feel stress - tense, restless, nervous, or anxious, or unable to sleep at night because your mind is troubled all the time - these days [OSQ]
+LOINC Terms for : sleep 76703-8 PROMIS short form - sleep disturbance 6a - version 1.0
+LOINC Terms for : sleep 76892-9 People sleep better when they drink [PROMIS]
+LOINC Terms for : sleep 77246-7 Readiness for change for improved sleep patterns [Reported]
+LOINC Terms for : sleep 77571-8 During the past 24 hours, how has pain interfered with your sleep [BPI Short Form]
+LOINC Terms for : sleep 77712-8 Sleep disturbances indicator in the past week [UPDRS]
+LOINC Terms for : sleep 77816-7 PROMIS short form - sleep disturbance 6a - version 1.0 raw score
+LOINC Terms for : sleep 77826-6 PROMIS short form - sleep disturbance 4a - version 1.0 raw score
+LOINC Terms for : sleep 77828-2 PROMIS short form - sleep impairment 8a - version 1.0 raw score
+LOINC Terms for : sleep 77829-0 PROMIS short form - sleep disturbance 8b - version 1.0 raw score
+LOINC Terms for : sleep 77859-7 PROMIS sleep related impairment - version 1.0 Tscore
+LOINC Terms for : sleep 77860-5 PROMIS sleep disturbance - version 1.0 Tscore
+LOINC Terms for : sleep 78075-9 I needed to sleep during the day in past 7 days [PROMIS.PEDS]
+LOINC Terms for : sleep 82235-3 Sleeping [NDI]
+LOINC Terms for : sleep 85602-1 Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making your sleeping well at night difficult [MLHFQ]
+LOINC Terms for : sleep 86485-0 Sleep sitting up in a chair or with at least 3 pillows to prop you up because of shortness of breath over the past 2 weeks [KCCQ]
+LOINC Terms for : sleep 89864-3 Over the last week, on how many nights has your or your child's sleep been disturbed because of the eczema [POEM]
+LOINC Terms for : sleep 90033-2 Over the past week, are you able to get a good night's sleep [HAQ]
+LOINC Terms for : sleep 91180-0 When my child was in pain he or she went to sleep in past 7 days [PROMIS.PARENTPROXY]
+LOINC Terms for : sleep 91417-6 My child had trouble sleeping at night because of asthma in past 7 days [PROMIS.PARENTPROXY]
+LOINC Terms for : sleep 91912-6 My child needed to sleep during the day in past 7 days [PROMIS.PARENTPROXY]
+LOINC Terms for : sleep 91956-3 When I was in pain I went to sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 92051-2 My child had trouble staying asleep in past 7 days [PROMIS.PARENTPROXY]
+LOINC Terms for : sleep 92468-8 Current level of confidence I can keep my symptoms from interfering with my sleep [PROMIS]
+LOINC Terms for : sleep 93156-8 How much of the time has pain made it hard for you to sleep at night over the past 5 days [CMS Assessment]
+LOINC Terms for : sleep 93829-0 REM sleep duration
+LOINC Terms for : sleep 93830-8 Light sleep duration
+LOINC Terms for : sleep 93831-6 Deep sleep duration
+LOINC Terms for : sleep 93832-4 Sleep duration
+LOINC Terms for : sleep 95435-4 During the past 3 months, how often have you used sedatives or sleeping pills
+LOINC Terms for : sleep 95445-3 During the past 3 months, how often have you had a strong desire or urge to use sedatives or sleeping pills [NIDA]
+LOINC Terms for : sleep 95455-2 During the past 3 months, how often has your use of sedatives or sleeping pills led to health, social, legal or financial problems [NIDA]
+LOINC Terms for : sleep 95465-1 During the past 3 months, how often have you failed to do what was normally expected of you because of your use of sedatives or sleeping pills [NIDA]
+LOINC Terms for : sleep 95475-0 Has a friend or relative or anyone else ever expressed concern about your use of sedatives or sleeping pills [NIDA]
+LOINC Terms for : sleep 95487-5 Have you ever tried and failed to control, cut down or stop using sedatives or sleeping pills [NIDA]
+LOINC Terms for : sleep 95508-8 Sedatives or sleeping pills substance involvement score [NIDA]
+LOINC Terms for : sleep 95607-8 Sleep quality - 1-5 numeric rating [Score] 24 hour
+LOINC Terms for : sleep 96002-1 During the past 4 weeks, my skin condition affects how well I sleep [Skindex-29]
+LOINC Terms for : sleep 96836-2 Trouble falling or staying asleep due to thinking about the coronavirus in past 2 weeks
+LOINC Terms for : sleep 96866-9 Used medication for anxiety or sleep not as prescribed or not prescribed for you in past 3 months
+LOINC Terms for : sleep 96867-7 Have you had a strong desire or urge to use medications for anxiety or sleep at least once a week or more often in past 3 months [TAPS]
+LOINC Terms for : sleep 96868-5 Has anyone expressed concern about your use of medication for anxiety or sleep in past 3 months [TAPS]
+LOINC Terms for : sleep 97884-1 Taking medicine for sleep or mood
+LOINC Terms for : sleep 97890-8 Sleep panel [R-Outcomes]
+LOINC Terms for : sleep 97891-6 Sleep score [R-Outcomes]
+LOINC Terms for : sleep 97892-4 Go to sleep at the same time
+LOINC Terms for : sleep 97895-7 Sleep well
+LOINC Terms for : sleep 98588-7 Worry about health interfering with sleep since illness
+LOINC Terms for : sleep 98589-5 Worried about health interfering with sleep before illness
+LOINC Terms for : sleep 98933-5 Satisfaction with sleep in last 2 weeks
+LOINC Terms for : sleep 100234-4 Trouble staying asleep
+LOINC Terms for : sleep 100247-6 Trouble falling asleep
+LOINC Terms for : sleep 100777-2 Restless sleep
+LOINC Terms for : sleep 20002-2 Oxygen [Partial pressure] (Maximum value during study) Capillary blood Transcutaneous O2 monitor --on high flow oxygen and asleep
+LOINC Terms for : sleep 20003-0 Oxygen [Partial pressure] (Minimum value during study) Capillary blood Transcutaneous O2 monitor --on high flow oxygen and asleep
+LOINC Terms for : sleep 20008-9 Oxygen [Partial pressure] (Maximum value during study) Capillary blood Transcutaneous O2 monitor --on low flow oxygen and asleep
+LOINC Terms for : sleep 20009-7 Oxygen [Partial pressure] (Minimum value during study) Capillary blood Transcutaneous O2 monitor --on low flow oxygen and asleep
+LOINC Terms for : sleep 20014-7 Oxygen [Partial pressure] (Maximum value during study) Capillary blood Transcutaneous O2 monitor --on room air and asleep
+LOINC Terms for : sleep 20015-4 Oxygen [Partial pressure] (Minimum value during study) Capillary blood Transcutaneous O2 monitor --on room air and asleep
+LOINC Terms for : sleep 28210-3 Sleep pattern disturbance [CCC]
+LOINC Terms for : sleep 28341-6 Sleep And Rest Pattern Behavior [OMAHA]
+LOINC Terms for : sleep 28342-4 Sleep And Rest Pattern Knowledge [OMAHA]
+LOINC Terms for : sleep 28343-2 Sleep And Rest Pattern Status [OMAHA]
+LOINC Terms for : sleep 28498-4 Sleep And Rest Pattern Behavior Family [OMAHA]
+LOINC Terms for : sleep 28499-2 Sleep And Rest Pattern Knowledge Family [OMAHA]
+LOINC Terms for : sleep 28500-7 Sleep And Rest Pattern Status Family [OMAHA]
+LOINC Terms for : sleep 42847-4 Sleep deprivation [CCC]
+LOINC Terms for : sleep 44259-0 Trouble falling or staying asleep, or sleeping too much in last 2 weeks [Reported.PHQ]
+LOINC Terms for : sleep 45550-1 Insomnia/change in sleeping pattern [Minimum Data Set]
+LOINC Terms for : sleep 45999-0 Sleep-cycle issues Set
+LOINC Terms for : sleep 46888-4 Sleep And Rest Pattern Behavior Community [OMAHA]
+LOINC Terms for : sleep 46889-2 Sleep And Rest Pattern Knowledge Community [OMAHA]
+LOINC Terms for : sleep 46890-0 Sleep And Rest Pattern Status Community [OMAHA]
+LOINC Terms for : sleep 52605-3 Pain has made it hard to sleep during last 2 days [CARE]
+LOINC Terms for : sleep 54640-8 Trouble falling or staying asleep, or sleeping too much in last 2 weeks.presence [Reported PHQ-9 CMS]
+LOINC Terms for : sleep 54641-6 Trouble falling or staying asleep, or sleeping too much in last 2 weeks.frequency [Reported PHQ-9 CMS]
+LOINC Terms for : sleep 54662-2 Trouble falling or staying asleep, or sleeping too much in last 2 weeks.presence [Observed PHQ-9 CMS]
+LOINC Terms for : sleep 54663-0 Trouble falling or staying asleep, or sleeping too much in last 2 weeks.frequency [Observed PHQ-9 CMS]
+LOINC Terms for : sleep 54831-3 Pain has made it hard to sleep during assessment period [CMS Assessment]
+LOINC Terms for : sleep 61767-0 How much did pain make it difficult to fall asleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 61884-3 I needed to sleep during the day in past 7 days [PROMIS]
+LOINC Terms for : sleep 61947-8 I had difficulty sleeping in past 7 days [PROMIS]
+LOINC Terms for : sleep 61981-7 Deprecated Deprecated Sleep Protocols PROMIS
+LOINC Terms for : sleep 61982-5 PROMIS item bank - sleep disturbance - version 1.0
+LOINC Terms for : sleep 61983-3 My sleep was restful in past 7 days [PROMIS]
+LOINC Terms for : sleep 61984-1 My sleep was deep in past 7 days [PROMIS]
+LOINC Terms for : sleep 61985-8 I was satisfied with my sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 61986-6 My sleep was refreshing in past 7 days [PROMIS]
+LOINC Terms for : sleep 61987-4 My sleep quality was...in past 7 days [PROMIS]
+LOINC Terms for : sleep 61988-2 I got enough sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 61989-0 It was easy for me to fall asleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 61990-8 I laid in bed for hours waiting to fall asleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 61991-6 I woke up too early and could not fall back asleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 61992-4 Trouble staying asleep in past 7 days
+LOINC Terms for : sleep 61993-2 I had trouble sleeping in past 7 days [PROMIS]
+LOINC Terms for : sleep 61994-0 I woke up and had trouble falling back to sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 61995-7 My sleep was light in past 7 days [PROMIS]
+LOINC Terms for : sleep 61996-5 My sleep was restless in past 7 days [PROMIS]
+LOINC Terms for : sleep 61998-1 I had a problem with my sleep 7 days [PROMIS]
+LOINC Terms for : sleep 61999-9 I had difficulty falling asleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 62001-3 I worried about not being able to fall asleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 62005-4 I had trouble getting into a comfortable position to sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 62006-2 I tried hard to get to sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 62007-0 Stress disturbed my sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 62009-6 I was afraid I would not get back to sleep after waking up in past 7 days [PROMIS]
+LOINC Terms for : sleep 62010-4 PROMIS item bank - sleep related impairment - version 1.0
+LOINC Terms for : sleep 62011-2 I tried to sleep whenever I could in past 7 days [PROMIS]
+LOINC Terms for : sleep 62012-0 My daytime activities are disturbed by poor sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 62013-8 I was sleepy during the daytime in past 7 days [PROMIS]
+LOINC Terms for : sleep 62015-3 I had a hard time getting things done because I was sleepy in past 7 days [PROMIS]
+LOINC Terms for : sleep 62016-1 I had a hard time concentrating because I was sleepy in past 7 days [PROMIS]
+LOINC Terms for : sleep 62017-9 I had problems during the day because of poor sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 62018-7 I had a hard time concentrating because of poor sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 62019-5 I felt irritable because of poor sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 62020-3 I had a hard time controlling my emotions because of poor sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 62022-9 I still felt sleepy when I woke up in past 7 days [PROMIS]
+LOINC Terms for : sleep 62072-4 I had trouble sleeping at night because of my asthma in past 7 days [PROMIS]
+LOINC Terms for : sleep 62144-1 I had trouble sleeping when I had pain in past 7 days [PROMIS]
+LOINC Terms for : sleep 62197-9 PROMIS short form - sleep disturbance 8b - version 1.0
+LOINC Terms for : sleep 62198-7 PROMIS short form - sleep impairment 8a - version 1.0
+LOINC Terms for : sleep 62635-8 Deprecated PhenX measure - respiratory - sleep apnea
+LOINC Terms for : sleep 62636-6 PhenX - respiratory - sleep apnea - adult protocol 091501
+LOINC Terms for : sleep 62637-4 PhenX - respiratory - sleep apnea - child protocol 091502
+LOINC Terms for : sleep 62741-4 Deprecated PhenX measure - sleep disorders screener
+LOINC Terms for : sleep 62742-2 PhenX - sleep disorders screener protocol 121001
+LOINC Terms for : sleep 64250-4 In the last 12 months, have you been awakened from sleep by coughing, apart from a cough associated with a cold or chest infection [PhenX]
+LOINC Terms for : sleep 64251-2 In the last 12 months, have you been awakened from sleep by shortness of breath or a feeling of tightness in your chest [PhenX]
+LOINC Terms for : sleep 64266-0 In the last 12 months, how often, on average, has your sleep been disturbed due to wheezing [PhenX]
+LOINC Terms for : sleep 64397-3 In the last 12 months, how often, on average, has your childs sleep been disturbed due to wheezing [PhenX]
+LOINC Terms for : sleep 64453-4 My cough or breathing disturbs my sleep [PhenX]
+LOINC Terms for : sleep 64491-4 Has anyone noticed that you quit breathing during your sleep [PhenX]
+LOINC Terms for : sleep 64492-2 How often do you feel tired or fatigued after your sleep [PhenX]
+LOINC Terms for : sleep 64494-8 Have you ever nodded off or fallen asleep while driving a vehicle [PhenX]
+LOINC Terms for : sleep 64500-2 While sleeping, does your child ever snore [PhenX]
+LOINC Terms for : sleep 64501-0 While sleeping, does your child ever snore more than half the time [PhenX]
+LOINC Terms for : sleep 64502-8 While sleeping, does your child always snore [PhenX]
+LOINC Terms for : sleep 64503-6 While sleeping, does your child snore loudly [PhenX]
+LOINC Terms for : sleep 64504-4 While sleeping, does your child have heavy or loud breathing [PhenX]
+LOINC Terms for : sleep 64505-1 While sleeping, does your child have trouble breathing, or struggle to breathe [PhenX]
+LOINC Terms for : sleep 64507-7 Have you ever been concerned about your childs breathing during sleep [PhenX]
+LOINC Terms for : sleep 64508-5 Have you ever had to shake your sleeping child to get him or her to breathe, or wake up and breathe [PhenX]
+LOINC Terms for : sleep 64510-1 Does your child have restless sleep [PhenX]
+LOINC Terms for : sleep 64514-3 While your child sleeps, have you seen brief kicks of one leg or both legs [PhenX]
+LOINC Terms for : sleep 64515-0 While your child sleeps, have you seen repeated kicks or jerks of the legs at regular intervals - about every 20 to 40S [PhenX]
+LOINC Terms for : sleep 64520-0 Does your child usually sleep with the mouth open [PhenX]
+LOINC Terms for : sleep 64529-1 Has your child ever walked during sleep - sleep walking [PhenX]
+LOINC Terms for : sleep 64530-9 Have you ever heard your child talk during sleep - sleep talking [PhenX]
+LOINC Terms for : sleep 64533-3 Has your child ever been moving or behaving, at night, in a way that made you think your child was neither completely awake nor asleep [PhenX]
+LOINC Terms for : sleep 64534-1 Does your child have difficulty falling asleep at night [PhenX]
+LOINC Terms for : sleep 64535-8 How long does it take your child to fall asleep at night [PhenX]
+LOINC Terms for : sleep 64537-4 Does your child bang his or her head or rock his or her body when going to sleep [PhenX]
+LOINC Terms for : sleep 64539-0 Does your child have trouble falling back asleep if he or she wakes up at night [PhenX]
+LOINC Terms for : sleep 64540-8 Does your child wake up early in the morning and have difficulty going back to sleep [PhenX]
+LOINC Terms for : sleep 64548-1 Does your child have a problem with sleepiness during the day [PhenX]
+LOINC Terms for : sleep 64549-9 Does your child complain that he or she feels sleepy during the day [PhenX]
+LOINC Terms for : sleep 64550-7 Has a teacher or other supervisor commented that your child appears sleepy during the day [PhenX]
+LOINC Terms for : sleep 64564-8 Has your child felt an irresistible urge to take a nap at times, forcing him or her to stop what he or she is doing in order to sleep [PhenX]
+LOINC Terms for : sleep 64585-3 Sleep disorders diagnosed or suspected by a physician in your child [PhenX]
+LOINC Terms for : sleep 64586-1 Date the sleep disorder started [PhenX]
+LOINC Terms for : sleep 64587-9 Is the sleep disorder still present [PhenX]
+LOINC Terms for : sleep 64870-9 Do you sleep with your contact lenses in [PhenX]
+LOINC Terms for : sleep 64918-6 I worry about sleeping alone [SCARED-R]
+LOINC Terms for : sleep 64958-2 I get scared when I sleep away from home [SCARED-R]
+LOINC Terms for : sleep 65213-1 Since this event happened, have you had problems with difficulty falling asleep or staying asleep, apart from depression or mania [PhenX]
+LOINC Terms for : sleep 65453-3 Has your child had periods of extreme happiness and intense energy, when it took him or her over an hour to get to sleep at night [P-GBI]
+LOINC Terms for : sleep 65473-1 I didn't sleep as well as I usually sleep [CES-DC]
+LOINC Terms for : sleep 65491-3 Did you have more trouble falling asleep than you usually do [QIDS]
+LOINC Terms for : sleep 65502-7 Falling asleep in past 7 days [QIDS]
+LOINC Terms for : sleep 65503-5 Sleep during the night in past 7 days [QIDS]
+LOINC Terms for : sleep 65505-0 Sleeping too much in past 7 days [QIDS]
+LOINC Terms for : sleep 65547-2 Do you normally work or attend school during the day and sleep at night [PhenX]
+LOINC Terms for : sleep 65548-0 What is your normal work or school and sleep schedule [PhenX]
+LOINC Terms for : sleep 65549-8 If your normal work or school and sleep schedule is other, describe [PhenX]
+LOINC Terms for : sleep 65552-2 About how many minutes does it usually take for you to fall asleep [PhenX]
+LOINC Terms for : sleep 65554-8 How many hours and minutes does it take for you to become fully awake from regular sleep, after first opening your eyes in the morning [PhenX]
+LOINC Terms for : sleep 65561-3 How much sleep do you usually get on a typical night [PhenX]
+LOINC Terms for : sleep 65562-1 Do you usually follow the same sleep schedule, that is, no more than a 1 hour difference in sleep and wake times, on both work or school and non-work or school days [PhenX]
+LOINC Terms for : sleep 65563-9 How many hours of sleep per night do you think you need to feel fully rested the next day [PhenX]
+LOINC Terms for : sleep 65564-7 Do you feel awake and refreshed after sleeping [PhenX]
+LOINC Terms for : sleep 65565-4 How often do you remember your dreams - that is, dreams that occur during your regular sleep and not while napping [PhenX]
+LOINC Terms for : sleep 65568-8 How many hours and minutes of sleep do you usually get when you take a nap [PhenX]
+LOINC Terms for : sleep 65572-0 How difficult is it for you to adapt to a sleep loss of 3 hours or more - sleeping 3 or more hours less than you normally do the night before [PhenX]
+LOINC Terms for : sleep 65573-8 Does this loss of sleep affect you the next day with respect to your mood [PhenX]
+LOINC Terms for : sleep 65574-6 How quickly after this loss of sleep, do you return to your usual self if you are allowed to sleep as much as you like [PhenX]
+LOINC Terms for : sleep 65575-3 Do you prefer to keep a regular sleep schedule - one that does not change much from one night to the next [PhenX]
+LOINC Terms for : sleep 65576-1 If you do not keep your regular sleep schedule, how much do you feel off - not your regular self, the next day [PhenX]
+LOINC Terms for : sleep 65577-9 When you are traveling east by air and you cross over several time zones, how quickly do you return to your usual sleeping pattern [PhenX]
+LOINC Terms for : sleep 65578-7 How does this loss of sleep affect you the next day with respect to your mood [PhenX]
+LOINC Terms for : sleep 65582-9 Does respondent consistently fall asleep very late - 12 a.m. or later, at night and characterize him or herself as a night owl with a strong preference [PhenX]
+LOINC Terms for : sleep 65583-7 At what time do you usually go to sleep - feel sleepy and ready to go to bed [PhenX]
+LOINC Terms for : sleep 65585-2 Are these usual sleep and wake times always about the same - each day during a week of vacation [PhenX]
+LOINC Terms for : sleep 65587-8 Have you ever tried to force yourself to fall asleep at an earlier time than your usual bedtime [PhenX]
+LOINC Terms for : sleep 65589-4 When you tried to shift your sleep schedule to an earlier bedtime, at least 1 to 2 hours earlier, did you have difficulty falling asleep [PhenX]
+LOINC Terms for : sleep 65590-2 Do attempts to change your sleep or wake schedule tend to make your sleeping difficulties worse [PhenX]
+LOINC Terms for : sleep 65591-0 During the past Y, what was the longest period of time that you had these sleeping problems on most nights [PhenX]
+LOINC Terms for : sleep 65592-8 How old were you when you first began going to sleep very late without being able to adjust your schedule when you tried [PhenX]
+LOINC Terms for : sleep 65595-1 Have you ever had frequent problems getting to sleep at the beginning of the night which has negatively affected how you function during the following day [PhenX]
+LOINC Terms for : sleep 65596-9 Have you ever had frequent problems staying asleep at night which has negatively affected how you function during the following day [PhenX]
+LOINC Terms for : sleep 65597-7 Have you ever had frequent problems falling back to sleep after waking in the middle of the night which has negatively affected how you function during the following day [PhenX]
+LOINC Terms for : sleep 65598-5 In the past year, have you had difficulty getting to sleep [PhenX]
+LOINC Terms for : sleep 65599-3 In the past year, have you awakened during the night and had a hard time getting back to sleep [PhenX]
+LOINC Terms for : sleep 65600-9 In the past year, have you awakened too early in the morning and couldn't get back to sleep [PhenX]
+LOINC Terms for : sleep 65601-7 Do you look at the clock frequently to see how long you have not been able to fall asleep during the night when you cannot fall asleep [PhenX]
+LOINC Terms for : sleep 65602-5 When you are not sleeping in your usual bed, in a hotel room while on vacation, or on your couch watching television, do you still have problems initially getting to sleep, staying asleep, or falling back to sleep after waking up during the night [PhenX]
+LOINC Terms for : sleep 65603-3 Do you ever have trouble falling asleep or staying asleep, when there seems to be no cause or explanation for it [PhenX]
+LOINC Terms for : sleep 65604-1 Has your difficulty with sleeping occurred or worsened during pregnancy [PhenX]
+LOINC Terms for : sleep 65605-8 Has your difficulty with sleeping occurred or worsened during menopause [PhenX]
+LOINC Terms for : sleep 65606-6 Has your difficulty with sleeping occurred or worsened during a few days before menstruation [PhenX]
+LOINC Terms for : sleep 65607-4 Has your difficulty with sleeping occurred or worsened during menstruation [PhenX]
+LOINC Terms for : sleep 65608-2 How many separate times in your life have you had difficulty getting to sleep, staying asleep or falling back to sleep after waking up during the night, for at least 1 month [PhenX]
+LOINC Terms for : sleep 65609-0 How old were you when you first experienced this kind of difficulty with sleeping, for at least 1 month [PhenX]
+LOINC Terms for : sleep 65613-2 Do you feel so sleepy during the day that it interrupts your normal activities, such as driving, reading, or concentrating at work or school, even when you have had enough sleep the night before [PhenX]
+LOINC Terms for : sleep 65614-0 How often do you feel so sleepy during the day that it interrupts your normal activities [PhenX]
+LOINC Terms for : sleep 65615-7 What is the longest period of time that you have felt so sleepy during the day that it interrupts your normal activities on most days [PhenX]
+LOINC Terms for : sleep 65616-5 How often does this overwhelming desire to go to sleep occur [PhenX]
+LOINC Terms for : sleep 65617-3 During the daytime, do you experience an overwhelming desire to go to sleep - so overwhelming that you cannot resist [PhenX]
+LOINC Terms for : sleep 65618-1 What is the longest period of time that you have felt this overwhelming desire to go to sleep, on most days [PhenX]
+LOINC Terms for : sleep 65619-9 When you do doze off during the day and take a nap, do you find this sleep refreshing [PhenX]
+LOINC Terms for : sleep 65620-7 Describe refreshing sleep [PhenX]
+LOINC Terms for : sleep 65621-5 Do you feel that you are sleepier than other people your age [PhenX]
+LOINC Terms for : sleep 65627-2 Do you ever move so much during your sleep that you accidentally hit your bed partner, if any, or hurt yourself? [PhenX]
+LOINC Terms for : sleep 65629-8 Does moving at night disrupt your sleep, wake you up at night [PhenX]
+LOINC Terms for : sleep 65631-4 Does this loss of sleep affect you the next day with respect to your tendency to be irritable [PhenX]
+LOINC Terms for : sleep 65674-4 How does this loss of sleep affect you the next day with respect to your tendency to be irritable [PhenX]
+LOINC Terms for : sleep 65675-1 Does this loss of sleep affect you the next day with respect to your ability to get your work done [PhenX]
+LOINC Terms for : sleep 65676-9 How does this loss of sleep affect you the next day with respect to your ability to get your work done [PhenX]
+LOINC Terms for : sleep 65677-7 Does this loss of sleep affect you the next day with respect to how much you eat [PhenX]
+LOINC Terms for : sleep 65678-5 How does this loss of sleep affect you the next day with respect to how much you eat [PhenX]
+LOINC Terms for : sleep 65679-3 Does this loss of sleep affect you the next day with respect to your desire for chocolate or sweets [PhenX]
+LOINC Terms for : sleep 65680-1 How does this loss of sleep affect you the next day with respect to your desire for chocolate or sweets [PhenX]
+LOINC Terms for : sleep 65682-7 Things experienced during the daytime due to difficulties falling asleep or staying asleep at night [PhenX]
+LOINC Terms for : sleep 65683-5 Do you experience any of these things during the daytime due to your difficulties falling asleep or staying asleep at night [PhenX]
+LOINC Terms for : sleep 65684-3 Do you experience frustration, tension or anxiety over not being able to go to sleep during the night when you cannot fall asleep [PhenX]
+LOINC Terms for : sleep 65846-8 Relative with sleep or behavior disorders diagnosed or suspected Family member [PhenX]
+LOINC Terms for : sleep 65847-6 Please list any sleep or behavior disorders diagnosed or suspected in your child's brothers, sisters, or parents Condition Family member [PhenX]
+LOINC Terms for : sleep 65968-0 How many hours do you normally sleep [DI-PAD]
+LOINC Terms for : sleep 65969-8 How many hours were you sleeping then [DI-PAD]
+LOINC Terms for : sleep 65970-6 Excessive sleep [DI-PAD]
+LOINC Terms for : sleep 65972-2 Appetite or sleep change notes [Text] [DI-PAD]
+LOINC Terms for : sleep 65979-7 Reduced need for sleep [DI-PAD]
+LOINC Terms for : sleep 66088-6 How often did having trouble falling asleep happen [QIDS]
+LOINC Terms for : sleep 66184-3 How much does your insomnia, sleep difficulties, upset or distress you [PhenX]
+LOINC Terms for : sleep 66332-8 End time - right before going to sleep [PhenX]
+LOINC Terms for : sleep 67233-7 How often did you have difficulty getting a good night's sleep because of your heartburn or regurgitation in the past 7 days [PhenX]
+LOINC Terms for : sleep 67326-9 Because of your tinnitus do you have trouble falling to sleep at night [PhenX]
+LOINC Terms for : sleep 67898-7 Neuro-Qol item bank - sleep disturbance - version 1.0
+LOINC Terms for : sleep 67926-6 I needed to sleep during the day in the past 7 days [NeuroQol]
+LOINC Terms for : sleep 68024-9 I was sleepy during the daytime in the past 7 days [NeuroQol]
+LOINC Terms for : sleep 68025-6 I had trouble sleeping because of bad dreams in the past 7 days [NeuroQol]
+LOINC Terms for : sleep 68026-4 I had difficulty falling asleep in the past 7 days [NeuroQol]
+LOINC Terms for : sleep 68028-0 I avoided or cancelled activities with my friends because I was tired from having a bad night's sleep [NeuroQol]
+LOINC Terms for : sleep 68166-8 I had trouble sleeping in the past 7 days [NeuroQol.Peds]
+LOINC Terms for : sleep 68231-0 I needed to sleep during the day in the past 7 days [NeuroQol.Peds]
+LOINC Terms for : sleep 69687-2 Trouble falling asleep or staying asleep in last 4 weeks [Reported.PHQ]
+LOINC Terms for : sleep 69732-6 Trouble sleeping in past 4 weeks [Reported.PHQ]
+LOINC Terms for : sleep 70233-2 Trouble falling or staying asleep in the last month [PCL-C]
+LOINC Terms for : sleep 70402-3 I am sleeping well in the past 7 days [FACIT]
+LOINC Terms for : sleep 70452-8 I have trouble sleeping at night in the past 7 days [FACIT]
+LOINC Terms for : sleep 70612-7 My skin condition interferes with my ability to sleep in the past 7 days [FACIT]
+LOINC Terms for : sleep 70731-5 I need to sleep during the day in the past 7 days [FACIT]
+LOINC Terms for : sleep 71350-3 I have been so unhappy that I have had difficulty sleeping in the past 7 days [EPDS]
+LOINC Terms for : sleep 71381-8 I needed to sleep during the day in the past 7 days [FACIT]
+LOINC Terms for : sleep 71545-8 I have difficulty sleeping in the last 2 weeks or more [M3]
+LOINC Terms for : sleep 71546-6 I have been sleeping too much in the last 2 weeks or more [M3]
+LOINC Terms for : sleep 71564-9 At any time in your life have you needed less sleep than usual [M3]
+LOINC Terms for : sleep 71570-6 Changes in sleeping patterns [M3]
+LOINC Terms for : sleep 71810-6 I have difficulty sleeping since I took my last screen [M3]
+LOINC Terms for : sleep 71811-4 I have been sleeping too much since I took my last screen [M3]
+LOINC Terms for : sleep 71955-9 PROMIS-29 Sleep disturbance score T-score
+LOINC Terms for : sleep 71956-7 PROMIS-29 Sleep disturbance score
+LOINC Terms for : sleep 72205-8 Changes in sleeping patterns - follow up [M3]
+LOINC Terms for : sleep 75258-4 PROMIS short form - sleep disturbance 4a - version 1.0
+LOINC Terms for : sleep 75906-8 My child had trouble sleeping when he or she had pain in past 7 days [PROMIS.PARENTPROXY]
+LOINC Terms for : sleep 76542-0 Do you feel stress - tense, restless, nervous, or anxious, or unable to sleep at night because your mind is troubled all the time - these days [OSQ]
+LOINC Terms for : sleep 76703-8 PROMIS short form - sleep disturbance 6a - version 1.0
+LOINC Terms for : sleep 76892-9 People sleep better when they drink [PROMIS]
+LOINC Terms for : sleep 77246-7 Readiness for change for improved sleep patterns [Reported]
+LOINC Terms for : sleep 77571-8 During the past 24 hours, how has pain interfered with your sleep [BPI Short Form]
+LOINC Terms for : sleep 77712-8 Sleep disturbances indicator in the past week [UPDRS]
+LOINC Terms for : sleep 77816-7 PROMIS short form - sleep disturbance 6a - version 1.0 raw score
+LOINC Terms for : sleep 77826-6 PROMIS short form - sleep disturbance 4a - version 1.0 raw score
+LOINC Terms for : sleep 77828-2 PROMIS short form - sleep impairment 8a - version 1.0 raw score
+LOINC Terms for : sleep 77829-0 PROMIS short form - sleep disturbance 8b - version 1.0 raw score
+LOINC Terms for : sleep 77859-7 PROMIS sleep related impairment - version 1.0 Tscore
+LOINC Terms for : sleep 77860-5 PROMIS sleep disturbance - version 1.0 Tscore
+LOINC Terms for : sleep 78075-9 I needed to sleep during the day in past 7 days [PROMIS.PEDS]
+LOINC Terms for : sleep 82235-3 Sleeping [NDI]
+LOINC Terms for : sleep 85602-1 Did your heart failure prevent you from living as you wanted during the past month (4 weeks) by making your sleeping well at night difficult [MLHFQ]
+LOINC Terms for : sleep 86485-0 Sleep sitting up in a chair or with at least 3 pillows to prop you up because of shortness of breath over the past 2 weeks [KCCQ]
+LOINC Terms for : sleep 89864-3 Over the last week, on how many nights has your or your child's sleep been disturbed because of the eczema [POEM]
+LOINC Terms for : sleep 90033-2 Over the past week, are you able to get a good night's sleep [HAQ]
+LOINC Terms for : sleep 91180-0 When my child was in pain he or she went to sleep in past 7 days [PROMIS.PARENTPROXY]
+LOINC Terms for : sleep 91417-6 My child had trouble sleeping at night because of asthma in past 7 days [PROMIS.PARENTPROXY]
+LOINC Terms for : sleep 91912-6 My child needed to sleep during the day in past 7 days [PROMIS.PARENTPROXY]
+LOINC Terms for : sleep 91956-3 When I was in pain I went to sleep in past 7 days [PROMIS]
+LOINC Terms for : sleep 92051-2 My child had trouble staying asleep in past 7 days [PROMIS.PARENTPROXY]
+LOINC Terms for : sleep 92468-8 Current level of confidence I can keep my symptoms from interfering with my sleep [PROMIS]
+LOINC Terms for : sleep 93156-8 How much of the time has pain made it hard for you to sleep at night over the past 5 days [CMS Assessment]
+LOINC Terms for : sleep 93829-0 REM sleep duration
+LOINC Terms for : sleep 93830-8 Light sleep duration
+LOINC Terms for : sleep 93831-6 Deep sleep duration
+LOINC Terms for : sleep 93832-4 Sleep duration
+LOINC Terms for : sleep 95435-4 During the past 3 months, how often have you used sedatives or sleeping pills
+LOINC Terms for : sleep 95445-3 During the past 3 months, how often have you had a strong desire or urge to use sedatives or sleeping pills [NIDA]
+LOINC Terms for : sleep 95455-2 During the past 3 months, how often has your use of sedatives or sleeping pills led to health, social, legal or financial problems [NIDA]
+LOINC Terms for : sleep 95465-1 During the past 3 months, how often have you failed to do what was normally expected of you because of your use of sedatives or sleeping pills [NIDA]
+LOINC Terms for : sleep 95475-0 Has a friend or relative or anyone else ever expressed concern about your use of sedatives or sleeping pills [NIDA]
+LOINC Terms for : sleep 95487-5 Have you ever tried and failed to control, cut down or stop using sedatives or sleeping pills [NIDA]
+LOINC Terms for : sleep 95508-8 Sedatives or sleeping pills substance involvement score [NIDA]
+LOINC Terms for : sleep 95607-8 Sleep quality - 1-5 numeric rating [Score] 24 hour
+LOINC Terms for : sleep 96002-1 During the past 4 weeks, my skin condition affects how well I sleep [Skindex-29]
+LOINC Terms for : sleep 96836-2 Trouble falling or staying asleep due to thinking about the coronavirus in past 2 weeks
+LOINC Terms for : sleep 96866-9 Used medication for anxiety or sleep not as prescribed or not prescribed for you in past 3 months
+LOINC Terms for : sleep 96867-7 Have you had a strong desire or urge to use medications for anxiety or sleep at least once a week or more often in past 3 months [TAPS]
+LOINC Terms for : sleep 96868-5 Has anyone expressed concern about your use of medication for anxiety or sleep in past 3 months [TAPS]
+LOINC Terms for : sleep 97884-1 Taking medicine for sleep or mood
+LOINC Terms for : sleep 97890-8 Sleep panel [R-Outcomes]
+LOINC Terms for : sleep 97891-6 Sleep score [R-Outcomes]
+LOINC Terms for : sleep 97892-4 Go to sleep at the same time
+LOINC Terms for : sleep 97895-7 Sleep well
+LOINC Terms for : sleep 98588-7 Worry about health interfering with sleep since illness
+LOINC Terms for : sleep 98589-5 Worried about health interfering with sleep before illness
+LOINC Terms for : sleep 98933-5 Satisfaction with sleep in last 2 weeks
+LOINC Terms for : syncope 45706-9 Syncope [Minimum Data Set]
+LOINC Terms for : syncope 77542-9 Can pronounce syncope [AmNART]
+LOINC Terms for : zziness 45699-6 Dizziness or vertigo [Minimum Data Set]
+LOINC Terms for : zziness 65745-2 Have you had any sudden spells of dizziness, loss of balance, or sensation of spinning which lasted 24 hours or longer [PhenX]
+LOINC Terms for : zziness 65746-0 Dizziness, loss of balance or spinning sensation occur only when changing the position of your head or body [PhenX]
+LOINC Terms for : zziness 65747-8 Things occurring with dizziness, loss of balance or spinning sensation [PhenX]
+LOINC Terms for : zziness 65748-6 While you were having sudden spells of dizziness, loss of balance or spinning sensation, did any of these things occur [PhenX]
+LOINC Terms for : zziness 66236-1 Do you lose your balance because of dizziness or do you ever lose consciousness [Revised PARQ]
+LOINC Terms for : zziness 67411-9 Have you ever suffered from attacks of dizziness in which things seem to spin around you [PhenX]
+LOINC Terms for : zziness 69677-3 Bothered by dizziness in last 4 weeks [Reported.PHQ]
+LOINC Terms for : zziness 45699-6 Dizziness or vertigo [Minimum Data Set]
+LOINC Terms for : zziness 65745-2 Have you had any sudden spells of dizziness, loss of balance, or sensation of spinning which lasted 24 hours or longer [PhenX]
+LOINC Terms for : zziness 65746-0 Dizziness, loss of balance or spinning sensation occur only when changing the position of your head or body [PhenX]
+LOINC Terms for : zziness 65747-8 Things occurring with dizziness, loss of balance or spinning sensation [PhenX]
+LOINC Terms for : zziness 65748-6 While you were having sudden spells of dizziness, loss of balance or spinning sensation, did any of these things occur [PhenX]
+LOINC Terms for : zziness 66236-1 Do you lose your balance because of dizziness or do you ever lose consciousness [Revised PARQ]
+LOINC Terms for : zziness 67411-9 Have you ever suffered from attacks of dizziness in which things seem to spin around you [PhenX]
+LOINC Terms for : zziness 69677-3 Bothered by dizziness in last 4 weeks [Reported.PHQ]
+LOINC Terms for : immune system 66377-3 Do you have cancer, leukemia, AIDS, or any other immune system problem [PhenX]
+LOINC Terms for : immune system 66387-2 Does the child have cancer, leukemia, AIDS, or any other immune system problem [PhenX]
+LOINC Terms for : immune system 66377-3 Do you have cancer, leukemia, AIDS, or any other immune system problem [PhenX]
+LOINC Terms for : immune system 66387-2 Does the child have cancer, leukemia, AIDS, or any other immune system problem [PhenX]
+LOINC Terms for : reactions 100251-8 Reminders of adverse event caused physical reactions
+LOINC Terms for : reactions 34084-4 FDA package insert Adverse reactions section
+LOINC Terms for : reactions 48765-2 Allergies and adverse reactions Document
+LOINC Terms for : reactions 52472-8 Allergies and Adverse Drug Reactions
+LOINC Terms for : reactions 52571-7 Known allergies or adverse drug reactions [CARE]
+LOINC Terms for : reactions 61940-3 I worried about other people's reactions to me in past 7 days [PROMIS]
+LOINC Terms for : reactions 63817-1 If you spent an hour in the mid-day sun for the first time without sunscreen, which of these reactions best describes what would happen to your skin [NHL]
+LOINC Terms for : reactions 67841-7 EMS allergies and adverse reactions Narrative NEMSIS
+LOINC Terms for : reactions 70225-8 Having physical reactions, heart pounding, trouble breathing or sweating, when something reminded you of a stressful experience from the past in the last month [PCL-C]
+LOINC Terms for : reactions 70773-7 My reactions in everyday situations have been slow in the past 7 days [FACIT]
+LOINC Terms for : reactions 81476-4 My reactions in everyday situations have been slow in past 7 days [PROMIS]
+LOINC Terms for : reactions 100251-8 Reminders of adverse event caused physical reactions
+LOINC Terms for : reactions 34084-4 FDA package insert Adverse reactions section
+LOINC Terms for : reactions 48765-2 Allergies and adverse reactions Document
+LOINC Terms for : reactions 52472-8 Allergies and Adverse Drug Reactions
+LOINC Terms for : reactions 52571-7 Known allergies or adverse drug reactions [CARE]
+LOINC Terms for : reactions 61940-3 I worried about other people's reactions to me in past 7 days [PROMIS]
+LOINC Terms for : reactions 63817-1 If you spent an hour in the mid-day sun for the first time without sunscreen, which of these reactions best describes what would happen to your skin [NHL]
+LOINC Terms for : reactions 67841-7 EMS allergies and adverse reactions Narrative NEMSIS
+LOINC Terms for : reactions 70225-8 Having physical reactions, heart pounding, trouble breathing or sweating, when something reminded you of a stressful experience from the past in the last month [PCL-C]
+LOINC Terms for : reactions 70773-7 My reactions in everyday situations have been slow in the past 7 days [FACIT]
+LOINC Terms for : reactions 81476-4 My reactions in everyday situations have been slow in past 7 days [PROMIS]
+LOINC Terms for : phyla 45243-3 Reason for discontinuation of anti-infective phrophylaxis medication
+LOINC Terms for : phyla 74152-0 Anaphylaxis action plan
+LOINC Terms for : phyla 45243-3 Reason for discontinuation of anti-infective phrophylaxis medication
+LOINC Terms for : phyla 74152-0 Anaphylaxis action plan
+LOINC Terms for : shortness of 28394-5 Shortness of breath at rest [HIV-SSC]
+LOINC Terms for : shortness of 28395-2 Shortness of breath with activity [HIV-SSC]
+LOINC Terms for : shortness of 45695-4 Inability to lie flat due to shortness of breath [Minimum Data Set]
+LOINC Terms for : shortness of 45705-1 Shortness of breath [Minimum Data Set]
+LOINC Terms for : shortness of 54564-0 Shortness of breath
+LOINC Terms for : shortness of 54841-2 Shortness of breath or trouble breathing with exertion in last 7 days [MDSv3]
+LOINC Terms for : shortness of 54842-0 Shortness of breath or trouble breathing when sitting at rest in last 7 days [MDSv3]
+LOINC Terms for : shortness of 54843-8 Shortness of breath or trouble breathing when lying flat in last 7 days [MDSv3]
+LOINC Terms for : shortness of 54844-6 None of the above shortness of breath symptoms in last 7 days [MDSv3]
+LOINC Terms for : shortness of 57237-0 Exertion level causing shortness of breath [CMS Assessment]
+LOINC Terms for : shortness of 64168-8 Are you troubled by shortness of breath when hurrying on level ground or walking up a slight hill [Rose Dyspnea Scale]
+LOINC Terms for : shortness of 64251-2 In the last 12 months, have you been awakened from sleep by shortness of breath or a feeling of tightness in your chest [PhenX]
+LOINC Terms for : shortness of 64441-9 Over the past 3 months, I have had shortness of breath [PhenX]
+LOINC Terms for : shortness of 69680-7 Bothered by shortness of breath in last 4 weeks [Reported.PHQ]
+LOINC Terms for : shortness of 82670-1 How often have you had shortness of breath during the past 4 weeks [ACT]
+LOINC Terms for : shortness of 82671-9 How often did your asthma symptoms (wheezing, coughing, shortness of breath, chest tightness or pain) wake you up at night or earlier than usual in the morning during the past 4 weeks [ACT]
+LOINC Terms for : shortness of 86472-8 Shortness of breath limited your ability to do what you wanted over the past 2 weeks [KCCQ]
+LOINC Terms for : shortness of 86484-3 Bothered by shortness of breath over the past 2 weeks [KCCQ]
+LOINC Terms for : shortness of 86485-0 Sleep sitting up in a chair or with at least 3 pillows to prop you up because of shortness of breath over the past 2 weeks [KCCQ]
+LOINC Terms for : shortness of 86675-6 Shortness of breath during assessment period [CMS Assessment]
+LOINC Terms for : shortness of 90376-5 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when dressing yourself without help [PROMIS]
+LOINC Terms for : shortness of 90377-3 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking 50 steps/paces on flat ground at a normal speed without stopping [PROMIS]
+LOINC Terms for : shortness of 90378-1 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking up 20 stairs (2 flights) without stopping [PROMIS]
+LOINC Terms for : shortness of 90379-9 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when preparing meals [PROMIS]
+LOINC Terms for : shortness of 90380-7 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when washing dishes [PROMIS]
+LOINC Terms for : shortness of 90381-5 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when sweeping or mopping [PROMIS]
+LOINC Terms for : shortness of 90382-3 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when making a bed [PROMIS]
+LOINC Terms for : shortness of 90383-1 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when lifting something weighing 10-20 lbs (about 4.5-9 kg, like a large bag of groceries) [PROMIS]
+LOINC Terms for : shortness of 90384-9 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when carrying something weighing 10-20 lbs (about 4.5-9 kg, like a large bag of groceries) from one room to another [PROMIS]
+LOINC Terms for : shortness of 90385-6 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking (faster than your usual speed) for 1/2 mile (almost 1 km) without stopping [PROMIS]
+LOINC Terms for : shortness of 90386-4 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when taking a bath without help [PROMIS]
+LOINC Terms for : shortness of 90387-2 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when taking a shower [PROMIS]
+LOINC Terms for : shortness of 90388-0 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when putting on socks or stockings [PROMIS]
+LOINC Terms for : shortness of 90389-8 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when standing for at least 5 minutes [PROMIS]
+LOINC Terms for : shortness of 90390-6 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking 10 steps/paces on flat ground at a normal speed without stopping [PROMIS]
+LOINC Terms for : shortness of 90391-4 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking 1/2 mile (almost 1 km) on flat ground at a normal speed without stopping [PROMIS]
+LOINC Terms for : shortness of 90392-2 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking up 5 stairs without stopping [PROMIS]
+LOINC Terms for : shortness of 90393-0 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking up 10 stairs (1 flight) without stopping [PROMIS]
+LOINC Terms for : shortness of 90394-8 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking up 30 stairs (3 flights) without stopping [PROMIS]
+LOINC Terms for : shortness of 90395-5 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when scrubbing the floor or counter [PROMIS]
+LOINC Terms for : shortness of 90396-3 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when lifting something weighing less than 5 lbs (about 2 kg, like a houseplant) [PROMIS]
+LOINC Terms for : shortness of 90397-1 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when lifting something weighing 5-10 lbs (about 2-4.5 kg, like a basket of clothes) [PROMIS]
+LOINC Terms for : shortness of 90398-9 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when lifting something weighing more than 20 lbs (about 9 kg, like a medium-sized suitcase) [PROMIS]
+LOINC Terms for : shortness of 90399-7 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when carrying something weighing less than 5 lbs (about 2 kg, like a houseplant) from one room to another [PROMIS]
+LOINC Terms for : shortness of 90400-3 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when carrying something weighing 5-10 lbs (about 2-4.5 kg, like a basket of clothes) from one room to another [PROMIS]
+LOINC Terms for : shortness of 90401-1 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when getting in or out of a car [PROMIS]
+LOINC Terms for : shortness of 90402-9 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when dining out [PROMIS]
+LOINC Terms for : shortness of 90403-7 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when low-intensity leisure activity (gardening, etc.) [PROMIS]
+LOINC Terms for : shortness of 90404-5 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when moderate-intensity leisure activity (bicycling on level terrain, etc.) [PROMIS]
+LOINC Terms for : shortness of 90405-2 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking (faster than your usual speed) for 50 steps without stopping [PROMIS]
+LOINC Terms for : shortness of 90406-0 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking (faster than your usual speed) for at least 1 mile (a little more than 1.5 km) without stopping [PROMIS]
+LOINC Terms for : shortness of 90407-8 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had singing or humming [PROMIS]
+LOINC Terms for : shortness of 90408-6 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when talking while walking [PROMIS]
+LOINC Terms for : shortness of 98514-3 Intensity of shortness of breath in past 7 days
+LOINC Terms for : shortness of 98516-8 Frequency of shortness of breath in past 7 days
+LOINC Terms for : shortness of 98517-6 Duration of shortness of breath in past 7 days
+LOINC Terms for : shortness of 98518-4 Shortness of breath in general in past 7 days
+LOINC Terms for : shortness of 98526-7 I am embarrassed by my shortness of breath in past 7 days
+LOINC Terms for : shortness of 98535-8 I get upset when I can't do something because of my shortness of breath in past 7 days
+LOINC Terms for : shortness of 28394-5 Shortness of breath at rest [HIV-SSC]
+LOINC Terms for : shortness of 28395-2 Shortness of breath with activity [HIV-SSC]
+LOINC Terms for : shortness of 45695-4 Inability to lie flat due to shortness of breath [Minimum Data Set]
+LOINC Terms for : shortness of 45705-1 Shortness of breath [Minimum Data Set]
+LOINC Terms for : shortness of 54564-0 Shortness of breath
+LOINC Terms for : shortness of 54841-2 Shortness of breath or trouble breathing with exertion in last 7 days [MDSv3]
+LOINC Terms for : shortness of 54842-0 Shortness of breath or trouble breathing when sitting at rest in last 7 days [MDSv3]
+LOINC Terms for : shortness of 54843-8 Shortness of breath or trouble breathing when lying flat in last 7 days [MDSv3]
+LOINC Terms for : shortness of 54844-6 None of the above shortness of breath symptoms in last 7 days [MDSv3]
+LOINC Terms for : shortness of 57237-0 Exertion level causing shortness of breath [CMS Assessment]
+LOINC Terms for : shortness of 64168-8 Are you troubled by shortness of breath when hurrying on level ground or walking up a slight hill [Rose Dyspnea Scale]
+LOINC Terms for : shortness of 64251-2 In the last 12 months, have you been awakened from sleep by shortness of breath or a feeling of tightness in your chest [PhenX]
+LOINC Terms for : shortness of 64441-9 Over the past 3 months, I have had shortness of breath [PhenX]
+LOINC Terms for : shortness of 69680-7 Bothered by shortness of breath in last 4 weeks [Reported.PHQ]
+LOINC Terms for : shortness of 82670-1 How often have you had shortness of breath during the past 4 weeks [ACT]
+LOINC Terms for : shortness of 82671-9 How often did your asthma symptoms (wheezing, coughing, shortness of breath, chest tightness or pain) wake you up at night or earlier than usual in the morning during the past 4 weeks [ACT]
+LOINC Terms for : shortness of 86472-8 Shortness of breath limited your ability to do what you wanted over the past 2 weeks [KCCQ]
+LOINC Terms for : shortness of 86484-3 Bothered by shortness of breath over the past 2 weeks [KCCQ]
+LOINC Terms for : shortness of 86485-0 Sleep sitting up in a chair or with at least 3 pillows to prop you up because of shortness of breath over the past 2 weeks [KCCQ]
+LOINC Terms for : shortness of 86675-6 Shortness of breath during assessment period [CMS Assessment]
+LOINC Terms for : shortness of 90376-5 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when dressing yourself without help [PROMIS]
+LOINC Terms for : shortness of 90377-3 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking 50 steps/paces on flat ground at a normal speed without stopping [PROMIS]
+LOINC Terms for : shortness of 90378-1 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking up 20 stairs (2 flights) without stopping [PROMIS]
+LOINC Terms for : shortness of 90379-9 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when preparing meals [PROMIS]
+LOINC Terms for : shortness of 90380-7 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when washing dishes [PROMIS]
+LOINC Terms for : shortness of 90381-5 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when sweeping or mopping [PROMIS]
+LOINC Terms for : shortness of 90382-3 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when making a bed [PROMIS]
+LOINC Terms for : shortness of 90383-1 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when lifting something weighing 10-20 lbs (about 4.5-9 kg, like a large bag of groceries) [PROMIS]
+LOINC Terms for : shortness of 90384-9 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when carrying something weighing 10-20 lbs (about 4.5-9 kg, like a large bag of groceries) from one room to another [PROMIS]
+LOINC Terms for : shortness of 90385-6 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking (faster than your usual speed) for 1/2 mile (almost 1 km) without stopping [PROMIS]
+LOINC Terms for : shortness of 90386-4 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when taking a bath without help [PROMIS]
+LOINC Terms for : shortness of 90387-2 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when taking a shower [PROMIS]
+LOINC Terms for : shortness of 90388-0 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when putting on socks or stockings [PROMIS]
+LOINC Terms for : shortness of 90389-8 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when standing for at least 5 minutes [PROMIS]
+LOINC Terms for : shortness of 90390-6 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking 10 steps/paces on flat ground at a normal speed without stopping [PROMIS]
+LOINC Terms for : shortness of 90391-4 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking 1/2 mile (almost 1 km) on flat ground at a normal speed without stopping [PROMIS]
+LOINC Terms for : shortness of 90392-2 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking up 5 stairs without stopping [PROMIS]
+LOINC Terms for : shortness of 90393-0 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking up 10 stairs (1 flight) without stopping [PROMIS]
+LOINC Terms for : shortness of 90394-8 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking up 30 stairs (3 flights) without stopping [PROMIS]
+LOINC Terms for : shortness of 90395-5 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when scrubbing the floor or counter [PROMIS]
+LOINC Terms for : shortness of 90396-3 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when lifting something weighing less than 5 lbs (about 2 kg, like a houseplant) [PROMIS]
+LOINC Terms for : shortness of 90397-1 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when lifting something weighing 5-10 lbs (about 2-4.5 kg, like a basket of clothes) [PROMIS]
+LOINC Terms for : shortness of 90398-9 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when lifting something weighing more than 20 lbs (about 9 kg, like a medium-sized suitcase) [PROMIS]
+LOINC Terms for : shortness of 90399-7 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when carrying something weighing less than 5 lbs (about 2 kg, like a houseplant) from one room to another [PROMIS]
+LOINC Terms for : shortness of 90400-3 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when carrying something weighing 5-10 lbs (about 2-4.5 kg, like a basket of clothes) from one room to another [PROMIS]
+LOINC Terms for : shortness of 90401-1 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when getting in or out of a car [PROMIS]
+LOINC Terms for : shortness of 90402-9 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when dining out [PROMIS]
+LOINC Terms for : shortness of 90403-7 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when low-intensity leisure activity (gardening, etc.) [PROMIS]
+LOINC Terms for : shortness of 90404-5 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when moderate-intensity leisure activity (bicycling on level terrain, etc.) [PROMIS]
+LOINC Terms for : shortness of 90405-2 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking (faster than your usual speed) for 50 steps without stopping [PROMIS]
+LOINC Terms for : shortness of 90406-0 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when walking (faster than your usual speed) for at least 1 mile (a little more than 1.5 km) without stopping [PROMIS]
+LOINC Terms for : shortness of 90407-8 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had singing or humming [PROMIS]
+LOINC Terms for : shortness of 90408-6 Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when talking while walking [PROMIS]
+LOINC Terms for : shortness of 98514-3 Intensity of shortness of breath in past 7 days
+LOINC Terms for : shortness of 98516-8 Frequency of shortness of breath in past 7 days
+LOINC Terms for : shortness of 98517-6 Duration of shortness of breath in past 7 days
+LOINC Terms for : shortness of 98518-4 Shortness of breath in general in past 7 days
+LOINC Terms for : shortness of 98526-7 I am embarrassed by my shortness of breath in past 7 days
+LOINC Terms for : shortness of 98535-8 I get upset when I can't do something because of my shortness of breath in past 7 days
